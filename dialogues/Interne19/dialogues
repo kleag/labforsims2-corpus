@@ -1,0 +1,34 @@
+d19000000 bonjour madame 
+p19000000 Bonjour docteur
+d19050001 on m'a dit que vous venez pour des douleurs abdominales est-ce que vous pouvez m'en dire plus 
+p19050001 Au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d19040002 d'accord est-ce que vous avez des antécédents particuliers 
+p19040002 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d19040053 est-ce que vous avez des allergies 
+p19040053 Pas d'allergies
+d19020044 dites-moi vous vivez seul ou pas 
+p19020044 J’habite avec mon mari et mes enfants.
+d19030005 vous prenez des traitements ou pas du tout 
+p19030005 Non, je ne suis pas sous traitement. des fois, quand j'ai mal, je prends du paracetamol. Mais sinon, j'ai pas de traitement.
+d19050006 alors par rapport à ces douleurs elles sont apparus quand 
+p19050006 Ça a commencé hier soir, d'un seul coup alors que je regardais la télévision après avoir mangé.
+d19050007 vous avez mal depuis quand 
+p19050007 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d19050048 et vous avez une modification du transit 
+p19050048 Le transit, c'est normal
+d19050049 et est-ce que vous avez vu du sang dans les selles ou quelque chose de spécial 
+p19050049 Non
+d190500710 est-ce que vous avez vu du sang dans les selles 
+p190500710 Non je n'ai pas remarqué du sang
+d190500411 vous avez des nausées des vomissements 
+p190500411 J'ai pas vomi, mais j'avais un peu de nausées. Oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+d190500312 et est-ce que vous pouvez me préciser le type de douleur 
+p190500312 C'est un peu comme un coup de poignard, là.
+d190500313 le type de douleur 
+p190500313 C'est un peu comme un coup de poignard, là.
+d190500314 et vous avez quel genre de douleur 
+p190500314 C'est un peu comme un coup de poignard, là.
+d190500115 vous avez de la fièvre 
+p190500115 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d190500816 et hier vous avez mangé chez vous 
+p190500816 Oui une pizza

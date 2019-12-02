@@ -1,0 +1,38 @@
+d11000000 Bonjour 
+p11000000 Bonjour docteur
+d11000001 Bonjour 
+p11000001 Bonjour docteur
+d11000002 qu'est-ce qui vous amène aux urgences 
+p11000002 J'ai très mal en haut du ventre un peu à droite
+d11050003 la douleur a commencé quand 
+p11050003 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d11050034 est-ce que vous pouvez me décrire votre douleur 
+p11050034 Au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d11050025 est-ce qu'elle irradie  quelque part 
+p11050025 Au niveau du ventre et ça descend un peu sur le côté
+d11050016 est-ce que vous avez de la fièvre des frissons 
+p11050016 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d11050047 est-ce que vous avez de la nausée est-ce que vous avez vomi 
+p11050047 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d11050048 est-ce que vous avez la diarrhée est-ce que vous êtes constipé 
+p11050048 Non, le transit, c'est normal
+d11050049 est-ce que vous avez de la diarrhée 
+p11050049 Non
+d110400210 est-ce que vous avez déjà été opéré est-ce que vous avez déjà été opéré 
+p110400210 Non, j'ai jamais été opérée, j'ai juste eu une césarienne pour un de mes enfants.
+d110400011 est-ce que vous avez des maladie en particulier 
+p110400011 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d110100112 êtes-vous marié 
+p110100112 Oui j'ai un mari
+d110100213 avez-vous des enfants 
+p110100213 2 enfants
+d110100314 vous fumez 
+p110100314 Je n'ai pas compris
+d110200015 est-ce que vous fumez 
+p110200015 Je ne fume pas
+d110500416 sur 10 à combien évaluez-vous la douleur 
+p110500416 De zéro à dix je dirai quatre sur dix mais au début c'était plus fort
+d110600017 on va sur la Wii 
+p110600017 Je n'ai pas compris
+d110100418 quel âge avez-vous 
+p110100418 42 ans

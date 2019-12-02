@@ -1,0 +1,54 @@
+d25000000 Bonjour 
+p25000000 Bonjour docteur
+d25000001 alors qu'est-ce qui se passe racontez-moi 
+p25000001 J'ai mal au ventre
+d25050002 depuis quand 
+p25050002 ça a commencé hier soir. j'étais en train de regarder la télé, et puis c'est venu d'un seul coup.
+d25050083 c'était avant ou après manger 
+p25050083 Effectivement, je venais de manger. J'avais mangé 2 pizzas, avec mes enfants. Et puis j'étais en train de regarder la télé.Et puis après c'est avec le Doliprane, ça avait été un petit peu mieux. Mais au début, c'était vraiment
+d25050084 est-ce que vous avez mangé hier soir 
+p25050084 Oui une pizza
+d25050005 c'était après le mal de ventre 
+p25050005 Oui, au début c'était très douloureux et maintenant ça l'est moins, mais la douleur est toujours présente
+d25030006 vous avez pris des médicaments 
+p25030006 Du paracétamol de temps en temps
+d25050047 est-ce que vous avez des diarrhée ou des constipation 
+p25050047 Non, le transit, c'est normal
+d25050018 est-ce que vous avez de la fièvre 
+p25050018 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d25060009 est-ce que d'autres gens autour de vous sont malades 
+p25060009 Je n'ai pas compris
+d250600010 les personnes de votre entourage sont-elles malade comme vous 
+p250600010 Je n'ai pas compris
+d250500711 Y'a-t-il d'autres personnes malades dans votre entourage, présentant les mêmes symptômes 
+p250500711 Non
+d250500612 vous avez toujours mal actuellement 
+p250500612 oui mais moins fort
+d250500013 Où est ce que vous avez mal 
+p250500013 Oui, au début c'était très douloureux et maintenant ça l'est moins, mais la douleur est toujours présente
+d250500414 est-ce que vous avez envie de vomir où est-ce que vous avez vomi 
+p250500414 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d250400015 est-ce que vous avez des soucis de santé particuliers 
+p250400015 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d250400216 vous n'avez jamais été opéré du ventre 
+p250400216 Non, j'ai jamais été opérée, j'ai juste eu une césarienne pour un de mes enfants.
+d250200317 est-ce que vous avez eu des rapports non protégés récemment 
+p250200317 non
+d250300018 Est-ce que vous avez pris des médicaments récemment 
+p250300018 du paracétamol de temps en temps
+d250400419 une chance que vous soyez enceinte 
+p250400419 J'ai un stérilet
+d250200320 vous avez un rapport sexuel 
+p250200320 non
+d250600021 et par rapport au repas du soir 
+p250600021 Je n'ai pas compris
+d250600022 compagnon 
+p250600022 Je n'ai pas compris
+d250100123 est-ce que vous êtes marié est-ce que vous avez un ami un compagnon 
+p250100123 Oui j'ai un mari
+d250100224 vous avez des enfants avez-vous des enfants 
+p250100224 2 enfants
+d250600025 qui ne sont pas malade 
+p250600025 Je n'ai pas compris
+d250400026 D'accord. Est-ce que vous avez déjà eu la même douleur auparavant ? Est-ce que vous avez déjà été malade et ça vous a fait la même chose? 
+p250400026 Non

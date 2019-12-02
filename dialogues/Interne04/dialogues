@@ -1,0 +1,52 @@
+d04000000 Bonjour Madame. Alors, est-ce que vous pouvez me raconter un peu, ce qui se passe ? Pourquoi vous êtes ici ? 
+p04000000 Bonjour. Bah, j’ai mal au ventre.
+d04050001 C’est-à-dire ? Ca a commencé quand ? 
+p04050001 Bah ça a commencé hier soir. J’étais en train de regarder la télé. Et puis là, c’est venu un peu d’un seul coup. Là, j’ai commencé à avoir mal au ventre.
+d04050052 Vous avez mal quelque part en particulier ? 
+p04050052 J’ai mal en haut du ventre, là juste sous le sternum.
+d04040003 D’accord. Et vous avez déjà eu une douleur comme ça ? Vous connaissez ? 
+p04040003 Bah, j’ai déjà eu un peu mal comme ça, mais c’était moins fort quand même… Là c’était beaucoup plus fort et puis surtout ça a duré plus longtemps.
+d04050024 D’accord. Et là, vous avez encore mal ? 
+p04050024 Non, là j’ai plus mal… Enfin, j’ai beaucoup moins mal.
+d04030005 OK. Vous avez pris des antalgiques ou pas? 
+p04030005 Bah, hier oui, quand j’ai eu très mal, j’ai pris 2 comprimés de paracétamol, et ça a un peu amélioré les choses.
+d04050086 OK. Vous aviez mangé quelque chose de particulier, pas comme d’habitude ? 
+p04050086 Bah non, rien de particulier. Enfin hier, pas trop de le temps de préparer à manger. Donc on a mangé des pizzas avec les enfants.
+d04050047 D’accord. Vous avez pas eu envie de vomir ? 
+p04050047 Bah, j’ai pas vomi, mais j’avais un peu de nausées. Oui, au moment où j’ai eu très mal, j’avais un peu de nausées, oui.
+d04050018 D’accord. Vous avez de la fièvre ou pas ? 
+p04050018 Euh, j’ai pas pris ma température. Mais je me sentais un peu fiévreuse, oui. Mais j’ai pas pris la température.
+d04050049 Et vous avez des problèmes de transit en ce moment ? plus que d’habitude ? 
+p04050049 Bah, non. Enfin…je suis toujours de base un peu constipée. Mais sinon, non, pas plus que d’habitude.
+d040400010 Et du coup cette douleur, vous l’avez déjà connue avant ? 
+p040400010 Bah, pas complètement la même chose. Mais j’ai eu un peu mal comme ça oui. Mais c’était beaucoup moins fort.
+d040500611 Et ça passait de temps en temps ? 
+p040500611 Et ça passait tout seul en quelques minutes. Mais là ça a duré 2 bonnes heures.
+d040500412 D’accord. Et est-ce que vous avez déjà eu la peau jaune ? ou la conjonctive des yeux ? Vous avez jamais remarqué ? 
+p040500412 Non, non, ça, j’ai rien remarqué. Non, j’ai pas vu de jaunisse.
+d040400013 D’accord. Sinon je voulais revoir avec vous du coup est-ce que vous avez des antécédants particuliers ? des maladies ? 
+p040400013 Bah non, rien de particulier. J’ai été opérée des dents de sagesse.
+d040400014 rien de particuliers ? 
+p040400014 Voilà. Et, j’ai 2 enfants et j’ai fait une fausse couche. Mais sinon, non, non, ça va.
+d040400015 Pas de diabète ? 
+p040400015 Non, pas de diabète.
+d040400016 Hypertension ? 
+p040400016 Non pas de tension non plus.
+d040400217 Et à part les dents de sagesse, vous avez pas eu d’autres opérations ? 
+p040400217 Bah, j’ai eu une césarienne pour un de mes deux enfants.
+d040400018 D’accord. Mais rien au niveau haut de l’abdomen ? Vous avez toujours votre vésicule biliaire ? 
+p040400018 Oui. Parce que vous croyez que ça peut être ça ?
+d040600019 Pour l’instant j’essaye de voir. 
+p040600019 D’accord.
+d040600020 Je pose juste mes questions après je vais vous examiner. 
+p040600020 Non parce que j’ai regardé un peu sur internet et j’ai vu que peut-être ça pourrait être des calculs dans la vésicule biliaire. Et vous croyez que ça peut être ça ?
+d040400521 Après entre tout ce qu’on regarde sur internet, tout et n’importe quoi, je vous conseille vraiment pas. C’est plus phénomène d’anxiété qu’autre chose, je pense. Du coup, d’accord. Est-ce que vous avez des allergies particulières ? 
+p040400521 Euh bah j’ai le nez qui coule un peu, à cause du pollen. Mais sinon, non, pas d’autres allergies.
+d040200022 Et est-ce que vous fumez ? 
+p040200022 Non.
+d040200023 Vous buvez de temps en temps ? 
+p040200023 Vraiment très rarement : une fois par mois, je prends un apéritif.
+d040200024 Pour les occasions ? 
+p040200024 Voilà.
+d040600025 OK. Donc, je vais vous examiner. 
+p040600025 D’accord.

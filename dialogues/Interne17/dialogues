@@ -1,0 +1,56 @@
+d17000000 Bonjour 
+p17000000 Bonjour docteur
+d17000001 qu'est-ce qui vous amène aux urgences 
+p17000001 J'ai très mal en haut du ventre un peu à droite
+d17050002 depuis quand 
+p17050002 ça a commencé hier soir. j'étais en train de regarder la télé, et puis c'est venu d'un seul coup.
+d17030003 avez-vous pris un médicament 
+p17030003 Du paracétamol de temps en temps
+d17050014 avez-vous de la fièvre 
+p17050014 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d17000005 comment ça va 
+p17000005 J'ai mal au ventre
+d17050006 depuis combien de temps 
+p17050006 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d17050007 depuis combien de temps avez-vous mal au ventre 
+p17050007 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d17050048 est-ce que vous avez vomi 
+p17050048 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d17050049 comment était le vomi 
+p17050049 J'ai pas vomi, mais j'avais un peu de nausées. Oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+d170500810 juste après le repas 
+p170500810 Effectivement, je venais de manger. J'avais mangé 2 pizzas, avec mes enfants. Et puis j'étais en train de regarder la télé.Et puis après c'est avec le Doliprane, ça avait été un petit peu mieux. Mais au début, c'était vraiment
+d170500811 vous avez vomi juste après le repas 
+p170500811 Effectivement, je venais de manger. J'avais mangé 2 pizzas, avec mes enfants. Et puis j'étais en train de regarder la télé.Et puis après c'est avec le Doliprane, ça avait été un petit peu mieux. Mais au début, c'était vraiment
+d170500812 qu'est-ce que vous avez mangé 
+p170500812 Une pizza
+d170500113 est-ce que vous avez de la fièvre 
+p170500113 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d170500714 est-ce que vous avez frissonner 
+p170500714 Oui j'ai froid
+d170500415 est-ce que vous avez de la diarrhée 
+p170500415 Non
+d170500416 de quelle couleur sont les urines 
+p170500416 Je n'ai pas fait attention à la couleur
+d170500417 couleur sont vos urines 
+p170500417 Non je n'ai rien remarqué de particulier
+d170500418 quelle est la couleur de vos urines 
+p170500418 Je n'ai pas fait attention à la couleur
+d170500419 est-ce que vous avez des urines foncées 
+p170500419 Non pas vraiment
+d170500220 est-ce que la douleur du ventre diffuse 
+p170500220 Oui tout à fait, comme une ceinture mais pas vers la mâchoire.
+d170500221 est-ce que vous avez mal dans le dos 
+p170500221 Non pas dans le dos
+d170500422 est-ce que quelqu'un d'autre dans votre entourage a vomi 
+p170500422 Non non personne dans mon entourage n'a vomi
+d170500423 est-ce que quelqu'un qui a mangé la pizza avec vous a vomi 
+p170500423 Non non personne dans mon entourage n'a vomi
+d170500524 est-ce que la douleur se situe en haut du ventre 
+p170500524 C'est là. En fait c'est juste sous le sternum. c'est l'estomac non?
+d170400025 est-ce que vous avez des antécédents médicaux 
+p170400025 non rien de particulier
+d170200026 est-ce que vous fumez 
+p170200026 Je ne fume pas
+d170200027 est-ce que vous buvez de l'alcool 
+p170200027 Je ne bois pas

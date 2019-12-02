@@ -1,0 +1,42 @@
+d01000000 Bonjour Madame. Pourquoi vous venez ici ? 
+p01000000 Bonjour Bah, j’ai mal au ventre.
+d01050051 Vous avez mal où au ventre ? 
+p01050051 J’ai mal ici, un peu en haut, là, juste sous le sternum.
+d01050002 OK. Ca marche. Et c’est depuis combien de temps ? 
+p01050002 Bah, là, ça fait depuis hier soir. Hier j’étais en train de regarder la télé. Et puis, c’est venu un peu d’un seul coup ici.
+d01040003 Vous avez déjà eu des douleurs comme ça auparavant ? 
+p01040003 Oui, il y a quelques temps, mais c’était moins fort.
+d01040074 Vous étiez allée voir un médecin pour ça ? 
+p01040074 Bah non, parce que c’était passé tout seul et je ne suis pas allée consulter. Et puis finalement ça s’est amélioré comme ça.
+d01050025 Et cette douleur, ça fait quoi ? Ca brûle? Elle reste au même endroit ? Elle se balade un peu dans le ventre ? 
+p01050025 Bah, c’est une douleur qui est venue un peu d’un coup. Au début, un peu comme un coup de poignard. Ca reste un peu par là, mais ça va un  peu aussi sur le côté. Et un peu dans le dos.
+d01050066 Très bien. Est-ce qu’il y a quelque chose qui va aggraver la douleur ou qui va la calmer ? 
+p01050066 Euh, bah là quand je bouge pas trop et que je me mets sur le côté, ça va mieux. Sinon j’ai pris un peu de Doliprane et ça a eu tendance à améliorer les choses. Aussi quand je respire fort, ça me fait plus mal.
+d01010047 Vous avez quel âge, Madame ? 
+p01010047 42 ans.
+d01040008 Est-ce que vous avez déjà eu des problèmes médicaux, Madame ? 
+p01040008 Non, rien de particulier. J’ai deux enfants et j’ai fait une fausse couche en 97.
+d01040009 Vous avez jamais eu de problèmes de vésicule, par hasard ? 
+p01040009 Je n’en sais rien.
+d010400210 Très bien. Est-ce que vous avez déjà été opérée, Madame ? 
+p010400210 Bah  non,  j’ai jamais été opérée parce que j’ai juste eu une césarienne pour un de de mes enfants.
+d010400011 Et à part ça, vous avez eu d’autres problèmes de santé ? de diabète ? de tension ? 
+p010400011 J’ai été opérée des dents de sagesse. Sinon, la tension, tout ça, c’est bien.
+d010300112 Vous ne prenez pas de traitement à la maison ? 
+p010300112 Euh non, pas de médicament.
+d010400113 Vous avez une contraception ? 
+p010400113 J’ai un stérilet.
+d010400614 D’accord, ok. Et est-ce que dans votre famille, il y a des problèmes de santé particuliers ? 
+p010400614 Non, rien de particulier dans ma famille.
+d010400515 Est-ce que vous avez des allergies ? 
+p010400515 Non, j’ai pas… Si, un peu au pollen ! J’ai de l’allergie un peu au pollen. Mais sinon, rien de grave.
+d010600016 OK. Ca marche. Euh D’accord, pas de souci. Vous vivez où, Madame? Vous vivez seule, tout ça ? 
+p010600016 J’habite à Gif-sur-Yvette. Et puis, j’habite avec mon mari et mes enfants.
+d010200217 D’accord, ça marche. Vous êtes active ? 
+p010200217 Euh bah oui, je suis enseignante en école maternelle.
+d010200018 Très bien. Est-ce que vous fumez, Madame ? 
+p010200018 Non.
+d010200019 Non, vous fumez pas. Est-ce que vous prenez des apéros de temps en temps ? 
+p010200019 De manière très, très épisodique.
+d010200020 C’est à peu près quoi ? Une fois par mois ? 
+p010200020 Oui, une fois par mois, à peu près ouais.

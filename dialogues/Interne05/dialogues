@@ -1,0 +1,38 @@
+d05000000 Bonjour Madame. Vous êtes Madame ? 
+p05000000 Bonjour. Je suis Madame Marguerite.
+d05010041 Vous avez quel âge ? 
+p05010041 J’ai 42 ans.
+d05050002 Et vous venez parce que vous avez mal au ventre. Alors racontez-moi quand est-ce que ça a commencé. 
+p05050002 Bah, j’ai mal au ventre, et ça a commencé hier soir. Là ça a commencé d’un seul coup, alors que j’étais en train de regarder la télé.
+d05050003 Ca a commencé hier soir ? 
+p05050003 Ca a commencé hier soir, et puis c’était très fort d’emblée. C’est venu d’un seul coup.
+d05050024 Est-ce que vous aviez mal autre part ? Est-ce que la douleur, elle partait dans un sens ou dans un autre ? 
+p05050024 Moi j’avais mal en fait là, en haut, juste sous le sternum, en haut du ventre. Et puis ça allait un peu sur le côté-là. Et un peu vers le haut, vers l’épaule.
+d05050025 Que à droite ? 
+p05050025 Bah, dans le ventre, c’est plutôt au milieu. Mais effectivement, ça allait plutôt un peu à droite. Peut-être un peu dans le dos aussi.
+d05050046 D’accord. Est-ce que vous avez vomi ? 
+p05050046 Non, j’ai pas vomi. Mais c’est vrai que là quand la douleur était très forte, j’avais des nausées. Là, ça va un peu mieux. Mais au début j’avais des nausées.
+d05030007 Et vous avez essayé de prendre quelque chose pour soulager la douleur? 
+p05030007 Bah oui justement. Parce que ça me faisait tellement mal que j’arrivais pas à dormir donc j’ai pris 2 Doliprane. Et bon là, la douleur est toujours présente, mais ça va un peu mieux quand même.
+d05040008 D’accord. Est-ce que vous avez déjà eu la même douleur auparavant ? Est-ce que vous avez déjà été malade et ça vous a fait la même chose? 
+p05040008 Eh ben, j’ai déjà eu un peu la même chose. Mais c’était beaucoup moins fort. Et puis ça durait moins longtemps.
+d05040009 C’était quand ? 
+p05040009 Ben, il y a 3 mois, là, je me souviens, j’étais chez ma sœur, j’ai eu une douleur comme ça mais c’est passé très vite.
+d050500610 D’accord. Et là c’est resté ? 
+p050500610 Bah maintenant, elle est moins forte. Mais là, la douleur est toujours présente.
+d050500111 Vous avez eu de la fièvre ? 
+p050500111 Bah je sais pas. Mais je me suis sentie un peu  fiévreuse, oui. J’ai pas pris la température, mais je me sentais un peu fiévreuse.
+d050500812 Est-ce que la douleur, ça vous a empêché de manger ? 
+p050500812 Bah hier soir, en fait, j’avais déjà mangé. Et là ce matin, j’avais moins mal, donc j’ai pu manger, quand même.
+d050300013 D’accord. Est-ce que vous prenez des traitements tous les jours ? Des médicaments ? 
+p050300013 Euh non, je prends pas de médicament. Bah, des fois, quand j’ai mal, je prends du paracetamol. Mais sinon, j’ai pas de traitement.
+d050300014 Même pas même la pilule? 
+p050300014 Non, j’ai un stérilet.
+d050400015 OK. Est-ce que vous avez des pathologies comme de la tension, du diabète… ? 
+p050400015 Euh non, j’ai pas de problème particulier de santé. J’ai été opéré des dents de sagesse. J’ai 2 enfants et j’ai fait une fausse couche.
+d050400216 Césarienne ou … ? 
+p050400216 Bah, le premier était par voie basse et la deuxième, c’était une césarienne.
+d050400617 Et dans votre famille, il y a des problèmes de santé ? 
+p050400617 Euh non.  Bah, j’ai pas trop de contact avec ma famille. Mais rien de particulier. Ah si ! Il y a ma grand-mère qui a fait un infarctus.
+d050400618 A quel âge ? 
+p050400618 87 ans.

@@ -1,0 +1,30 @@
+d12000000 Bonjour 
+p12000000 Bonjour docteur
+d12000001 comment ça va pourquoi vous êtes aux urgences 
+p12000001 J'ai une forte douleur au ventre
+d12060002 combien de temps 
+p12060002 Je n'ai pas compris
+d12050003 combien de temps est-ce que vous avez mal au ventre 
+p12050003 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d12060004 brutalement 
+p12060004 Je n'ai pas compris
+d12050025 est-ce que la douleur est apparue brutalement 
+p12050025 Oui apparue très fort, là j'ai toujours mal, c'est moins fort
+d12050056 et où ce que c'est exactement 
+p12050056 J'ai mal au niveau du ventre sous le sternum je crois
+d12050057 où est-ce que la douleur est localisée 
+p12050057 J'ai mal au niveau du ventre sous le sternum je crois
+d12050028 ok c'est plutôt à droite ou à gauche 
+p12050028 Seulement sur le côté droit
+d12050019 est-ce que vous avez de la fièvre 
+p12050019 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d120500210 d'accord est-ce que c'est plutôt à droite ou à gauche 
+p120500210 Seulement sur le côté droit
+d120500511 d'accord où avez-vous mal exactement 
+p120500511 J'ai mal au niveau du ventre
+d120600012 ok 
+p120600012 Je n'ai pas compris
+d120600013 fièvre 
+p120600013 Je n'ai pas compris
+d120500114 est-ce que vous avez de la fièvre 
+p120500114 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.

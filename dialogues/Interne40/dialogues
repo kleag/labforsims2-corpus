@@ -1,0 +1,66 @@
+d40000000 comment allez-vous 
+p40000000 J'ai mal au ventre
+d40050031 quel type de douleur 
+p40050031 C'est un peu comme un coup de poignard, là.
+d40050002 depuis quand la douleur a commencé 
+p40050002 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d40040003 Est-ce que cette douleur est déjà apparue auparavant 
+p40040003 Oui ça a commencé hier soir
+d40040004 Avez-vous souffert des maladies dans le passé 
+p40040004 Qu'entendez-vous par maladies passé
+d40040065 Il y at-il des maladies cardio-vasculaire dans votre famille 
+p40040065 Non. j'ai pas trop de contact avec ma famille. Mais rien de particulier. Ah si ! Il y a ma grand-mère qui a fait un infarctus.
+d40050026 Est-ce que la douleur va ailleurs 
+p40050026 Non.
+d40040007 Est-ce que vous souffriez d’une maladie d’ulcère 
+p40040007 Non
+d40040078 Est-ce que vous consultez un cardiologue 
+p40040078 Non
+d40040079 Voyez-vous un autre spécialiste 
+p40040079 Non
+d400500410 vous présentez d’autres symptômes 
+p400500410 Non
+d400500411 Est-ce que vous avez vomi 
+p400500411 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d400500812 vous n’aviez rien mangé 
+p400500812 une pizza
+d400500813 Étiez-vous à jeûn 
+p400500813 non
+d400500414 A-t-il du sang dans votre vomissement 
+p400500414 Non, j'ai pas vomi, mais j'avais un peu de nausées. Oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+d400500215 Ressentez-vous toujours la douleur 
+p400500215 Oui j'ai toujours mal au même endroit, c'est moins fort
+d400300016 Avez-vous bu des médicaments 
+p400300016 Du paracétamol de temps en temps
+d400300017 Avez-vous pris de l’aspirine 
+p400300017 Aspirine non, j'ai pris deux dolipranes hier.
+d400500418 Avez-vous des battements de coeur anormaux 
+p400500418 Non
+d400500119 Êtes-vous fiévreux 
+p400500119 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d400500120 Est-ce que vous avez de la fièvre 
+p400500120 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d400200121 Avez-vous voyagé récemment 
+p400200121 Non
+d400500722 Est-ce que vous avez des frissons 
+p400500722 Oui j'ai froid
+d400400723 Est-ce que vous consultez un dentiste 
+p400400723 Non
+d400500724 Est-ce que vous toussez 
+p400500724 Non
+d400500725 Crachez-vous souvent 
+p400500725 non
+d400500426 Êtes-vous sujettes au reflux 
+p400500426 Non
+d400500227 la douleur va t-elle dans le dos 
+p400500227 Si, effectivement la douleur, elle va un peu sur la droite. Enfin des deux côtés d'ailleurs, mais plutôt un peu sur la droite, et puis un peu dans les épaules, et un peu dans le dos.
+d400500428 Est-ce que vous souffrez des douleurs dans les jambes 
+p400500428 non
+d400100529 qu’est-ce que vous faites dans la vie comme travail 
+p400100529 Je suis enseignante en école maternelle.
+d400100530 qu’est-ce que vous faites comme métier 
+p400100530 Je suis enseignante en école maternelle.
+d400200231 Pratiquez-vous une activité sportive 
+p400200231 Pas d'activité sportive
+d400400732 Consultez-vous un dentiste 
+p400400732 Non

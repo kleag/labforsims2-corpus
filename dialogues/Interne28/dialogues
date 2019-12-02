@@ -1,0 +1,44 @@
+d28000000 Bonjour 
+p28000000 Bonjour docteur
+d28000001 dites-moi ce qui va pas 
+p28000001 J'ai une forte douleur au ventre
+d28050002 depuis depuis combien de temps vous avez mal 
+p28050002 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d28050083 après manger 
+p28050083 Effectivement, je venais de manger. J'avais mangé 2 pizzas, avec mes enfants. Et puis j'étais en train de regarder la télé.Et puis après c'est avec le Doliprane, ça avait été un petit peu mieux. Mais au début, c'était vraiment
+d28050024 est-ce que il y a une irradiation 
+p28050024 Et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule
+d28050025 est-ce que la douleur va vers la droite ou la gauche 
+p28050025 ça reste un peu par là, mais ça va un peu aussi sur le côté
+d28050026 quel côté 
+p28050026 ça irradie vers le côté droit
+d28010057 travailler quel domaine 
+p28010057 Dans l'éducation, assistance maternelle.
+d28040008 est-ce que vous avez des problèmes cardiaques 
+p28040008 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d28040009 est-ce que vous avez déjà eu cette douleur auparavant 
+p28040009 Oui, il y a quelques temps, mais c'était moins fort
+d280500610 est-ce que c'est soulagée par la prise alimentaire 
+p280500610 Je n'en sais rien docteur
+d280500611 soulagée par la prise alimentaire 
+p280500611 Je n'en sais rien docteur
+d280500612 est-ce que quand vous mangez ça fait moins mal 
+p280500612 Je n'en sais rien docteur
+d280400013 est-ce que vous avez des antécédents de lithiase vésiculaire 
+p280400013 Lithiase, non je ne souffre pas de ça
+d280600014 pour l'examen 
+p280600014 Je n'ai pas compris
+d280300015 est-ce que vous avez pris des médicaments 
+p280300015 Oui j'ai pris deux dolipranes.
+d280500616 est-ce que ça à soulager les douleurs 
+p280500616 Oui un peu mais pas complètement.
+d280500417 est-ce que vous avez vomi 
+p280500417 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d280500418 de quelle couleur était le vomi 
+p280500418 J'ai pas vomi, mais j'avais un peu de nausées. Oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+d280500419 est-ce que vous avez déjà vomi du sang 
+p280500419 Non, j'ai pas vomi, mais j'avais un peu de nausées. Oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+d280500420 est-ce que vous avez eu des selles très très noires 
+p280500420 Non pas vraiment
+d280500721 est-ce que vous avez déjà eu du sang dans les selles 
+p280500721 Non je n'ai pas remarqué du sang

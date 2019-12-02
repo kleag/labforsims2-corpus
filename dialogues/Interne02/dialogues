@@ -1,0 +1,100 @@
+d02000000 Bonjour. Pourquoi vous venez ici ? 
+p02000000 Bonjour
+d02050001 Vous avez mal au ventre. Mais c’est arrivé depuis quand ? 
+p02050001 Bah, j’ai mal au ventre.
+d02050042 Après le repas ? Vous aviez mangé avant ? 
+p02050042 Euh, bah ça a commencé hier soir. Euh, j’étais en train de regarder la télé, et puis c’est venu d’un seul coup.
+d02050023 D’accord. Et elle a duré longtemps la douleur ? 
+p02050023 Bah oui, j’avais mangé. C’était pas très longtemps après.  J’étais en train de regarder la télé, là, 2 heures après le repas.
+d02050044 D’accord. Et vous la quoteriez à combien sur une échelle de 1 à 10 ? 
+p02050044 Bah là, elle est toujours présente. Au début, c’était très très fort. Et là c’est un peu moins fort, mais elle est toujours présente.
+d02050055 Et elle est où au niveau du ventre ? Vous pouvez nous montrer. 
+p02050055 Bah au début c’était très fort.  J’ai jamais eu mal comme ça, sauf quand j’ai eu mon accouchement. Donc ça devait être 8-9 sur 10. Puis là ça va un petit peu mieux. Donc là c’est plutôt 3-4 sur 10.
+d02050026 Et ça part pas sur les côtés ? Ca monte pas ? Ca va pas dans le dos ? 
+p02050026 Bah, c’est là. En fait c’est juste sous le sternum. Là, juste en haut du ventre.
+d02050037 D’accord. Vous diriez que ça fait comme une flèche ou pas ? 
+p02050037 Bah si, effectivement la douleur, elle va un peu sur la droite. Enfin des deux côtés d’ailleurs, mais plutôt un peu sur la droite, et puis un peu dans les épaules, et un peu dans le dos.
+d02050038 Comme un coup de poignard ? 
+p02050038 Bah au début, ouais.  Au début ça faisait un peu comme un coup de poignard.
+d02050019 OK. Vous avez pas eu de fièvre ? Vous avez regardé votre température ? 
+p02050019 Ouais
+d020400010 Et vous avez pas de céphalées ? 
+p020400010 Bah, j’ai pas regardé la température, mais je me sentais un peu fiévreuse.
+d020500011 Et c’est douloureux quand on touche ? 
+p020500011 Euh non.
+d020500612 Euh…OK. Du coup, ça passe un peu quand on mange ou ça vient quand on mange? 
+p020500612 Bah je sais pas.
+d020100013 OK.  Et du coup, vous vivez où là ? 
+p020100013 Bah, je sais pas si vraiment c’est le fait d’avoir mangé, qui m’a déclenché la douleur.
+d020200414 Vos enfants et votre mari ? 
+p020200414 J’habite Gif-sur-Yvette, dans un appartement avec mes deux enfants.
+d020400415 OK. Et c’est quand que vous avez eu votre dernier enfant ? 
+p020400415 Oui.
+d020400416 Et ça s’était  bien passé les accouchements ? 
+p020400416 Bah il a 7 ans là. 7 ans.
+d020400417 Et il n’y a pas eu de  complications post-accouchements ? 
+p020400417 Bah, il y a eu une fois c’était par voie basse, et une fois par césarienne. Et j’ai fait une fausse couche.
+d020400018 OK. Vous n’avez pas eu d’autres maladies. Vous avez de l’hypertension ? du diabète ? 
+p020400018 Non
+d020400219 Donc la seule chirurgie que vous avez eu, c’est ça et la césarienne ? 
+p020400219 Non. J’ai été opérée des dents de sagesse, mais sinon j’ai pas d’autres maladies particulières.
+d020400020 OK. Et vous avez pas de cholestérol ? 
+p020400020 Oui
+d020200121 Vous avez voyagé récemment ? 
+p020200121 Non
+d020200322 Très bien…Donc vous restez en France quoi ? 
+p020200322 Non. Enfin, je vais dans Le Raguet, là, pour les vacances. Mais sinon…
+d020400523 OK. D’accord. Euh…Vous avez des allergies ? 
+p020400523 Oui
+d020500424 Le nez qui coule. Ah d’accord. Très bien 
+p020500424 Oui, en fait je suis allergique au pollen. J’ai le nez qui coule.
+d02000000 Bonjour. Pourquoi vous venez ici ? 
+p02000000 Bonjour
+d02050001 Vous avez mal au ventre. Mais c’est arrivé depuis quand ? 
+p02050001 Bah, j’ai mal au ventre.
+d02050042 Après le repas ? Vous aviez mangé avant ? 
+p02050042 Euh, bah ça a commencé hier soir. Euh, j’étais en train de regarder la télé, et puis c’est venu d’un seul coup.
+d02050023 D’accord. Et elle a duré longtemps la douleur ? 
+p02050023 Bah oui, j’avais mangé. C’était pas très longtemps après.  J’étais en train de regarder la télé, là, 2 heures après le repas.
+d02050044 D’accord. Et vous la quoteriez à combien sur une échelle de 1 à 10 ? 
+p02050044 Bah là, elle est toujours présente. Au début, c’était très très fort. Et là c’est un peu moins fort, mais elle est toujours présente.
+d02050055 Et elle est où au niveau du ventre ? Vous pouvez nous montrer. 
+p02050055 Bah au début c’était très fort.  J’ai jamais eu mal comme ça, sauf quand j’ai eu mon accouchement. Donc ça devait être 8-9 sur 10. Puis là ça va un petit peu mieux. Donc là c’est plutôt 3-4 sur 10.
+d02050026 Et ça part pas sur les côtés ? Ca monte pas ? Ca va pas dans le dos ? 
+p02050026 Bah, c’est là. En fait c’est juste sous le sternum. Là, juste en haut du ventre.
+d02050037 D’accord. Vous diriez que ça fait comme une flèche ou pas ? 
+p02050037 Bah si, effectivement la douleur, elle va un peu sur la droite. Enfin des deux côtés d’ailleurs, mais plutôt un peu sur la droite, et puis un peu dans les épaules, et un peu dans le dos.
+d02050038 Comme un coup de poignard ? 
+p02050038 Bah au début, ouais.  Au début ça faisait un peu comme un coup de poignard.
+d02050019 OK. Vous avez pas eu de fièvre ? Vous avez regardé votre température ? 
+p02050019 Ouais
+d020400010 Et vous avez pas de céphalées ? 
+p020400010 Bah, j’ai pas regardé la température, mais je me sentais un peu fiévreuse.
+d020500011 Et c’est douloureux quand on touche ? 
+p020500011 Euh non.
+d020500612 Euh…OK. Du coup, ça passe un peu quand on mange ou ça vient quand on mange? 
+p020500612 Bah je sais pas.
+d020100013 OK.  Et du coup, vous vivez où là ? 
+p020100013 Bah, je sais pas si vraiment c’est le fait d’avoir mangé, qui m’a déclenché la douleur.
+d020200414 Vos enfants et votre mari ? 
+p020200414 J’habite Gif-sur-Yvette, dans un appartement avec mes deux enfants.
+d020400415 OK. Et c’est quand que vous avez eu votre dernier enfant ? 
+p020400415 Oui.
+d020400416 Et ça s’était  bien passé les accouchements ? 
+p020400416 Bah il a 7 ans là. 7 ans.
+d020400417 Et il n’y a pas eu de  complications post-accouchements ? 
+p020400417 Bah, il y a eu une fois c’était par voie basse, et une fois par césarienne. Et j’ai fait une fausse couche.
+d020400018 OK. Vous n’avez pas eu d’autres maladies. Vous avez de l’hypertension ? du diabète ? 
+p020400018 Non
+d020400219 Donc la seule chirurgie que vous avez eu, c’est ça et la césarienne ? 
+p020400219 Non. J’ai été opérée des dents de sagesse, mais sinon j’ai pas d’autres maladies particulières.
+d020400020 OK. Et vous avez pas de cholestérol ? 
+p020400020 Oui
+d020200121 Vous avez voyagé récemment ? 
+p020200121 Non
+d020200322 Très bien…Donc vous restez en France quoi ? 
+p020200322 Non. Enfin, je vais dans Le Raguet, là, pour les vacances. Mais sinon…
+d020400523 OK. D’accord. Euh…Vous avez des allergies ? 
+p020400523 Oui
+d020500424 Le nez qui coule. Ah d’accord. Très bien 
+p020500424 Oui, en fait je suis allergique au pollen. J’ai le nez qui coule.

@@ -1,0 +1,44 @@
+d10000000 Bonjour 
+p10000000 Bonjour docteur
+d10000001 où avez-vous mal 
+p10000001 J'ai mal au niveau du ventre
+d10000002 pourquoi venez-vous aux urgences 
+p10000002 J'ai mal au ventre
+d10050003 depuis combien de temps 
+p10050003 ça a commencé hier soir. j'étais en train de regarder la télé, et puis c'est venu d'un seul coup.
+d10040004 est-ce que vous avez déjà eu ce type de douleur 
+p10040004 Oui, il y a quelques temps, mais c'était moins fort
+d10040005 ça vous était déjà arrivé 
+p10040005 Il y a 2 à 3 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul
+d10050016 est-ce que vous avez eu de la fièvre 
+p10050016 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d10050017 avez-vous de la fièvre 
+p10050017 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d10050018 avez-vous des frissons 
+p10050018 Oui j'ai froid
+d10050029 est-ce que la douleur va dans le dos 
+p10050029 Oui elle va un peu dans le dos
+d100500210 est-ce que la douleur va dans les épaules 
+p100500210 Si, effectivement la douleur, elle va un peu sur la droite. Enfin des deux côtés d'ailleurs, mais plutôt un peu sur la droite, et puis un peu dans les épaules, et un peu dans le dos.
+d100500311 est-ce que ça fait comme une ceinture 
+p100500311 Oui tout à fait, comme une ceinture
+d100500312 douleur est-ce que ça vous serre 
+p100500312 Oui cela me serre un peu
+d100500413 est-ce que les urines sont foncées 
+p100500413 Non pas vraiment
+d100500414 est-ce que les selles sont très décoloré 
+p100500414 Non pas vraiment
+d100300015 est-ce que vous prenez des médicaments 
+p100300015 Non, je prends pas de médicament. des fois, quand j'ai mal, je prends du paracetamol. Mais sinon, j'ai pas de traitement.
+d100400116 est-ce que vous prenez une contraception 
+p100400116 J'ai un stérilet.
+d100100017 où habitez-vous 
+p100100017 Gif sur yvette
+d100500518 vous avez mal où 
+p100500518 J'ai mal au niveau du ventre
+d100400219 est-ce que vous avez déjà été opéré 
+p100400219 J'ai été opérée des dents de sagesse.
+d100400020 est-ce que vous avez des problèmes médicaux 
+p100400020 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d100500221 est-ce que la douleur va vers les épaules 
+p100500221 Si, effectivement la douleur, elle va un peu sur la droite. Enfin des deux côtés d'ailleurs, mais plutôt un peu sur la droite, et puis un peu dans les épaules, et un peu dans le dos.

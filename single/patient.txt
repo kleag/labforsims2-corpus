@@ -1,0 +1,2701 @@
+P0002 +++  bonjour. bah, j'ai mal au ventre.
+P0004 +++  bonjour. bah, j'ai mal au ventre.
+P0006 +++  bonjour. bah, j'ai mal au ventre.
+P0008 +++  bonjour. bah, j'ai mal au ventre.
+P0011 +++  bah ça a commencé hier soir, d'un coup alors que j'étais en train de regarder la télé.
+P0014 +++  bah ça fait mal là, là, en haut du ventre, juste sous le sternum
+P0017 +++  bah c'est une douleur qui est venue d'un seul coup comme ça, qui depuis n'a pas complètement disparu. alors c'est vrai qu'au début c'était très fort. et puis, j'arrivais pas à dormir. donc j'ai pris 2 comprimés de paracétamol. et donc là maintenant la douleur est moins forte, mais elle est toujours là.
+P0020 +++  non, je ne prends pas beaucoup de médicaments. normalement, je ne prends pas trop de médicaments.
+P0023 +++  non.
+P0026 +++  maintenant que vous me demandez comme ça aussi fortes, c'est la première fois. mais c'est vrai, qu'il y a 2-3 mois, j'étais chez ma sœur et j'ai eu une douleur un  petit peu comme ça, mais beaucoup moins forte, et qui est passé presque tout de suite.
+P0029 +++  alors là je me souviens plus.
+P0032 +++  hier, c'était 2 heures après manger, oui, ou 1 ou 2 heures après manger.
+P0035 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier ah si! oui, je suis allergique au pollen.
+P0038 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi.
+P0041 +++  bonjour. bah, j'ai mal au ventre.
+P0044 +++  bah ça a commencé hier soir. j'étais en train de regarder la télé. et puis là, c'est venu un peu d'un seul coup. là, j'ai commencé à avoir mal au ventre.
+P0047 +++  j'ai mal en haut du ventre, là juste sous le sternum.
+P0050 +++  bah, j'ai déjà eu un peu mal comme ça, mais c'était moins fort quand même là c'était beaucoup plus fort et puis surtout ça a duré plus longtemps.
+P0053 +++  non, là j'ai plus mal enfin, j'ai beaucoup moins mal.
+P0056 +++  bah, hier oui, quand j'ai eu très mal, j'ai pris 2 comprimés de paracétamol, et ça a un peu amélioré les choses.
+P0059 +++  bah non, rien de particulier. enfin hier, pas trop de le temps de préparer à manger. donc on a mangé des pizzas avec les enfants.
+P0062 +++  bah, j'ai pas vomi, mais j'avais un peu de nausées. oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+P0065 +++  euh, j'ai pas pris ma température. mais je me sentais un peu fiévreuse, oui. mais j'ai pas pris la température.
+P0068 +++  bah, non. enfinje suis toujours de base un peu constipée. mais sinon, non, pas plus que d'habitude.
+P0071 +++  bah, pas complètement la même chose. mais j'ai eu un peu mal comme ça oui. mais c'était beaucoup moins fort.
+P0074 +++  et ça passait tout seul en quelques minutes. mais là ça a duré 2 bonnes heures.
+P0077 +++  non, non, ça, j'ai rien remarqué. non, j'ai pas vu de jaunisse.
+P0080 +++  bah non, rien de particulier. j'ai été opérée des dents de sagesse.
+P0083 +++  voilà. et, j'ai 2 enfants et j'ai fait une fausse couche. mais sinon, non, non, ça va.
+P0086 +++  non pas cette maladie
+P0089 +++  non pas cette maladie non plus.
+P0092 +++  bah, j'ai eu une césarienne pour un de mes deux enfants.
+P0095 +++  oui. parce que vous croyez que ça peut être ça?
+P0098 +++  d'accord.
+P0101 +++  non parce que j'ai regardé un peu sur internet et j'ai vu que peut-être ça pourrait être des calculs dans la vésicule biliaire. et vous croyez que ça peut être ça?
+P0104 +++  euh bah j'ai le nez qui coule un peu, à cause du pollen. mais sinon, non, pas d'autres allergies.
+P0107 +++  non.
+P0110 +++  vraiment très rarement: une fois par mois, je prends un apéritif.
+P0113 +++  voilà.
+P0116 +++  d'accord.
+P0119 +++  bonjour. je suis madame marguerite.
+P0122 +++  j'ai 42 ans.
+P0125 +++  bah, j'ai mal au ventre, et ça a commencé hier soir. là ça a commencé d'un seul coup, alors que j'étais en train de regarder la télé.
+P0128 +++  ça a commencé hier soir, et puis c'était très fort d'emblée. c'est venu d'un seul coup.
+P0131 +++  moi j'avais mal en fait là, en haut, juste sous le sternum, en haut du ventre. et puis ça allait un peu sur le côté-là.et un peu vers le haut, vers l'épaule.
+P0134 +++  bah, dans le ventre, c'est plutôt au milieu.mais effectivement, ça allait plutôt un peu à droite. peut-être un peu dans le dos aussi.
+P0137 +++  non, j'ai pas vomi. mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. là, ça va un peu mieux. mais au début j'avais des nausées.
+P0140 +++  bah oui justement. parce que ça me faisait tellement mal que j'arrivais pas à dormir donc j'ai pris 2 doliprane. et bon là, la douleur est toujours présente, mais ça va un peu mieux quand même.
+P0143 +++  eh ben, j'ai déjà eu un peu la même chose. mais c'était beaucoup moins fort. et puis ça durait moins longtemps.
+P0146 +++  ben, il y a 3 mois, là, je me souviens, j'étais chez ma sœur, j'ai eu une douleur comme ça mais c'est passé très vite.
+P0149 +++  bah maintenant, elle est moins forte. mais là, la douleur est toujours présente.
+P0152 +++  bah je sais pas. mais je me suis sentie un peu  fiévreuse, oui. j'ai pas pris la température, mais je me sentais un peu fiévreuse.
+P0155 +++  bah hier soir, en fait, j'avais déjà mangé. et là ce matin, j'avais moins mal, donc j'ai pu manger, quand même.
+P0158 +++  euh non, je prends pas de médicament. bah, des fois, quand j'ai mal, je prends du paracetamol. mais sinon, j'ai pas de traitement.
+P0161 +++  non, j'ai un stérilet.
+P0164 +++  euh non, j'ai pas de problème particulier de santé. j'ai été opéré des dents de sagesse. j'ai 2 enfants et j'ai fait une fausse couche.
+P0167 +++  bah, le premier était par voie basse et la deuxième, c'était une césarienne.
+P0170 +++  euh non.  bah, j'ai pas trop de contact avec ma famille.mais rien de particulier. ah si! il y a ma grand-mère qui a fait un infarctus.
+P0173 +++  87 ans.
+P0176 +++  unk
+P0179 +++  bonjour bah, j'ai mal au ventre.
+P0182 +++  bah j'ai mal ici, là, en haut.
+P0185 +++  bah ça a commencé hier soir, là, d'un seul coup, alors que j'étais en train de regarder la télé.
+P0188 +++  bah effectivement, je venais de manger. j'avais mangé 2 pizzas, avec mes enfants. et puis j'étais en train de regarder la télé.et puis après c'est avec le doliprane, ça avait été un petit peu mieux. mais au début, c'était vraiment très fort.
+P0191 +++  bah, c'est vrai que quand je respirais fort, ça faisait plus mal. et donc là comme hier soir j'étais un peu dans mon lit, là à regarder la télé, après je me suis mis un peu sur le côté. et c'est comme ça que j'avais le moins mal. un peu sur le côté, j'avais moins mal.
+P0194 +++  d'accord.
+P0197 +++  bonjour. bah, j'ai mal au ventre.
+P0200 +++  bah ça a commencé hier soir, d'un seul coup, alors que je regardais la télé.
+P0203 +++  bah c'est en haut du ventre, là,  euh juste sous le sternum, là. a cet endroit-là.
+P0206 +++  c'est venu d'un seul coup, oui.
+P0209 +++  je pense que ça devait être entre une et deux heures après manger.  j'étais en train de regarder la télé.
+P0212 +++  comme ça, aussi fortes, non. alors, effectivement, il y a 2-3 mois, j'étais chez ma sœur, et j'ai eu un petit peu la même chose, mais c'était moins fort et ça passait beaucoup plus vite.
+P0215 +++  bah là, la douleur, elle est toujours présente en fait. euh, au début, c'était très fort. et puis hier soir, comme j'arrivais pas à dormir, là, j'ai pris un doliprane , et ça s'est un peu amélioré. donc j'ai pu dormir. mais là j'ai toujours un peu mal.
+P0218 +++  là, juste après, hier soir. il devait être 22 heures.
+P0221 +++  euh non, il y a pas d'autre endroit. mais la douleur, elle est là, et elle va un peu sur le côté, euh..  ici là, un peu du côté droit et puis un peu vers l'épaule aussi.  et un peu dans le dos.
+P0224 +++  j'ai 42 ans.
+P0227 +++  oui. j'ai 2 enfants: ils ont 7 et 9 ans.
+P0230 +++  oui. je suis enseignante en école maternelle.
+P0233 +++  alors, j'ai été opérée des dents de sagesse. et puis, oui, pour mon accouchement, pour mon deuxième enfant, j'ai eu une césarienne.
+P0236 +++  non. pas d'autres opérations.
+P0239 +++  non j'ai pas de maladie particulière. mais je suis allergique au pollen.
+P0242 +++  non.  je prends pas de médicament. pas de médicament.
+P0245 +++  bah, j'ai pas vomi. mais c'est vrai que quand la douleur était très forte, là au début, j'avais un peu de nausées quand même, hein.
+P0248 +++  non, j'ai pas vomi. et sinon, je me sentais un peu fiévreuse.  j'ai pas pris la température, mais je me sentais pas très bien, quoi.
+P0251 +++  non, il y avait pas vraiment de frisson. mais je sentais que j'étais un peuenfin, pas très bien.
+P0254 +++  bah le transit, je suis un peu constipée. mais sinon ça fonctionne plutôt normalement. mais de ce côté-là, c'est toujours un peu pareil.
+P0257 +++  bonjour. eh ben j'ai mal au ventre. j'ai eu mal au ventre très fort, là, hier.
+P0260 +++  eh ben, c'est venu hier soir. là, j'ai beaucoup moins mal. mais hier soir, c'était très fort.
+P0263 +++  bah en fait, oui, j'avais mangé, il y a pas très longtemps, et j'étais en train de regarder la télé. et c'est venu d'un seul coup.
+P0266 +++  bah, j'ai pas vomi, mais j'avais un peu la nausée, ouais. j'avais un petit peu envie de vomir.
+P0269 +++  non, j'ai pas remarqué. non, le transit, ça va, c'est normal.
+P0272 +++  bah, ces derniers temps, non, rien de particulier. non, non, je mange normalement. hier, je pense qu'on a pas fait d'excès. voilà. pas trop le temps de préparer à manger. mais sinon, non, rien de particulier.
+P0275 +++  alors, j'ai eu des douleurs un peu comme ça, mais c'était beaucoup moins fort. et puis surtout ça durait moins longtemps. sinon, j'ai été opéré des dents de sagesse. et puis, j'ai 2 enfants.
+P0278 +++  7 et 9 ans.
+P0281 +++  bah, il y a eu une fois, c'était une césarienne. la première fois, c'était par voie basse. sinon, oui, j'ai fait une fausse couche aussi.
+P0284 +++  j'ai moins mal.
+P0287 +++  oui, j'ai moins mal que hier.
+P0290 +++  hier, c'était 8 sur 10. là, c'est plutôt 3-4 sur 10.
+P0293 +++  bah ça m'a empêché de dormir. du coup, j'ai pris 2 doliprane. et avec le doliprane, ça allait mieux.
+P0296 +++  d'accord.
+P0299 +++  bah, au début, c'est venu d'un seul coup. un peu comme un coup de poignard. voilà, en haut du ventre, là.
+P0302 +++  bonjour. je m'appelle madame marguerite.
+P0305 +++  j'ai 42 ans.
+P0308 +++  bah, j'ai mal au ventre.
+P0311 +++  bah, ça a commencé hier soir d'un seul coup. et la douleur est apparue là, brutalement.
+P0314 +++  c'était hier soir.
+P0317 +++  bah, je viens parce que ça s'est un peu amélioré en fait. j'ai pris un peu de doliprane®, mais là la douleur, elle est toujours présente.
+P0320 +++  c'est ça.
+P0323 +++  oui.
+P0326 +++  c'était très intense. c'était très fort. j'ai rarement eu une douleur comme ça, sauf quand j'ai accouché. et je dirais que c'était presque 8-9 sur 10.
+P0329 +++  bah c'était là, en haut du ventre, juste sous le sternum.
+P0332 +++  bah, c'était surtout là. mais c'est vrai que maintenant que vous le dites, ça allait un peu sur la droite, là, comme ça. même un peu des deux côtés, mais peut-être plus à droite, et un peu vers l'épaule et dans le dos.
+P0335 +++  ah bah oui, oui, oui. ça m'a un peu coupé la respiration. et donc c'est vrai que quand je respirais fort là, ça faisait plus mal.
+P0338 +++  bah hier soir quand j'étais dans mon lit, là après effectivement je me suis mis un peu sur le côté-là.  c'est vrai que c'est comme ça que j'avais le moins mal.
+P0341 +++  non c'était effectivement après le repas du soir. j'ai mangé hier soir avec mes enfants. rien de particulier. on a pas eu trop le temps donc j'avais acheté des pizzas, mais c'est venu alors que je regardais la télé, je sais pas peut-être une heure après.
+P0344 +++  j'ai pas vomi, mais effectivement, j'avais un peu envie de vomir quand même.
+P0347 +++  euh, je sais pas j'ai pas pris la température, mais je me sentais un peu fiévreuse, ouais.
+P0350 +++  bah, j'ai pas remarqué quelque chose d'anormale.
+P0353 +++  bah je me sentais un peu fiévreuse. a un moment, j'étais vraiment pas bien. mais non pas vraiment de sueurs. pas de malaise.
+P0356 +++  euh, non. non,non.
+P0359 +++  alors en fait, c'est ça comme c'était très fort, et que j'arrivais pas à dormir, j'ai pris 2 comprimés de doliprane®. puis là, ça allait un petit peu mieux. et je me suis dit, ça va passer; et puis, en fait là, la douleur est quand même toujours présente. c'est moins fort, mais j'ai toujours mal.
+P0362 +++  bah au début, ça a fait vraiment très, très mal. vraiment, une crise! et là, c'est plutôt un fond douloureux, qui est un fond résiduel.
+P0365 +++  bah, je me sens mieux, mais je me sens pas parfaitement bien. là, la douleur est toujours là. on va dire 3-4 sur 10.
+P0368 +++  oui, c'est au même endroit. et puis c''est vrai que quand je respire plus fort, ça me fait plus mal.
+P0371 +++  bah, j'essaie de me souvenir. mais c'est vrai que maintenant que vous le dites, il y a 2-3 mois là, j'étais chez ma sœur, j'avais eu un peu la même chose, mais c'était beaucoup moins fort.
+P0374 +++  umh.
+P0377 +++  oui, c'était passé tout seul.
+P0380 +++  bah, en quelques minutes ça a duré. c'était très bref. et puis, c'est passé tout seul.
+P0383 +++  non, rien de particulier. bah, je suis allergique au pollen.
+P0386 +++  non, pas de médicament.
+P0389 +++  non.
+P0392 +++  oui.
+P0395 +++  bah, je vois mon gynécologue une fois par an, parce que j'ai un stérilet.
+P0398 +++  bah non, je prends juste du paracétamol quand j'ai mal.
+P0401 +++  oui. il y a juste ma grand-mère qui a fait un infarctus, alors qu'elle avait 87 ans.
+P0404 +++  unk
+P0406 +++ 42 ans.
+P0409 +++ j'habite à gif-sur-yvette.
+P0412 +++ je suis enseignante en école maternelle.
+P0415 +++ j'ai 2 enfants et j'ai fait une fausse couche en 97.
+P0418 +++ non.
+P0421 +++ qu'entendez vous par antécédents médicaux ?
+P0424 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0427 +++ non.
+P0430 +++ non.
+P0433 +++ non, mais j'ai un stérilet.
+P0436 +++ j'ai été opérée des dents de sagesse.
+P0439 +++ j'ai mal au ventre.
+P0442 +++ j'ai mal ici, je crois que c'est l'estomac là?, c'est ça docteur?
+P0445 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0448 +++ oui mais un peu moins forte qu'au début.
+P0451 +++ oui, il y a 1 mois, j'étais chez ma sœur, et c'est passé tout seul.
+P0454 +++ non pas vraiment.
+P0457 +++ non pas vraiment.
+P0460 +++ oui c'est ça.
+P0463 +++ oui tout à fait, comme une ceinture mais pas vers la mâchoire.
+P0466 +++ oui en effet, oui à droite
+P0469 +++ non pas vraiment.
+P0472 +++ oui un peu quand je me mets comme ça.
+P0475 +++ oui c'est vrai.
+P0478 +++ oui, j'ai pris deux dolipranes.
+P0481 +++ je prends du paracétamol de temps en temps.
+P0484 +++ là je dirai 4/10 mais au début c'était plus fort.
+P0487 +++ oui 2 fois hier soir.
+P0490 +++ non.
+P0493 +++ oui un peu.
+P0496 +++ oui.
+P0499 +++ oui.
+P0502 +++ j'ai un stérilet avec des hormones et je n'ai pas de règles.
+P0505 +++ non.
+P0508 +++ non.
+P0511 +++ non.
+P0514 +++ non.
+P0517 +++ non.
+P0520 +++ non.
+P0523 +++ non pas vraiment.
+P0526 +++ non pas vraiment.
+P0529 +++ oui.
+P0532 +++ oui, 37.5, c'est de la fièvre non?
+P0535 +++ non.
+P0538 +++ non.
+P0541 +++ simone labforsims.
+P0544 +++ je suis française, mon père est d'origine italienne et ma mère française.
+P0547 +++ j'habite en appartement à gif/yvette.
+P0550 +++ j'habite en appartement à gif/yvette.
+P0553 +++ je suis enseignante en école maternelle.
+P0556 +++ j'ai 42 ans.
+P0559 +++ j'ai 42 ans.
+P0562 +++ j'ai 42 ans.
+P0565 +++ j'ai mal au ventre.
+P0568 +++ j'ai mal au ventre.
+P0571 +++ j'ai mal là, ça a commencé d'un coup hier.
+P0574 +++ j'ai mal là, ça a commencé d'un coup hier.
+P0577 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0580 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0583 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0586 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0589 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0592 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0595 +++ j'ai mal ici, je crois que c'est l'estomac là, c'est ça docteur?
+P0598 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0601 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0604 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0607 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0610 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0613 +++ il y a 1 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul.
+P0616 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0619 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0622 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0625 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0628 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0631 +++ ça a commencé hier soir, d'un seul coup alors que je regardais la tv après avoir mangé.
+P0634 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0637 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0640 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0643 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0646 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0649 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0652 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0655 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0658 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0661 +++ oui j'ai toujours mal, mais c'est moins fort.
+P0664 +++ c'est un peu comme un coup de poignard, là.
+P0667 +++ c'est un peu comme un coup de poignard, là.
+P0670 +++ non, c'est un peu comme un coup de poignard, là.
+P0673 +++ non, c'est un peu comme un coup de poignard, là.
+P0676 +++ non, c'est un peu comme un coup de poignard, là.
+P0679 +++ non, c'est un peu comme un coup de poignard, là.
+P0682 +++ oui en effet.
+P0685 +++ oui, j'avais mangé.
+P0688 +++ oui, j'avais mangé.
+P0691 +++ oui, j'avais mangé.
+P0694 +++ non, pas vraiment.
+P0697 +++ non, je ne bois pas d'alcool.
+P0700 +++ c'est apparu 2 heures après le repas.
+P0703 +++ c'est apparu 2 heures après le repas.
+P0706 +++ une pizza.
+P0709 +++ non, en dehors de 2 comprimés de paracétamol quand la douleur est apparue.
+P0712 +++ non.
+P0715 +++ à non, je ne crois pas.
+P0718 +++ à non, je ne crois pas.
+P0721 +++ à non, je ne crois pas.
+P0724 +++ au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente.
+P0727 +++ au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente.
+P0730 +++ au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente.
+P0733 +++ au début c'était 8/10 mais maintenant c'est 4/10.
+P0736 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0739 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0742 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0745 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0748 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0751 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0754 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0757 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0760 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0763 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0766 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0769 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0772 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0775 +++ et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P0778 +++ oui c'est vrai.
+P0781 +++ non.
+P0784 +++ non.
+P0787 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0790 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0793 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0796 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0799 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0802 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0805 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0808 +++ j'ai la nausée et j'ai vomi 2 fois.
+P0811 +++ c'était ce que j'ai mangé hier.
+P0814 +++ non, c'était ce que j'ai mangé hier.
+P0817 +++ non, c'était ce que j'ai mangé hier.
+P0820 +++ non, c'était ce que j'ai mangé hier.
+P0823 +++ oui, un peu.
+P0826 +++ le transit, c'est normal.
+P0829 +++ le transit, c'est normal.
+P0832 +++ le transit, c'est normal.
+P0835 +++ non, le transit, c'est normal.
+P0838 +++ non, le transit, c'est normal.
+P0841 +++ oui j'ai pris 2 comprimés de paracétamol.
+P0844 +++ oui j'ai pris 2 comprimés de paracétamol.
+P0847 +++ oui j'ai pris 2 comprimés de paracétamol.
+P0850 +++ oui j'ai pris 2 comprimés de paracétamol.
+P0853 +++ oui un peu mais pas complètement.
+P0856 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0859 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0862 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0865 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0868 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0871 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0874 +++ quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0877 +++ non, quand je bouge pas trop, comme ça, ça me fait moins mal.
+P0880 +++ oui, 37.5, c'est de la fièvre non?
+P0883 +++ oui, 37.5, c'est de la fièvre non?
+P0886 +++ oui, 37.5, c'est de la fièvre non?
+P0889 +++ oui, 37.5, c'est de la fièvre non?
+P0892 +++ non, je ne bois pas d'alcool.
+P0895 +++ non, je ne bois pas d'alcool.
+P0898 +++ non je ne fume pas.
+P0901 +++ non je ne fume pas.
+P0904 +++ non je ne fume pas.
+P0907 +++ non.
+P0910 +++ non je n'ai pas d'allergie.
+P0913 +++ non je n'ai pas d'allergie.
+P0916 +++ non.
+P0919 +++ non.
+P0922 +++ non.
+P0925 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0928 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0931 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0934 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0937 +++ mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P0940 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0943 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0946 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0949 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0952 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0955 +++ je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P0958 +++ non, enfin je ne sais pas trop ce que c'est.
+P0961 +++ non.
+P0964 +++ non, enfin je ne sais pas trop ce que c'est.
+P0967 +++ non je ne crois pas, enfin je n'en sais rien.
+P0970 +++ je prends la pilule et c'est tout.
+P0973 +++ je prends la pilule et c'est tout.
+P0976 +++ je prends la pilule et c'est tout.
+P0979 +++ oui je suis réglée normalement.
+P0982 +++ oui je suis réglée normalement.
+P0985 +++  c'était juste après avoir mangé hier soir
+P0988 +++  non docteur le transit est normal
+P0991 +++  bonjour.
+P0993 +++  j'ai mal au ventre
+P0995 +++  j'ai de très fortes douleurs au ventre
+P0997 +++  je ne me sens pas bien, très mal au ventre
+P0999 +++  hypertension non
+P1001 +++  je ne crois pas souffrir de l'hypertension
+P1003 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1005 +++  je viens parce que j'ai de très fortes douleurs au ventre
+P1007 +++  attendez que je me rappelle, alors le docteur noyer, médecin généraliste
+P1009 +++  non docteur
+P1011 +++  je viens parce que j'ai de très fortes douleurs au ventre
+P1013 +++  d'accord
+P1015 +++  je suis un peu allergique au pollen
+P1017 +++  juste ça
+P1019 +++  non docteur
+P1021 +++  je suis un peu allergique au pollen
+P1023 +++  une césarienne et j'ai été opérée des dents de sagesse
+P1025 +++  je ne sais plus docteur
+P1027 +++  non docteur
+P1029 +++  non docteur
+P1031 +++  j'ai des douleurs au ventre, sinon rien d'autres
+P1033 +++  alors, je prends du paracétamol
+P1035 +++  je ne sais pas docteur
+P1037 +++  non docteur
+P1039 +++  aucune idée, je suis désolé docteur
+P1041 +++  jamais j'ai eu ce type d'opération
+P1043 +++  je ne fume pas du tout
+P1045 +++  je ne fume pas
+P1047 +++  non je ne bois pas
+P1049 +++  je n'aime pas le goût de l'alcool.
+P1051 +++  non docteur
+P1053 +++  oui, j'ai 2 enfants
+P1055 +++  une par voie basse et une autre par césarienne
+P1057 +++  pardon ?
+P1059 +++  bonjour.
+P1061 +++  je viens parce que j'ai de très fortes douleurs au ventre
+P1063 +++  bonjour, docteur.
+P1065 +++  j'ai très mal au ventre
+P1067 +++  je viens parce que j'ai très mal au ventre
+P1069 +++  vous voulez savoir autre chose docteur ?
+P1071 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1073 +++  j'ai 42 ans
+P1075 +++  pas d'activités sportives
+P1077 +++  enseignante en école maternelle
+P1079 +++  pas d'activités sportives
+P1081 +++  oui, j'en ai 2  de 12 et 87ans
+P1083 +++  1 mètre 77 centimètres
+P1085 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1087 +++  82 kilos
+P1089 +++  je pèse 82 kilos
+P1091 +++  non, je ne fume pas
+P1093 +++  vous voyez, aucune idée
+P1095 +++  je n'ai jamais eu de diabète .
+P1097 +++  vous voyez, pas à ma connaissance
+P1099 +++  mes habitudes alimentaires sont normales
+P1101 +++  je ne suis aucun régime spécial
+P1103 +++  vous voyez, j'en prends comme tout le monde, sans excès
+P1105 +++  non, je ne bois pas. au pire un verre de vin par semaine.
+P1107 +++  pardon ?
+P1109 +++  non pas d'antécédents
+P1111 +++  je n'ai jamais eu de maladies importantes
+P1113 +++  je n'ai pas d'allergie
+P1115 +++  pas spécialement
+P1117 +++  je n'ai jamais subi ce type d'opération .
+P1119 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P1121 +++  non, pas spécialement
+P1123 +++  non docteur
+P1125 +++  non
+P1127 +++  non, rien de tout ça
+P1129 +++  bon ... c'est tout docteur ?
+P1131 +++  je suis simone
+P1133 +++  j'ai 42 ans
+P1135 +++  je mesure environ 1 mètre 74
+P1137 +++ alors je viens pour une forte douleur au ventre
+P1139 +++  je suis retraité, mais je suis ancien maraîcher .
+P1141 +++  retraité, mais je suis ancien maraîcher
+P1143 +++  j'ai très mal au ventre depuis hier soir docteur
+P1145 +++  ça a commencé hier soir après avoir mangé
+P1147 +++  ça a commencé hier soir après avoir mangé
+P1149 +++  exactement
+P1151 +++  j'ai des crachats jaunes depuis hier soir à 23 heures
+P1153 +++  jaunes
+P1155 +++  j'ai des crachats jaunes depuis hier soir à 23 heures
+P1157 +++  je ne prends rien
+P1159 +++  je n'ai aucune allergie, autant que je sache
+P1161 +++  non, je ne fume pas
+P1163 +++  jamais fumer
+P1165 +++  je ne fume pas du tout
+P1167 +++  non docteur je ne fume pas
+P1169 +++  rien de particulier
+P1171 +++  j'ai été opérée des dents de sagesse et mon dernier accouchement était par césarienne
+P1173 +++  aucune idée.
+P1175 +++  non je ne suis pas sous traitement artérielle
+P1177 +++  juste ce que j'ai vous ai dit
+P1179 +++  pardon ?
+P1181 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1183 +++  non, je ne prends pas de drogues.
+P1185 +++  retraité, mais je suis ancien maraîcher
+P1187 +++  pas d'activités sportives
+P1189 +++  oui, exactement
+P1191 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1193 +++  non, pas ces symptômes.
+P1195 +++  je ne sais vraiment pas
+P1197 +++  non, pas particulièrement.
+P1199 +++  non, rien de tout ça
+P1201 +++  environ 78 kilos
+P1203 +++  exactement
+P1205 +++  en effet
+P1207 +++  j'ai des douleurs en haut du ventre juste sous le sternum
+P1209 +++  j'ai des douleurs en haut du ventre juste sous le sternum
+P1211 +++  pas spécialement
+P1213 +++  non, je n'ai visité aucun pays récemment
+P1215 +++  à ma connaissance, je n'ai aucune allergie
+P1217 +++  je m'appelle irène .
+P1219 +++  je suis irène .
+P1221 +++  je m'excuse, mais je ne souhaite pas donner cette information.
+P1223 +++  j'ai 41 ans
+P1225 +++  assistante maternelle en crèche
+P1227 +++  mariée
+P1229 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1231 +++  oui, j'ai 2 enfants
+P1233 +++  pardon ?
+P1235 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1237 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1239 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1241 +++  je mesure environ 1 mètre 65 centimètres
+P1243 +++  je pèse 62 kilos
+P1245 +++  pas de régime particulier
+P1247 +++  pardon ?
+P1249 +++ je ne suis pas sous traitement
+P1251 +++  je bois très rarement, quand il y a des fêtes , c'est tout
+P1253 +++  non, je ne fume pas
+P1255 +++  je ne fume pas du tout
+P1257 +++  je ne fume pas
+P1259 +++  de la marche à pied occasionnelle
+P1261 +++  pardon ?
+P1263 +++  sans problème
+P1265 +++  non, pas ces symptômes.
+P1267 +++  normalement
+P1269 +++  non, je ne me drogue pas.
+P1271 +++  non, pas particulièrement.
+P1273 +++  je n'ai aucun problème
+P1275 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1277 +++  pardon ?
+P1279 +++  pardon ?
+P1281 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1283 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1285 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1287 +++  je n'ai pas d'antécédents, j'ai eu une opération des dents de sagesse et une césarienne
+P1289 +++  rien de particulier docteur
+P1291 +++  je n'ai pas d'antécédents, j'ai eu une opération des dents de sagesse et une césarienne
+P1293 +++  non, je n'ai jamais été opéré de ça
+P1295 +++  je n'ai jamais été opéré de ça
+P1297 +++  une césarienne et j'ai été opérée des dents de sagesse
+P1299 +++  je ne sais vraiment plus
+P1301 +++  euh non docteur
+P1303 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1305 +++  non, rien de tout ça
+P1307 +++  euh non docteur pas à ma connaissance
+P1309 +++  non, pas spécialement
+P1311 +++  je n'ai pas d'antécédents, j'ai eu une opération des dents de sagesse et une césarienne
+P1313 +++  non docteur
+P1315 +++  vous voyez, je ne me rappelle pas
+P1317 +++  vous voyez, je ne peux pas vous dire, je ne me souviens pas
+P1319 +++  je n'en sais rien, je suis désolé, docteur.
+P1321 +++  je suis un peu allergique au pollen
+P1323 +++  je suis un peu allergique au pollen
+P1325 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P1327 +++  je suis un peu allergique au pollen
+P1329 +++  je suis un peu allergique au pollen
+P1331 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P1333 +++  pardon ?
+P1335 +++  j'ai des douleurs au ventre
+P1337 +++  oui, exactement
+P1339 +++  en effet douleurs au ventre à droite sous les côtes et plus bas
+P1341 +++  exactement douleurs au ventre à droite sous les côtes et plus bas
+P1343 +++  alors, je prends du paracétamol
+P1345 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1347 +++  alors, je prends du paracétamol
+P1349 +++  je prends du paracétamol pour mon trouble actuel
+P1351 +++  pas de régime particulier .
+P1353 +++  je prends du coversyl pour l'hypertension
+P1355 +++  pardon ?
+P1357 +++  alors, du coversyl pour l'hypertension artérielle
+P1359 +++  juste ça
+P1361 +++  seulement ce que j'ai vous ai dit
+P1363 +++  juste ce que j'ai vous ai dit
+P1365 +++  uniquement ce que j'ai vous ai dit
+P1367 +++  euh non docteur
+P1369 +++  seulement ça
+P1371 +++  pardon ?
+P1373 +++  pardon ?
+P1375 +++  pas vraiment
+P1377 +++  seulement ça
+P1379 +++  je ne sais pas si ça a un lien mais j'ai euh non docteur pas à ma connaissance
+P1381 +++  non, pas ces symptômes.
+P1383 +++  pas du tout, non
+P1385 +++  seulement ce que j'ai vous ai dit
+P1387 +++  non, rien de tout ça
+P1389 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1391 +++  je viens parce que j'ai très mal au ventre
+P1393 +++  pardon ?
+P1395 +++  pas d'activités sportives
+P1397 +++  pardon ?
+P1399 +++  pas d'activités sportives
+P1401 +++  je n'ai jamais eu de maladies importantes
+P1403 +++  pas du tout, non
+P1405 +++  un accouchement par césarienne et j'ai été opérée des dents de sagesse
+P1407 +++  82 kilos
+P1409 +++  1 mètre 77 centimètres
+P1411 +++  je n'ai jamais fumé
+P1413 +++  non, je ne bois pas. au pire un verre de vin par semaine.
+P1415 +++  je ne l'ai pas mesurée
+P1417 +++  bonjour.
+P1419 +++  j'ai très très mal au ventre et le cholestérol haut
+P1421 +++  on m'a fait un bilan lipidique à jeun
+P1423 +++  en effet j'ai eu un bilan lipidique à jeun
+P1425 +++  oui j'ai eu un bilan lipidique à jeun
+P1427 +++  on m'a fait un bilan lipidique à jeun
+P1429 +++  oui, exactement j'ai eu un bilan lipidique à jeun
+P1431 +++  bonjour, docteur. je viens parce que j'ai très mal au ventre
+P1433 +++  pas d'activités sportives
+P1435 +++  je n'ai jamais eu de maladies importantes .
+P1437 +++  non, pas particulièrement.
+P1439 +++  vous voyez, aucune idée
+P1441 +++  je n'ai aucune allergie, autant que je sache
+P1443 +++  non, rien de tout ça
+P1445 +++  je n'ai jamais fumé
+P1447 +++  vous voyez, je ne sais pas
+P1449 +++  je ne sais pas, je suis désolé, docteur.
+P1451 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P1453 +++  vous voulez savoir autre chose docteur ?
+P1455 +++  bon ... c'est tout docteur ?
+P1457 +++  ça va bien. merci.
+P1459 +++  vous voyez, je ne sais pas
+P1461 +++  non
+P1463 +++  aucune idée, je suis désolé, docteur.
+P1465 +++  vous voyez, pas à ma connaissance
+P1467 +++  pas spécialement
+P1469 +++  vous voyez, aucune idée
+P1471 +++  oui, j'en ai 2  de 12 et 87ans
+P1473 +++  très bien. merci.
+P1475 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1477 +++  pardon ?
+P1479 +++  vous voyez, je ne me rappelle pas
+P1481 +++  je ne sais pas, je suis désolé, docteur.
+P1483 +++  aucune idée, je suis désolé, docteur.
+P1485 +++  en effet
+P1487 +++  non, pas particulièrement.
+P1489 +++  je suis alain .
+P1491 +++  bon ... c'est tout docteur ?
+P1493 +++  alors ... encore autre chose ?
+P1495 +++  vous voulez savoir autre chose docteur ?
+P1497 +++  normalement
+P1499 +++  pardon ?
+P1501 +++  non, pas ces symptômes.
+P1503 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1505 +++  pardon ?
+P1507 +++  oui j'ai une carte vitale
+P1509 +++  oui j'ai une carte vitale
+P1511 +++  vous voyez, j'en prends comme tout le monde, sans excès
+P1513 +++  pardon ?
+P1515 +++  j'en sais rien... dans 2 semaines je crois. vous devez avoir ça dans le dossier.
+P1517 +++  non
+P1519 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1521 +++  tout ça me convient
+P1523 +++  pardon ?
+P1525 +++  oui, j'en ai 2  de 12 et 87ans
+P1527 +++  vous voulez savoir autre chose docteur ?
+P1529 +++  alors ... encore autre chose ?
+P1531 +++  pardon ?
+P1533 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1535 +++  au revoir, docteur.
+P1537 +++  je suis simone
+P1539 +++  martin
+P1541 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1543 +++ alors je viens pour une forte douleur au ventre
+P1545 +++  pardon ?
+P1547 +++ alors je viens pour une forte douleur au ventre
+P1549 +++  je pèse 78 kilos
+P1551 +++  78 kilos
+P1553 +++  je ne prends aucun traitement
+P1555 +++  non je ne suis pas sous traitement
+P1557 +++  alors, je prends du co-renitec depuis 10 ans
+P1559 +++  non, pas ces symptômes.
+P1561 +++  actuellement, j'ai de la fièvre et de la fatigue
+P1563 +++  je n'ai pas pris ma température
+P1565 +++  vous voyez, je ne peux pas vous dire, je ne me souviens pas
+P1567 +++  non, rien de tout ça
+P1569 +++  je ne fume pas du tout
+P1571 +++  je ne fume pas du tout
+P1573 +++  je ne fume pas du tout
+P1575 +++  alors j'ai 42 ans
+P1577 +++  82 kilos
+P1579 +++  je pèse 82 kilos
+P1581 +++  je m'excuse, mais je ne souhaite pas donner cette information.
+P1583 +++  j'ai 42 ans
+P1585 +++  je m'excuse, mais je préfère ne pas répondre.
+P1587 +++  oui, j'en ai 2  de 12 et 87ans
+P1589 +++  pardon ?
+P1591 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1593 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1595 +++  pardon ?
+P1597 +++  vous voyez, je ne sais pas
+P1599 +++  aucune idée, je suis désolé, docteur.
+P1601 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1603 +++  pardon ?
+P1605 +++  je ne sais pas, je ne l'ai pas mesurée
+P1607 +++  non, pas particulièrement.
+P1609 +++  pas spécialement
+P1611 +++  pas vraiment
+P1613 +++  non, pas spécialement
+P1615 +++  je n'ai aucun problème
+P1617 +++  non, rien de tout ça
+P1619 +++  je viens parce que j'ai très mal au ventre
+P1621 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1623 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1625 +++  pardon ?
+P1627 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1629 +++  pardon ?
+P1631 +++  pas d'activités sportives
+P1633 +++  pas d'activités sportives
+P1635 +++  pardon ?
+P1637 +++  non
+P1639 +++  non, pas particulièrement.
+P1641 +++  maintenant, j'ai très très mal au ventre
+P1643 +++  vous voyez, je ne me rappelle pas
+P1645 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P1647 +++  rien de particulier
+P1649 +++  bonjour, docteur.
+P1651 +++ alors je viens pour une forte douleur au ventre
+P1653 +++  depuis hier soir
+P1655 +++  ça a commencé hier soir après avoir mangé
+P1657 +++  je n'ai jamais eu ces symptômes dans le passé.
+P1659 +++  retraité, mais je suis ancien maraîcher
+P1661 +++  de l'hypertension
+P1663 +++  non je ne suis pas sous traitement artérielle
+P1665 +++  seulement ça
+P1667 +++  de l'hypertension
+P1669 +++  à ma connaissance, je n'ai aucune allergie
+P1671 +++  pas spécialement
+P1673 +++  non, pas spécialement
+P1675 +++  je n'ai jamais eu d'infections .
+P1677 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1679 +++  non, rien de tout ça
+P1681 +++  je ne fume pas du tout
+P1683 +++  je ne fume pas du tout
+P1685 +++  jamais fumer
+P1687 +++  en effet , je bois
+P1689 +++  oui, exactement , je bois
+P1691 +++  je prends 1 verre de vin rouge par repas
+P1693 +++  pardon ?
+P1695 +++  uniquement ce que j'ai vous ai dit
+P1697 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1699 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1701 +++  alors, plusieurs choses, j'ai de la fièvre , de la sueur et des difficultés à respirer
+P1703 +++  pardon ?
+P1705 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1707 +++  pardon ?
+P1709 +++  alors, plusieurs problèmes, j'ai de la toux sèche , des grelottements et des crachats jaunes
+P1711 +++  vous voyez, je ne me souviens pas
+P1713 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1715 +++  de l'hypertension
+P1717 +++  non je ne suis pas sous traitement artérielle
+P1719 +++  juste ce que j'ai vous ai dit
+P1721 +++  oui les vaccins sont à jour, mais j'ai été malade après la vaccination contre la grippe à 65 ans
+P1723 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1725 +++  pardon ?
+P1727 +++  non, pas spécialement
+P1729 +++  pas spécialement
+P1731 +++  pas du tout, non
+P1733 +++  pas vraiment
+P1735 +++  non docteur je ne fume pas
+P1737 +++  je ne fume pas du tout
+P1739 +++  en effet , je bois
+P1741 +++  je prends 1 verre de vin rouge par repas
+P1743 +++  non, je n'ai pas de dépendances.
+P1745 +++  exactement
+P1747 +++  oui, exactement
+P1749 +++  j'ai des douleurs en haut du ventre juste sous le sternum
+P1751 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1753 +++  pas spécialement
+P1755 +++  pas du tout, non
+P1757 +++  bonjour. ça va bien. merci.
+P1759 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1761 +++  vous voyez, je ne sais pas
+P1763 +++  pardon ?
+P1765 +++  j'ai 42 ans
+P1767 +++  des douleurs au ventre
+P1769 +++  oui j'ai mal au ventre
+P1771 +++  pour une consultation de douleurs abdominales
+P1773 +++  non docteur pas ça
+P1775 +++  merci c'est sympa
+P1777 +++  je n'ai jamais eu de maladies importantes
+P1779 +++  pardon ?
+P1781 +++  pardon ?
+P1783 +++  vous voyez, pas à ma connaissance
+P1785 +++  vous voyez, je ne sais pas
+P1787 +++  je n'aime pas le goût de l'alcool.
+P1789 +++  non, je ne fume pas
+P1791 +++  enseignante en école maternelle
+P1793 +++  oui je suis mariée
+P1795 +++  je pèse 82 kilos
+P1797 +++  1 mètre 77 centimètres
+P1799 +++  vous voyez, je ne peux pas vous dire, je ne me souviens pas
+P1801 +++  je n'ai aucune allergie, mais je n'ai jamais fait un bilan d'allergies
+P1803 +++  je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+P1805 +++  ça va bien. merci.
+P1807 +++  je ne prends rien
+P1809 +++  exactement pas d'activités sportives
+P1811 +++  un accouchement par césarienne et j'ai été opérée des dents de sagesse
+P1813 +++  vous voyez, aucune idée
+P1815 +++  pas du tout, non
+P1817 +++  non, rien de tout ça
+P1819 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1821 +++  vous voyez, pas à ma connaissance
+P1823 +++  pas vraiment
+P1825 +++  actuellement, j'ai très très mal au ventre
+P1827 +++  vous voyez, je ne sais pas
+P1829 +++  je ne l'ai pas mesurée
+P1831 +++  non, pas ces symptômes.
+P1833 +++  pardon ?
+P1835 +++  une césarienne et j'ai été opérée des dents de sagesse
+P1837 +++  je suis un peu allergique au pollen
+P1839 +++  je bois très rarement, quand il y a des fêtes , c'est tout
+P1841 +++  vous voyez, je ne me souviens pas
+P1843 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P1845 +++  je ne fume pas
+P1847 +++  je ne fume pas
+P1849 +++  je n'ai jamais fumé
+P1851 +++  bonjour, docteur. alors, je viens pour des douleurs au ventre
+P1854 +++  je n'ai jamais fumé
+P1856 +++  je n'aime pas le goût de l'alcool.
+P1858 +++  pas du tout, non
+P1860 +++  bon ... c'est tout docteur ?
+P1862 +++  merci, au revoir.
+P1864 +++  bonjour. très bien. merci.
+P1866 +++  alors, je viens pour une douleur au ventre
+P1868 +++  ça a commencé hier soir après avoir mangé
+P1870 +++  j'ai très mal au ventre depuis hier soir docteur
+P1872 +++  je n'ai pas pris ma température mais je me sentais un peu fiévreuse
+P1874 +++  38,9° à droite, 39,2° à gauche
+P1876 +++  38,9° à droite, 39,2° à gauche , plus ou moins
+P1878 +++  c'est difficile à décrire, c'est juste de la douleur
+P1880 +++  non, je n'ai visité aucun pays récemment
+P1882 +++  78 kilos
+P1884 +++  je mesure environ 174
+P1886 +++  retraité, mais je suis ancien maraîcher
+P1888 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1890 +++  je suis retraité, mais je suis ancien maraîcher .
+P1892 +++  pas d'activités sportives
+P1894 +++  je n'ai aucune allergie, mais je n'ai jamais fait un bilan d'allergies
+P1896 +++  pardon ?
+P1898 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1900 +++  pardon ?
+P1902 +++  je ne bois pas
+P1904 +++  oui, exactement , je bois
+P1906 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P1908 +++  vous voyez, j'en prends habituellement, mais ni trop ni trop peu
+P1910 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P1912 +++  non, pas de pathologie chronique rien de particulier
+P1914 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1916 +++  aucune idée, je suis désolé, docteur.
+P1918 +++  pas vraiment
+P1920 +++  vous voyez, je ne peux pas vous dire, je ne me souviens pas
+P1922 +++  alors, j'ai été opérée des dents de sagesse
+P1924 +++  je ne sais vraiment pas
+P1926 +++  euh non docteur
+P1928 +++  oui, tout à fait. de l'hypertension artérielle
+P1930 +++  non je ne suis pas sous traitement
+P1932 +++  alors, 1 comprimé par jour
+P1934 +++  alors, 1 comprimé par jour
+P1936 +++  pardon ?
+P1938 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1940 +++  au revoir, docteur.
+P1942 +++  bonjour, docteur.
+P1944 +++  ça va bien. merci.
+P1946 +++  pardon ?
+P1948 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1950 +++  oui, j'ai 3 enfants
+P1952 +++  je ne souhaite pas donner cette information.
+P1954 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1956 +++  pardon ?
+P1958 +++  alors, je viens parce que j'ai mal au ventre
+P1960 +++  je vous lis ce qu'on ma donné : « foyer de condensation alvéolaire ». vous pouvez avoir ça dans le dossier.
+P1962 +++  alors ... encore autre chose ?
+P1964 +++  bon ... c'est tout docteur ?
+P1966 +++  vous voulez savoir autre chose docteur ?
+P1968 +++  pas du tout, non
+P1970 +++  non, pas particulièrement.
+P1972 +++  en effet
+P1974 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P1976 +++  je n'ai pas mesuré ma fièvre
+P1978 +++  ça marche , allons-y
+P1980 +++  bonjour, docteur.
+P1982 +++  j'ai mal au ventre
+P1984 +++  pas vraiment
+P1986 +++  je n'ai jamais eu de maladies importantes .
+P1988 +++  je n'ai jamais eu de maladies importantes .
+P1990 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1992 +++  pardon ?
+P1994 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P1996 +++  pardon ?
+P1998 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2000 +++  je n'ai jamais eu de maladies importantes .
+P2002 +++  alors ... encore autre chose ?
+P2004 +++  vous voyez, pas à ma connaissance
+P2006 +++  bon ... c'est tout docteur ?
+P2008 +++  bonjour.
+P2010 +++  je viens parce que j'ai très mal au ventre
+P2012 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2014 +++  je n'ai jamais eu de maladies importantes .
+P2016 +++  pardon ?
+P2018 +++  pardon ?
+P2020 +++  pas de problème , docteur , allons-y
+P2022 +++  bonjour, docteur.
+P2024 +++  pardon ?
+P2026 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2028 +++ alors je viens pour une forte douleur au ventre
+P2030 +++  en effet
+P2032 +++  vous voyez, uniquement cette fois
+P2034 +++  j'ai très mal au ventre depuis hier soir docteur
+P2036 +++  oui
+P2038 +++  j'ai très mal au ventre depuis hier soir docteur
+P2040 +++  37 degré 5
+P2042 +++  j'avais pris deux dolipranes
+P2044 +++  j'avais pris deux dolipranes
+P2046 +++  pas du tout, non
+P2048 +++  oui
+P2050 +++  ça marche , allons-y
+P2052 +++  on m'a fait une radiographie thoracique
+P2054 +++  bonjour.
+P2056 +++  pardon ?
+P2058 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2060 +++  pardon ?
+P2062 +++  pardon ?
+P2064 +++  non, pas spécialement
+P2066 +++  je n'ai jamais eu de maladies importantes .
+P2068 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2070 +++  pardon ?
+P2072 +++  je viens parce que j'ai très mal au ventre
+P2074 +++  alors ... encore autre chose ?
+P2076 +++  bonjour, docteur.
+P2078 +++  pardon ?
+P2080 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2082 +++  euh non docteur pas à ma connaissance
+P2084 +++  une césarienne et j'ai été opérée des dents de sagesse
+P2086 +++  pas de régime particulier .
+P2088 +++  non je ne fume pas
+P2090 +++  je ne fume pas
+P2092 +++  je ne fume pas
+P2094 +++  je bois très rarement, quand il y a des fêtes , c'est tout
+P2096 +++  pardon ?
+P2098 +++  en effet , je fume
+P2100 +++  non, je n'ai pas de dépendances.
+P2102 +++  je suis un peu allergique au pollen
+P2104 +++  vous voyez, j'en consomme régulièrement, mais pas trop
+P2106 +++  vous voyez, j'en prends habituellement, mais ni trop ni trop peu
+P2108 +++  je suis un peu allergique au pollen
+P2110 +++  j'ai des douleurs au ventre
+P2112 +++  j'ai des douleurs au ventre à droite sous les côtes et plus bas depuis hier soir
+P2114 +++  je mesure environ 1 mètre 65 centimètres
+P2116 +++  environ 62 kilos
+P2118 +++  environ 62 kilos
+P2120 +++  je suis assistante maternelle en crèche .
+P2122 +++  mariée
+P2124 +++  pardon ?
+P2126 +++  non docteur je suis marié
+P2128 +++  oui, j'ai 2 enfants
+P2130 +++  oui, j'ai 2 enfants
+P2132 +++  oui, j'ai 2 enfants
+P2134 +++  bonjour, docteur.
+P2136 +++  je m'appelle simone  .
+P2138 +++  bonjour.
+P2140 +++  bonjour, docteur.
+P2142 +++  bonjour.
+P2144 +++  je suis alain .
+P2146 +++  pardon ?
+P2148 +++  alain
+P2150 +++  j'ai très très mal au ventre
+P2152 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P2154 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2156 +++  non
+P2158 +++  pas du tout, non
+P2160 +++  je n'ai aucun régime spécifique
+P2162 +++  pas spécialement
+P2164 +++  pas d'activités sportives
+P2166 +++  je pèse 82 kilos
+P2168 +++  je mesure environ 1 mètre 77 centimètres
+P2170 +++  uniquement ce que j'ai vous ai dit
+P2172 +++  seulement ce que j'ai vous ai dit
+P2174 +++  en effet
+P2176 +++  pas du tout, non
+P2178 +++  oui j'ai mal au ventre
+P2180 +++  je n'ai pas d'allergie, mais je n'ai jamais fait de tests d'allergies
+P2182 +++  pas vraiment
+P2184 +++  je n'ai jamais eu de maladies importantes .
+P2186 +++  un accouchement par césarienne et j'ai été opérée des dents de sagesse
+P2188 +++  vous voyez, je ne me souviens pas
+P2190 +++  vous voyez, je ne me rappelle pas
+P2192 +++  on m'a fait un bilan lipidique à jeun
+P2194 +++  je vous dis ce qu'on ma dit : « ldl 2.0g/l ». peut-être vous avez ça dans le dossier.
+P2196 +++  j'ai très très mal au ventre et le cholestérol haut
+P2198 +++  salut docteur
+P2200 +++  bonjour.
+P2202 +++  bonjour, docteur.
+P2204 +++  bonjour, docteur.
+P2206 +++  bonjour, docteur.
+P2208 +++  je m'appelle simone
+P2210 +++  je m'appelle simone
+P2212 +++  je suis simone
+P2214 +++  oui docteur
+P2216 +++  labforsims
+P2218 +++  simone
+P2220 +++  enseignante en école maternelle
+P2222 +++  je mesure environ 174
+P2224 +++  je pèse 78 kilos
+P2226 +++  de fortes douleurs au ventre qui irradie vers le dos
+P2228 +++  pardon ?
+P2230 +++  pas de régime
+P2232 +++  je ne fume pas et je ne bois pas
+P2234 +++  je ne fume pas et je ne bois pas
+P2236 +++  je ne fume pas et je ne bois pas
+P2238 +++  jamais fumer
+P2240 +++  je ne fume pas du tout
+P2242 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P2244 +++  je ne bois pas
+P2246 +++  pardon ?
+P2248 +++  oui
+P2250 +++  non, pas spécialement
+P2252 +++  rien de particulier
+P2254 +++  j'ai été opérée des dents de sagesse et mon dernier accouchement était par césarienne
+P2256 +++  pardon ?
+P2258 +++  de fortes douleurs au ventre
+P2260 +++  non pas du tout
+P2262 +++  non pas du tout
+P2264 +++  j'ai des frissonnements depuis hier soir
+P2266 +++  non
+P2268 +++  j'ai de la sueur depuis hier soir
+P2270 +++  non pas de crachats
+P2272 +++  non
+P2274 +++  non pas du tout
+P2276 +++  non pas du tout
+P2278 +++  non pas vraiment
+P2280 +++  bonjour, docteur.
+P2282 +++  pas de problème , docteur
+P2284 +++  environ 62 kilos
+P2286 +++  je mesure environ 1 mètre 65 centimètres
+P2288 +++  je suis assistante maternelle en crèche .
+P2290 +++  à quoi faites-vous référence ? pouvez-vous me donner plus de précisions ?
+P2292 +++  je ne sais plus docteur
+P2294 +++  oui, j'ai 2 enfants
+P2296 +++  je suis mariée
+P2298 +++  non, je ne fume pas
+P2300 +++  alors j'ai 42 ans
+P2302 +++  je ne fume pas
+P2304 +++  je ne fume pas
+P2306 +++  non, je n'ai pas de dépendances.
+P2308 +++  je bois très rarement, quand il y a des fêtes , c'est tout
+P2310 +++  je suis un peu allergique au pollen
+P2312 +++  pas de régime particulier
+P2314 +++  je ne suis pas diabétique
+P2316 +++  pas de régime particulier .
+P2318 +++  non docteur
+P2320 +++  non docteur j'ai juste eu une césarienne et j'ai été opérée des dents de sagesse
+P2322 +++  non docteur
+P2324 +++  rien de particulier docteur
+P2326 +++  rien de particulier
+P2328 +++  une césarienne et j'ai été opérée des dents de sagesse
+P2330 +++  oui docteur
+P2332 +++  rien de particulier docteur
+P2334 +++  j'ai des douleurs au ventre
+P2336 +++  alors, je prends du paracétamol
+P2338 +++  deux fois hier soir
+P2340 +++  je me sens un peu fiévreux mais je n'ai pas pris ma température
+P2342 +++  je n'ai pas pris ma température
+P2344 +++  non, pas spécialement
+P2346 +++  non, rien de tout ça
+P2348 +++  bonjour.
+P2350 +++  d'accord docteur
+P2352 +++  environ 82 kilos
+P2354 +++  je mesure environ 1 mètre 77 centimètres
+P2356 +++  enseignante en école maternelle
+P2358 +++  je ne sais plus docteur
+P2360 +++  je ne sais plus docteur
+P2362 +++  oui, j'en ai 2 de 12 et 7ans
+P2364 +++  non pas d'antécédents
+P2366 +++  pas du tout, non
+P2368 +++  je ne sais pas, je suis désolé, docteur.
+P2370 +++  pas spécialement
+P2372 +++  non, pas spécialement
+P2374 +++  non
+P2376 +++  un peu au pollen
+P2378 +++  non, je ne fume pas
+P2380 +++  non, je ne prends pas de drogues.
+P2382 +++  je bois très rarement, quand il y a des fêtes , c'est tout
+P2384 +++  je n'ai aucun régime spécifique
+P2386 +++  non
+P2388 +++  pas d'activités sportives
+P2390 +++  je n'ai jamais eu de maladies importantes .
+P2392 +++  un accouchement par césarienne et j'ai été opérée des dents de sagesse
+P2394 +++  j'ai très très mal au ventre
+P2396 +++  je ne l'ai pas mesurée
+P2398 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2400 +++  je n'ai pas mesuré ma tension
+P2402 +++  non, pas ces symptômes.
+P2404 +++  pas vraiment
+P2406 +++  non, rien de tout ça
+P2408 +++  je viens parce que j'ai très mal au ventre
+P2410 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2412 +++  bonjour.
+P2414 +++  je viens parce que j'ai très mal au ventre
+P2416 +++  j'ai 42 ans
+P2418 +++  1 mètre 77 centimètres
+P2420 +++  82 kilos
+P2422 +++  oui, j'en ai 2  de 12 et 7ans
+P2424 +++  je n'ai jamais fumé
+P2426 +++  non pas ça
+P2428 +++  non je ne suis pas sous traitement
+P2430 +++  bonjour.
+P2432 +++  je viens parce que j'ai de très fortes douleurs au ventre .
+P2434 +++  pas d'activité sportive
+P2436 +++  pas de régime particulier
+P2438 +++  non, pas particulièrement.
+P2440 +++  je mesure environ 1 mètre 77 centimètres
+P2442 +++  je pèse 82 kilos
+P2444 +++  je n'ai jamais fumé
+P2446 +++  enseignant en école marternelle
+P2448 +++  pardon ?
+P2450 +++  bonjour.
+P2452 +++ alors je viens pour une forte douleur au ventre
+P2454 +++  j'ai 42 ans
+P2456 +++  je mesure environ 1 mètre 74
+P2458 +++  78 kilos
+P2460 +++  ça a commencé hier soir après avoir mangé
+P2462 +++  ça a commencé hier soir après avoir mangé
+P2464 +++  je n'ai jamais eu ces symptômes dans le passé.
+P2466 +++  pas vraiment
+P2468 +++  non non docteur
+P2470 +++  non
+P2472 +++  non docteur je ne fume pas
+P2474 +++  jamais fumer
+P2476 +++  je ne fume pas du tout
+P2478 +++  pas spécialement
+P2480 +++  pas du tout, non
+P2482 +++  pas d'activités sportives
+P2484 +++  à ma connaissance, je n'ai aucune allergie
+P2486 +++  non je ne suis pas sous traitement
+P2488 +++  je n'ai pas mesuré ma tension
+P2490 +++  non rien de particulier
+P2492 +++  j'ai été opérée des dents de sagesse et mon dernier accouchement était par césarienne
+P2494 +++  non pas d'antécédents particuliers, docteur.
+P2496 +++  oui
+P2498 +++  oui, j'ai 2 enfants
+P2500 +++  j'ai très mal au ventre
+P2502 +++  non
+P2504 +++  non docteur
+P2506 +++  non docteur
+P2508 +++  normal rien de particulier
+P2510 +++  non pas de crachats
+P2512 +++  non pas du totu docteur
+P2514 +++  non docteur
+P2516 +++  oui j'ai froid
+P2518 +++  37 degré 5
+P2520 +++  je suis enseignant à l'école marternelle
+P2522 +++  oui, exactement les vaccins sont à jour
+P2524 +++  j'ai 42 ans
+P2526 +++  bonjour, docteur. je viens parce que j'ai très mal au ventre
+P2528 +++  enseignant en école marternelle
+P2530 +++  oui
+P2532 +++  oui j'ai un mari
+P2534 +++  oui, j'en ai 2  de 12 et 7 ans
+P2536 +++  antoine et antonia
+P2538 +++  antoine et antonia
+P2540 +++  alors j'ai 42 ans
+P2542 +++  je mesure environ 1 mètre 77 centimètres
+P2544 +++  je pèse 82 kilos
+P2546 +++  de la marche occasionnellement
+P2548 +++  je n'ai jamais fumé
+P2550 +++  mes habitudes alimentaires sont normales
+P2552 +++  je n'ai aucun régime spécifique
+P2554 +++  à ma connaissance, je n'ai aucune allergie
+P2556 +++  j'ai été opérée des dents de sagesse et mon dernier accouchement était par césarienne
+P2558 +++  je n'ai jamais eu de maladies importantes .
+P2560 +++  non, pas spécialement
+P2562 +++  non
+P2564 +++  pas spécialement
+P2566 +++  je n'en sais rien, je suis désolé, docteur.
+P2568 +++  vous voyez, pas à ma connaissance
+P2570 +++  aucune idée, docteur.
+P2572 +++  non pas du totu
+P2574 +++  non
+P2576 +++  non
+P2578 +++  bonjour. alors, je viens parce que j'ai de très fortes douleurs au ventre
+P2580 +++  j'ai 42 ans
+P2582 +++  oui j'ai un mari
+P2584 +++  oui, j'en ai 2  de 12 et 7ans
+P2586 +++  non, je ne fume pas
+P2588 +++  non, je ne bois pas. au pire un verre de vin par mois.
+P2590 +++  j'ai des douleurs au ventre
+P2592 +++  pas vraiment
+P2594 +++  pas spécialement
+P2596 +++  vous voyez, aucune idée docteur
+P2598 +++  pas du tout, non
+P2600 +++  oui des douleurs au ventre.
+P2602 +++  je ne l'ai pas mesurée
+P2604 +++  vous voyez, je ne sais pas
+P2606 +++  non
+P2608 +++  je m'appelle simone labforsims
+P2610 +++  je ne me souviens pas
+P2612 +++  je ne peux pas vous dire, je ne me souviens pas
+P2614 +++  parce que j'ai très mal au ventre
+P2616 +++  vous voyez, aucune idée
+P2618 +++  pardon ?
+P2620 +++  docteur je ne sais vraiment pas
+P2622 +++  je n'ai pas cette maladie à ma connaissance
+P2624 +++  non docteur
+P2626 +++  je n'avais pas encore fait d'examens jusque là
+P2628 +++  non je n'ai pas pris ma tension
+P2630 +++  non, pas ces symptômes.
+P2632 +++  j'ai très mal au ventre
+P2634 +++  j'ai 42 ans
+P2636 +++  j'ai très mal au ventre docteur
+P2638 +++  il y a 3 mois j'avais eu les mêmes douleurs mais ça s'est vite passé
+P2640 +++  non pas de problèmes particuliers
+P2642 +++  pas spécialement
+P2644 +++  je suis simone
+P2646 +++  non, rien de tout ça
+P2648 +++  pas vraiment
+P2650 +++  non, pas ces symptômes.
+P2652 +++  bonjour, docteur.
+P2654 +++  j'ai de fortes douleurs au ventre
+P2656 +++  je suis simone  .
+P2658 +++  j'ai très mal au ventre
+P2660 +++  docteur je viens parce que j'ai de fortes douleurs au ventre
+P2662 +++  oui, j'en ai 2 de 10 et 8 ans
+P2664 +++  62 kilos
+P2666 +++  je ne fume pas du tout
+P2668 +++  je ne fume pas
+P2670 +++  a quoi faites vous référence docteur? pouvez-vous me donner plus de détails?
+P2672 +++  à quoi faites-vous référence ? pouvez-vous être plus précis ?
+P2674 +++  je mesure environ 1 mètre 65 centimètres
+P2676 +++  je suis assistante maternelle en crèche .
+P2678 +++  assistante maternelle en crèche
+P2680 +++  je suis assistante maternelle en crèche .
+P2682 +++  oui, j'ai 2 enfants
+P2684 +++  non mes enfants ne sont pas malades
+P2686 +++  oui, j'ai 2 enfants
+P2688 +++  oui je souffre des douleurs au ventre
+P2690 +++  je suis un peu allergique au pollen
+P2692 +++  j'ai eu une césarienne pour un de mes deux enfants et opérée des dents de sagesse
+P2694 +++  pas de régime particulier .
+P2696 +++  de la marche à pied occasionnelle
+P2698 +++  seulement des douleurs au niveau du ventre ?
+P2700 +++  j'ai des douleurs au ventre
+P2702 +++  à quoi faites-vous référence ? pouvez-vous me donner plus de détails ?
+P2704 +++  j'ai de fortes douleurs au ventre
+P2706 +++  je suis venu parce que j'ai très mal au ventre
+P2708 +++  je n'ai pas encore consulté un médecin avant
+P2710 +++  je ne sais pas docteur
+P2712 +++  pas du tout, non
+P2714 +++  non .
+P2716 +++  je ne sais pas docteur
+P2718 +++  pas de problème pour ça
+P2720 +++  non docteur
+P2722 +++  je ne fume pas du tout
+P2724 +++  non
+P2726 +++  pas d'activités physiques
+P2728 +++  j'ai très mal au ventre
+P2730 +++  très bien pas de problème
+P2732 +++  non
+P2734 +++  non docteur
+P2736 +++  non docteur
+P2738 +++  symptome
+P2740 +++  c'est au niveau du ventre j'ai mal
+P2742 +++  les deux docteur
+P2744 +++  je n'arrive plus à rien faire
+P2746 +++  non docteur
+P2748 +++  oui docteur
+P2750 +++  non
+P2752 +++  non
+P2754 +++  non docteur
+P2756 +++  oui un peu
+P2758 +++  j'ai eu une césarienne et j'ai été opérée des dents de sagesse
+P2760 +++  pas de couleur particulière docteur
+P2762 +++  non
+P2764 +++  non docteur
+P2766 +++  ça reste un peu par là, mais ça va un peu aussi sur le côté
+P2768 +++  non c'est comme un coup de poignard
+P2770 +++  euh non
+P2772 +++  non, c'était ce que j'ai mangé hier
+P2774 +++  j'ai eu deux grossesses, la dernière était par césarienne
+P2776 +++  non
+P2778 +++  non
+P2780 +++  non docteur je n'ai pas ce problème
+P2782 +++  non docteur pas de drogue, je ne fume pas
+P2784 +++  non
+P2786 +++  non pas de traitement
+P2788 +++  non docteur
+P2790 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P2792 +++  dans ma famille, je n'en sais rien docteur
+P2794 +++  un peu oui docteur
+P2796 +++  non docteur pas ça
+P2798 +++  non
+P2800 +++  oui j'ai toujours mal, mais c'est moins fort.
+P2802 +++  non docteur pas ça
+P2804 +++  non docteur
+P2806 +++  pour ma deuxième grossesse ou i j'ai fait une fausse couche
+P2808 +++  non pas d'activités sportives
+P2810 +++  non docteur
+P2812 +++  ça a commencé hier soir
+P2814 +++  non docteur
+P2816 +++  bah, j'ai pas vomi, mais j'avais un peu de nausées. oui, au moment où j'ai eu très mal, j'avais un peu de nausées, oui.
+P2818 +++  non docteur
+P2820 +++  pas de chirurgies
+P2822 +++  non
+P2824 +++  non, c'était ce que j'ai mangé hier
+P2826 +++  non docteur
+P2828 +++  mon alimentation est normale pas de régime particulier
+P2830 +++  non docteur
+P2832 +++  mon alimentation est normale, pas de régime particulier
+P2834 +++  je ne sais pas docteur
+P2836 +++  non docteur
+P2838 +++  non docteur
+P2840 +++  non
+P2842 +++  non docteur
+P2844 +++  j'ai eu deux grossesses et une fausse couche
+P2846 +++  vous voyez, uniquement cette fois
+P2848 +++  pas d'opération de voies digestives
+P2850 +++  vous voyez je ne sais pas docteur
+P2852 +++  oui docteur
+P2854 +++  non docteur
+P2856 +++  oui docteur
+P2858 +++  je n'ai pas ce problème docteur
+P2860 +++  non docteur je n'ai pas ce problème
+P2862 +++  le transit, c'est normal
+P2864 +++  je ne sais pas docteur
+P2866 +++  non docteur
+P2868 +++  non docteur je n'ai pas ce problème
+P2870 +++  non pas vraiment.
+P2872 +++  non, j'ai pas vomi. mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. là, ça va un peu mieux. mais au début j'avais des nausées.
+P2874 +++  j'ai une alimentation normale pas de régime particulier
+P2876 +++  non docteur pas ça
+P2878 +++  oui docteur
+P2880 +++  je ne sais pas docteur
+P2882 +++  non
+P2884 +++  non docteur
+P2886 +++  non docteur
+P2888 +++   non docteur pas de jaunisse
+P2890 +++  il est normal
+P2892 +++  non docteur
+P2894 +++  pas vraiment
+P2896 +++  ça a commencé hier soir et jusque là j'ai toujours mal
+P2898 +++  non
+P2900 +++  je n'ai pas de contact avec ma famille
+P2902 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P2904 +++  non docteur rien de spécial
+P2906 +++  non docteur pas ça
+P2908 +++  je ne sais vraiment pas docteur
+P2910 +++  depuis hier la douleur est toujours là
+P2912 +++  je n'ai pas ce symptôme docteur
+P2914 +++  pas ce problème docteur
+P2916 +++  non docteur
+P2918 +++  non docteur
+P2920 +++  quand je me mets sur le côté j'ai moins mal
+P2922 +++  euh non docteur
+P2924 +++  je ne sais vraiment pas docteur
+P2926 +++  non docteur pas ça
+P2928 +++  je ne sais vraiment pas docteur
+P2930 +++  je n'ai pas ce problème docteur
+P2932 +++  non
+P2934 +++  pas d'allergie particulière docteur
+P2936 +++  oui mais un peu moins forte qu'au début
+P2938 +++  non docteur
+P2940 +++  je n'ai pas ce problème docteur
+P2942 +++  oui elle va vers l'épaule
+P2944 +++  non pas ce problème docteur
+P2946 +++  je ne sais vraiment pas docteur
+P2948 +++  non docteur
+P2950 +++  non docteur
+P2952 +++  non docteur
+P2954 +++  je souffre plutôt des douleurs au niveau du ventre et c'est comme un coup de poignard
+P2956 +++  je ne sais vraiment pas docteur
+P2958 +++  plutôt des douleurs au ventre docteur
+P2960 +++  j'ai eu une césarienne et j'ai été opérée des dents de sagesse, les opérations se sont bien déroulées
+P2962 +++  plutôt des douleurs au ventre et quand je mets sur le côté la douleur se calme, j'avais aussi pris du paracétamol et j'ai eu un tout petit peu de soulagement
+P2964 +++  pas de régime particulier
+P2966 +++  j'ai très mal au ventre docteur
+P2968 +++  non jamais docteur
+P2970 +++  plutôt des douleurs au ventre qui sont venues toutes seules après avoir mangé hier soir
+P2972 +++  euh non docteur
+P2974 +++  en haut du ventre juste sous le sternum
+P2976 +++  non docteur
+P2978 +++   pas ce problème docteur
+P2980 +++  euh non
+P2982 +++  je ne sais vraiment pas docteur
+P2984 +++  non docteur
+P2986 +++  je ne sais vraiment pas docteur
+P2988 +++  je ne sais vraiment pas
+P2990 +++  non
+P2992 +++  non
+P2994 +++  pas ça docteur
+P2996 +++  pas vraiment
+P2998 +++  j'ai des douleurs en haut du ventre
+P3000 +++  non
+P3002 +++  euh non
+P3004 +++  la douleur est là et elle va un peu dans le dos et aussi vers l'épaule
+P3006 +++  non pas de crachat
+P3008 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P3010 +++  pas de régime particulier
+P3012 +++  non docteur je ne sais vraiment pas
+P3014 +++  c'est juste en haut du ventre
+P3016 +++  ce sont plutôt des douleurs au ventre et ça a commencé hier soir
+P3018 +++  non
+P3020 +++  non docteur pas ça
+P3022 +++  plutôt des douleurs au niveau du ventre et j'ai très mal
+P3024 +++  non
+P3026 +++  non docteur
+P3028 +++  pas du tout, non
+P3030 +++  bien sûr docteur
+P3032 +++  et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P3034 +++  c'est ça.
+P3036 +++  non pas ça docteur
+P3038 +++  non pas vraiment.
+P3040 +++  non pas vraiment
+P3042 +++  non, rien de particulier. j'ai deux enfants et j'ai fait une fausse couche en 97.
+P3044 +++  pas vraiment
+P3046 +++  je ne sais vraiment pas docteur
+P3048 +++  non pas de fatigue docteur
+P3050 +++  oui j'ai eu mal la nuit.
+P3052 +++  je n'ai pas de contact avec ma famille docteur
+P3054 +++  euh non docteur je ne souffre pas de ça, plutôt des douleurs au niveau du ventre
+P3056 +++  non pas ça docteur
+P3058 +++  euh non docteur
+P3060 +++  non docteur
+P3062 +++  je ne sais vraiment pas
+P3064 +++  euh non docteur
+P3066 +++  euh non docteur
+P3068 +++  non
+P3070 +++  oui le transit est normal
+P3072 +++  je ne sais vraiment pas
+P3074 +++  je ne sais vraiment pas
+P3076 +++  je n'ai pas ce problème docteur
+P3078 +++  non
+P3080 +++  je ne sais vraiment pas
+P3082 +++  je ne sais vraiment pas
+P3084 +++  je ne sais vraiment pas
+P3086 +++  euh non docteur
+P3088 +++  ça a commencé hier soir
+P3090 +++  je n'ai pas ce problème docteur
+P3092 +++  pas de régime particulier
+P3094 +++  ça reste un peu par là, mais ça va un peu aussi sur le côté
+P3096 +++  euh non docteur
+P3098 +++  euh non docteur
+P3100 +++  euh non docteur
+P3102 +++  je ne sais vraiment pas
+P3104 +++  je n'ai pas ce problème docteur
+P3106 +++  euh non docteur
+P3108 +++  non, c'est un peu comme un coup de poignard, là.
+P3110 +++  je ne sais vraiment pas
+P3112 +++  quand je me mets sur le côté j'ai moins mal
+P3114 +++  je ne sais vraiment pas
+P3116 +++  quand je me mets sur le côté j'ai moins mal
+P3118 +++  euh non
+P3120 +++  euh non docteur
+P3122 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P3124 +++  comme tout le monde sans excès
+P3126 +++  euh non
+P3128 +++  euh non docteur
+P3130 +++  euh non docteur
+P3132 +++  je ne sais vraiment pas
+P3134 +++  j’ai eu trois grossesses et une fausse couche en 97
+P3136 +++  non
+P3138 +++  oui j'ai un stérilet
+P3140 +++  je ne sais vraiment pas
+P3142 +++  seul mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière
+P3144 +++  oui j'ai froid
+P3146 +++  je n'ai pas ce problème docteur
+P3148 +++  je ne sais vraiment pas
+P3150 +++  euh non docteur
+P3152 +++  c'était après avoir mangé une pizza
+P3154 +++  je ne sais vraiment pas
+P3156 +++  je ne sais vraiment pas
+P3158 +++  quand je me mets sur le côté j'ai moins mal
+P3160 +++  euh non docteur
+P3162 +++  c'est plutôt comme un coup de poignard
+P3164 +++  non pas vraiment.
+P3166 +++  je n'ai pas ce problème docteur
+P3168 +++  je ne sais vraiment pas
+P3170 +++  rien de particulier
+P3172 +++  je n'ai pas ce problème docteur
+P3174 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3176 +++  je n'ai pas ce problème docteur
+P3178 +++  je ne sais vraiment pas
+P3180 +++  euh non docteur
+P3182 +++  un soulagement
+P3184 +++  quand je me mets sur le côté j'ai moins mal
+P3186 +++  euh non docteur
+P3188 +++  je ne sais vraiment pas
+P3190 +++  euh non docteur
+P3192 +++  euh non docteur
+P3194 +++  oui docteur
+P3196 +++  oui docteur
+P3198 +++  c'est plutôt comme un coup de poignard
+P3200 +++  euh non docteur
+P3202 +++  euh non docteur
+P3204 +++  et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+P3206 +++  je ne sais vraiment pas
+P3208 +++  seul mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière
+P3210 +++  non
+P3212 +++  non
+P3214 +++  euh non docteur
+P3216 +++  je ne sais vraiment pas
+P3218 +++  euh non docteur
+P3220 +++  je ne sais vraiment pas
+P3222 +++  euh non docteur
+P3224 +++  euh non docteur
+P3226 +++  quand je me mets sur le côté droit ou gauche, j'ai moins mal
+P3228 +++  euh non docteur
+P3230 +++  euh non docteur
+P3232 +++  non, pas particulièrement.
+P3234 +++  euh non docteur
+P3236 +++  non
+P3238 +++  euh non
+P3240 +++  je n'ai pas de contact avec ma famille
+P3242 +++  non
+P3244 +++  c'est plutôt comme un coup de poignard
+P3246 +++  pas ça docteur
+P3248 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3250 +++  dans ma famille, je n'en sais rien docteur
+P3252 +++  je ne sais vraiment pas
+P3254 +++  je ne sais vraiment pas
+P3256 +++  euh non docteur
+P3258 +++  euh non docteur
+P3260 +++  je ne sais pas
+P3262 +++  je ne sais vraiment pas
+P3264 +++  non
+P3266 +++  non
+P3268 +++  euh non docteur
+P3270 +++  euh non docteur
+P3272 +++  je ne sais vraiment pas
+P3274 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P3276 +++  une césarienne et j'ai été opérée des dents de sagesse
+P3278 +++  non
+P3280 +++  je ne sais vraiment pas
+P3282 +++  quand je me mets sur le côté j'ai moins mal
+P3284 +++  je ne sais vraiment pas
+P3286 +++  euh non docteur
+P3288 +++  oui j'ai froid
+P3290 +++  pas ça docteur
+P3292 +++  je ne sais vraiment pas
+P3294 +++  euh non docteur
+P3296 +++  euh non docteur
+P3298 +++  euh non docteur
+P3300 +++  non
+P3302 +++  je ne sais vraiment pas
+P3304 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3306 +++  euh non docteur
+P3308 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3310 +++  non, je ne bois pas d'alcool.
+P3312 +++  non
+P3314 +++  euh non docteur
+P3316 +++  non
+P3318 +++  non
+P3320 +++  euh non docteur
+P3322 +++  je n'ai pas ce problème docteur
+P3324 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3326 +++  je n'ai pas ce problème docteur
+P3328 +++  je n'ai pas ce problème docteur
+P3330 +++  je ne sais vraiment pas
+P3332 +++  euh non
+P3334 +++  euh non docteur
+P3336 +++  bah non, rien de particulier. j'ai été opérée des dents de sagesse.
+P3338 +++  euh non docteur
+P3340 +++  non pas de crachat
+P3342 +++  euh non
+P3344 +++  je ne sais vraiment pas
+P3346 +++  non
+P3348 +++  non, c'est un peu comme un coup de poignard, là.
+P3350 +++  pas vraiment
+P3352 +++  euh non docteur
+P3354 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3356 +++  je ne sais vraiment pas
+P3358 +++  je n'ai pas ce problème docteur
+P3360 +++  je n'ai pas ce problème docteur
+P3362 +++  pas du tout, non
+P3364 +++  euh non docteur
+P3366 +++  oui
+P3368 +++  euh non docteur
+P3370 +++  non
+P3372 +++  euh non docteur
+P3374 +++  oui
+P3376 +++  oui
+P3378 +++  je ne sais vraiment pas
+P3380 +++  euh non
+P3382 +++  symptome
+P3384 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3386 +++  je ne sais vraiment pas
+P3388 +++  je ne sais vraiment pas
+P3390 +++  euh non docteur
+P3392 +++  euh non docteur
+P3394 +++  je n'ai pas ce problème docteur
+P3396 +++  euh non docteur
+P3398 +++  euh non docteur
+P3400 +++  sans problème
+P3402 +++  je n'ai pas ce problème docteur
+P3404 +++  normalement
+P3406 +++  euh non docteur
+P3408 +++  euh non docteur
+P3410 +++  euh non docteur
+P3412 +++  euh non docteur
+P3414 +++  c'est plutôt comme un coup de poignard
+P3416 +++  je ne sais vraiment pas
+P3418 +++  oui docteur
+P3420 +++  je ne sais vraiment pas
+P3422 +++  c'est plutôt comme un coup de poignard
+P3424 +++  non, j'ai pas vomi. mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. là, ça va un peu mieux. mais au début j'avais des nausées.
+P3426 +++  je ne sais vraiment pas
+P3428 +++  je ne sais vraiment pas
+P3430 +++  je ne sais vraiment pas
+P3432 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3434 +++  euh non docteur
+P3436 +++  euh non docteur
+P3438 +++  je ne sais vraiment pas
+P3440 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3442 +++  euh non docteur
+P3444 +++  je ne sais vraiment pas
+P3446 +++  pas du tout, non
+P3448 +++  je ne sais vraiment pas
+P3450 +++  je ne sais vraiment pas
+P3452 +++  euh non docteur
+P3454 +++  je ne sais vraiment pas
+P3456 +++  le transit, c'est normal
+P3458 +++  euh non docteur
+P3460 +++  bah j'ai mal au niveau du ventre
+P3462 +++  je n'ai pas ce problème docteur
+P3464 +++  euh non docteur
+P3466 +++  je ne sais vraiment pas
+P3468 +++  euh non docteur
+P3470 +++  pas ça docteur
+P3472 +++  je n'ai pas ce problème docteur
+P3474 +++  euh non docteur
+P3476 +++  euh non docteur
+P3478 +++  non
+P3480 +++  non docteur
+P3482 +++  euh non
+P3484 +++  non
+P3486 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P3488 +++  rien de particulier docteur
+P3490 +++  euh non docteur
+P3492 +++  depuis hier soir
+P3494 +++  comme tout le monde sans excès
+P3496 +++  euh non docteur
+P3498 +++  non
+P3500 +++  pas d'activités physiques
+P3502 +++  euh non docteur
+P3504 +++  je n'ai pas ce problème docteur
+P3506 +++  quand je me mets sur le côté j'ai moins mal
+P3508 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3510 +++  euh non docteur
+P3512 +++  bah, c'est une douleur qui est venue un peu d'un coup. au début, un peu comme un coup de poignard. ça reste un peu par là, mais ça va un peu aussi sur le côté
+P3514 +++  euh non docteur
+P3516 +++  euh non docteur
+P3518 +++  euh non docteur
+P3520 +++  c'est plutôt comme un coup de poignard
+P3522 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si ! oui, je suis allergique au pollen.
+P3524 +++  euh non docteur
+P3526 +++  non
+P3528 +++  non docteur
+P3530 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3532 +++  euh non docteur
+P3534 +++  je ne sais vraiment pas
+P3536 +++  euh non docteur
+P3538 +++  euh non docteur
+P3540 +++  je ne sais vraiment pas
+P3542 +++  bah, c'est une douleur qui est venue un peu d'un coup. au début, un peu comme un coup de poignard. ça reste un peu par là, mais ça va un peu aussi sur le côté
+P3544 +++  non
+P3546 +++  euh non docteur
+P3548 +++  je ne sais pas docteur, c'était hier soir j'avais juste fini de manger et je regardais la télé
+P3550 +++  euh non docteur
+P3552 +++  euh non docteur
+P3554 +++  je n'ai pas ce problème docteur
+P3556 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3558 +++  euh non docteur
+P3560 +++  je n'ai pas ce problème docteur
+P3562 +++  euh non docteur
+P3564 +++  euh non
+P3566 +++  euh non docteur
+P3568 +++  je ne sais vraiment pas
+P3570 +++  non
+P3572 +++  je ne sais vraiment pas
+P3574 +++  non, rien de particulier. j'ai deux enfants et j'ai fait une fausse couche en 97.
+P3576 +++  euh non docteur
+P3578 +++  je pense oui
+P3580 +++  non
+P3582 +++  je ne sais vraiment pas
+P3584 +++  rien de particulier docteur
+P3586 +++  euh non docteur
+P3588 +++  je n'ai pas ce problème docteur
+P3590 +++  non docteur
+P3592 +++  non
+P3594 +++  non
+P3596 +++  je ne sais vraiment pas
+P3598 +++  euh non docteur
+P3600 +++  rien de particulier docteur
+P3602 +++  non, pas ces symptômes.
+P3604 +++  juste sous le sternum
+P3606 +++  euh non docteur
+P3608 +++  je ne sais vraiment pas
+P3610 +++  je n'ai pas ce problème docteur
+P3612 +++  rien de particulier docteur
+P3614 +++  euh non docteur
+P3616 +++  non
+P3618 +++  euh non docteur
+P3620 +++  euh non docteur
+P3622 +++  non
+P3624 +++  je ne sais vraiment pas
+P3626 +++  bah j'ai mal au niveau du ventre
+P3628 +++  pas ça docteur
+P3630 +++  je n'ai pas ce problème docteur
+P3632 +++  quand je me mets sur le côté j'ai moins mal
+P3634 +++  euh non docteur
+P3636 +++  non
+P3638 +++  je ne sais vraiment pas
+P3640 +++  euh non docteur
+P3642 +++  c'est plutôt comme un coup de poignard
+P3644 +++  non
+P3646 +++  euh non docteur
+P3648 +++  pas de régime particulier
+P3650 +++  je ne sais vraiment pas
+P3652 +++  pas du tout, non
+P3654 +++  non
+P3656 +++  euh non docteur
+P3658 +++  je ne sais vraiment pas
+P3660 +++  euh non docteur
+P3662 +++  euh non
+P3664 +++  euh non docteur
+P3666 +++  je ne sais vraiment pas
+P3668 +++  je ne sais vraiment pas
+P3670 +++  vous voyez, je ne peux pas vous dire, je ne me rappelle pas
+P3672 +++  non
+P3674 +++  je n'ai pas ce problème docteur
+P3676 +++  plutôt mal au ventre et ça a commencé hier soir
+P3678 +++  je n'ai pas ce problème docteur
+P3680 +++  je ne sais vraiment pas
+P3682 +++  euh non docteur
+P3684 +++  vous voyez, je ne peux pas vous dire, je ne me souviens pas
+P3686 +++  plutôt mal au ventre et ça a commencé hier soir
+P3688 +++  comme tout le monde sans excès
+P3690 +++  je n'ai pas ce problème docteur
+P3692 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3694 +++  non
+P3696 +++  je ne sais vraiment pas
+P3698 +++  j'ai vomi deux fois hier soir
+P3700 +++  je ne sais vraiment pas
+P3702 +++  je ne sais vraiment pas
+P3704 +++  euh non docteur
+P3706 +++  bah au début c'était très fort. j'ai jamais eu mal comme ça, sauf quand j'ai eu mon accouchement. donc ça devait être 8 à 9 sur 10. puis là ça va un petit peu mieux. donc là c'est plutôt 3 à 4 sur 10.
+P3708 +++  non
+P3710 +++  pas du tout, non
+P3712 +++  non pas vraiment.
+P3714 +++  euh non docteur
+P3716 +++  euh non docteur
+P3718 +++  non
+P3720 +++  euh non docteur
+P3722 +++  euh non docteur
+P3724 +++  c'est plutôt comme un coup de poignard
+P3726 +++  je ne sais vraiment pas
+P3728 +++  euh non docteur
+P3730 +++  je ne sais vraiment pas
+P3732 +++  je n'ai pas ce problème docteur
+P3734 +++  euh non docteur
+P3736 +++  euh non docteur
+P3738 +++  pas ça docteur
+P3740 +++  je ne sais vraiment pas
+P3742 +++  j'ai mal ici, un peu en haut, là, juste sous le sternum.
+P3744 +++  euh non docteur
+P3746 +++  j'avais la nausée et j'ai vomi deux fois
+P3748 +++  euh non docteur
+P3750 +++  euh non docteur
+P3752 +++  euh non docteur
+P3754 +++  je ne sais vraiment pas
+P3756 +++  comme tout le monde sans excès
+P3758 +++  euh non docteur
+P3760 +++  c'est plutôt comme un coup de poignard
+P3762 +++  je ne sais vraiment pas
+P3764 +++  j'ai eu une césarienne pour un de mes deux enfants et opérée des dents de sagesse
+P3766 +++  je ne sais vraiment pas
+P3768 +++  non, pas ces symptômes.
+P3770 +++  je ne sais pas docteur, c'était hier soir j'avais juste fini de manger et je regardais la télé
+P3772 +++  je ne sais vraiment pas
+P3774 +++  je n'ai pas ce problème docteur
+P3776 +++  je n'ai pas ce problème docteur
+P3778 +++  euh non docteur
+P3780 +++  rien de particulier docteur
+P3782 +++  rien de particulier docteur
+P3784 +++  non
+P3786 +++  comme tout le monde sans excès
+P3788 +++  je ne sais vraiment pas
+P3790 +++  non
+P3792 +++  j'ai mal en haut du ventre juste sous le sternum
+P3794 +++  euh non
+P3796 +++  non pas vraiment.
+P3798 +++  je ne sais vraiment pas
+P3800 +++  je ne sais vraiment pas
+P3802 +++  je ne sais vraiment pas
+P3804 +++  je n'ai pas ce problème docteur
+P3806 +++  euh non docteur
+P3808 +++  non, je ne prends pas de drogues.
+P3810 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3812 +++   pas de médecins
+P3814 +++  euh non docteur
+P3816 +++  non
+P3818 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3820 +++  euh non docteur
+P3822 +++  euh non docteur
+P3824 +++  je ne sais vraiment pas
+P3826 +++  non
+P3828 +++  je ne sais vraiment pas
+P3830 +++  euh non docteur
+P3832 +++  rien de particulier docteur
+P3834 +++  je n'ai jamais fumé
+P3836 +++  non.
+P3838 +++  je n'ai pas ce problème docteur
+P3840 +++  je n'ai pas de contact avec ma famille
+P3842 +++  euh non docteur
+P3844 +++  je ne sais vraiment pas
+P3846 +++  euh non docteur
+P3848 +++  euh non docteur
+P3850 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P3852 +++  euh non docteur
+P3854 +++  euh non, je prends pas de médicament. bah, des fois, quand j'ai mal, je prends du paracetamol. mais sinon, j'ai pas de traitement.
+P3856 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3858 +++  non
+P3860 +++  non
+P3862 +++  non
+P3864 +++  plutôt mal au ventre et ça a commencé hier soir
+P3866 +++  je n'ai pas ce problème docteur
+P3868 +++  je n'ai pas ce problème docteur
+P3870 +++  euh non docteur
+P3872 +++  pas de couleur particulière
+P3874 +++  euh non docteur
+P3876 +++  non, pas ces symptômes.
+P3878 +++  non, c'est un peu comme un coup de poignard, là.
+P3880 +++  euh non docteur
+P3882 +++  euh non docteur
+P3884 +++  euh non docteur
+P3886 +++  je ne sais vraiment pas
+P3888 +++  euh non docteur
+P3890 +++  non pas vraiment.
+P3892 +++  quand je me mets sur le côté j'ai moins mal
+P3894 +++  euh non docteur
+P3896 +++  euh non docteur
+P3898 +++  quand je me mets sur le côté droit ou gauche, j'ai moins mal
+P3900 +++  je ne sais vraiment pas
+P3902 +++  je ne sais vraiment pas
+P3904 +++  euh non docteur
+P3906 +++  je n'ai pas ce problème docteur
+P3908 +++  quand je me mets sur le côté j'ai moins mal
+P3910 +++  plutôt mal au ventre et ça a commencé hier soir
+P3912 +++  je n'ai pas ce problème docteur
+P3914 +++  euh non docteur
+P3916 +++  euh non
+P3918 +++  je n'ai pas ce problème docteur
+P3920 +++  quand je me mets sur le côté droit ou gauche, j'ai moins mal
+P3922 +++  je n'ai pas ce problème docteur
+P3924 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P3926 +++  euh non docteur
+P3928 +++  je ne sais vraiment pas
+P3930 +++  plutôt mal au ventre et ça a commencé hier soir
+P3932 +++  euh non docteur
+P3934 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P3936 +++  je ne sais vraiment pas
+P3938 +++  euh non docteur
+P3940 +++  pas de régime particulier
+P3942 +++  non
+P3944 +++  euh non docteur
+P3946 +++  j'ai mal en haut du ventre sous le sternum
+P3948 +++  euh non docteur
+P3950 +++  je ne sais vraiment pas
+P3952 +++  je n'ai pas ce problème docteur
+P3954 +++  je ne sais vraiment pas
+P3956 +++  je ne pratique pas ça docteur
+P3958 +++  bah non, rien de particulier. j'ai été opérée des dents de sagesse.
+P3960 +++  non docteur
+P3962 +++  je ne sais vraiment pas
+P3964 +++  rien de particulier docteur
+P3966 +++  rien de particulier docteur
+P3968 +++  je ne sais vraiment pas
+P3970 +++  non, pas ces symptômes.
+P3972 +++  c'est juste après avoir mangé que j'ai commencé à avoir mal au ventre
+P3974 +++  euh non docteur
+P3976 +++  pas de régime particulier
+P3978 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P3980 +++  non docteur
+P3982 +++  non
+P3984 +++  quand je me mets sur le côté j'ai moins mal
+P3986 +++  euh non docteur
+P3988 +++  comme tout le monde sans excès
+P3990 +++  non, c'était ce que j'ai mangé hier.
+P3992 +++  je n'ai pas ce problème docteur
+P3994 +++  euh non docteur
+P3996 +++  je ne sais vraiment pas
+P3998 +++  je ne sais vraiment pas
+P4000 +++  euh non docteur
+P4002 +++  rien de particulier docteur
+P4004 +++  euh non, je prends pas de médicament. bah, des fois, quand j'ai mal, je prends du paracetamol. mais sinon, j'ai pas de traitement.
+P4006 +++  euh non
+P4008 +++  j'avais la bausée et j'ai vomi deux foi shier soir
+P4010 +++  bah, c'est une douleur qui est venue un peu d'un coup. au début, un peu comme un coup de poignard. ça reste un peu par là, mais ça va un peu aussi sur le côté
+P4012 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4014 +++  rien de particulier docteur
+P4016 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4018 +++  plutôt mal au ventre et ça a commencé hier soir
+P4020 +++  euh non docteur
+P4022 +++  euh non docteur
+P4024 +++  euh non docteur
+P4026 +++  je ne sais vraiment pas
+P4028 +++  je n'ai pas ce problème docteur
+P4030 +++  plutôt mal au ventre et ça a commencé hier soir
+P4032 +++  je ne sais vraiment pas
+P4034 +++  rien de particulier docteur
+P4036 +++  non
+P4038 +++  euh non docteur
+P4040 +++  comme tout le monde sans excès
+P4042 +++  j'ai peur pour mon mal de ventre
+P4044 +++  je ne sais vraiment pas
+P4046 +++  pas du tout, non
+P4048 +++  euh non docteur
+P4050 +++  quand je me mets sur le côté droit ou gauche, j'ai moins mal
+P4052 +++  plutôt mal au ventre et ça a commencé hier soir
+P4054 +++  euh non docteur
+P4056 +++  je n'ai pas ce problème docteur
+P4058 +++  le transit est normal
+P4060 +++  au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+P4062 +++  euh non docteur
+P4064 +++  je n'ai pas ce problème docteur
+P4066 +++  oui docteur
+P4068 +++  euh non docteur
+P4070 +++  non, pas ces symptômes.
+P4072 +++  euh non docteur
+P4074 +++  euh non docteur
+P4076 +++  rien de particulier docteur
+P4078 +++  je n'ai pas ce problème docteur
+P4080 +++  j'ai une sexualité normale je suis hétéro
+P4082 +++  non
+P4084 +++  je ne sais vraiment pas
+P4086 +++  bah, c'est une douleur qui est venue un peu d'un coup. au début, un peu comme un coup de poignard. ça reste un peu par là, mais ça va un peu aussi sur le côté
+P4088 +++  je ne sais vraiment pas
+P4090 +++  quand je me mets sur le côté j'ai moins mal
+P4092 +++  je ne sais vraiment pas
+P4094 +++  non
+P4096 +++  euh non docteur
+P4098 +++  euh non docteur
+P4100 +++  non docteur
+P4102 +++  je ne sais vraiment pas
+P4104 +++  oui
+P4106 +++  je ne sais vraiment pas
+P4108 +++  euh non docteur
+P4110 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4112 +++  je ne sais vraiment pas
+P4114 +++  je ne sais vraiment pas
+P4116 +++  euh non docteur
+P4118 +++  euh non
+P4120 +++  euh non docteur
+P4122 +++  euh non docteur
+P4124 +++  euh non docteur
+P4126 +++  euh non docteur
+P4128 +++  je n'ai pas ce problème docteur
+P4130 +++  euh non docteur
+P4132 +++  je ne sais pas docteur je venais de manger une pizza et c'est apparue d'un seul coup
+P4134 +++  je n'ai pas ce problème docteur
+P4136 +++  je n'ai pas ce problème docteur
+P4138 +++  je n'ai pas ce problème docteur
+P4140 +++  je ne sais vraiment pas
+P4142 +++  c'est plutôt comme un coup de poignard
+P4144 +++  je ne sais vraiment pas
+P4146 +++  je ne sais vraiment pas
+P4148 +++  euh non docteur
+P4150 +++  bah effectivement, je venais de manger. j'avais mangé 2 pizzas, avec mes enfants. et puis j'étais en train de regarder la télé.et puis après c'est avec le doliprane, ça avait été un petit peu mieux. mais au début, c'était vraiment
+P4152 +++  euh non docteur
+P4154 +++  euh non docteur
+P4156 +++  pas d'activités sportives
+P4158 +++  je ne sais vraiment pas
+P4160 +++  c'est plutôt comme un coup de poignard
+P4162 +++  rien de particulier docteur
+P4164 +++  euh non docteur
+P4166 +++  rien de particulier docteur
+P4168 +++  bah non, rien de particulier. j'ai été opérée des dents de sagesse.
+P4170 +++  euh non docteur
+P4172 +++  bah j'avais mal au ventre toute la nuit
+P4174 +++  euh non docteur
+P4176 +++  euh non docteur
+P4178 +++  euh non, je prends pas de médicament. bah, des fois, quand j'ai mal, je prends du paracetamol. mais sinon, j'ai pas de traitement.
+P4180 +++  je n'ai pas ce problème docteur
+P4182 +++  je ne sais vraiment pas
+P4184 +++  je ne sais vraiment pas
+P4186 +++  c'est plutôt comme un coup de poignard
+P4188 +++  euh non docteur
+P4190 +++  non, c'est un peu comme un coup de poignard, là.
+P4192 +++  je n'ai pas ce problème docteur
+P4194 +++  euh non, je prends pas de médicament. bah, des fois, quand j'ai mal, je prends du paracetamol. mais sinon, j'ai pas de traitement.
+P4196 +++  euh non docteur
+P4198 +++  euh non docteur
+P4200 +++  je n'ai pas ce problème docteur
+P4202 +++  je ne sais vraiment pas
+P4204 +++  juste un soulagement du mal de ventre
+P4206 +++  euh non docteur
+P4208 +++  euh non docteur
+P4210 +++  oui un soulagement après avoir pris deux dolipranes
+P4212 +++  oui
+P4214 +++  non
+P4216 +++  euh non docteur
+P4218 +++  euh non docteur
+P4220 +++  ça a commencé hier soir
+P4222 +++  je n'ai pas ce problème docteur
+P4224 +++  comme tout le monde sans excès
+P4226 +++  ça reste un peu par là, mais ça va un peu aussi sur le côté
+P4228 +++  rien de particulier docteur
+P4230 +++  euh non docteur
+P4232 +++  euh non docteur
+P4234 +++  rien de particulier docteur
+P4236 +++  je n'ai pas ce problème docteur
+P4238 +++  je n'ai pas ce problème docteur
+P4240 +++  non, c'est un peu comme un coup de poignard, là.
+P4242 +++  je ne sais vraiment pas
+P4244 +++  quand je me mets sur le côté j'ai moins mal
+P4246 +++  euh non docteur
+P4248 +++  quand je me mets sur le côté j'ai moins mal
+P4250 +++  euh non
+P4252 +++  euh non docteur
+P4254 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P4256 +++  comme tout le monde sans excès
+P4258 +++  euh non
+P4260 +++  euh non docteur
+P4262 +++  je n'ai pas ce problème docteur
+P4264 +++  je ne sais vraiment pas
+P4266 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4268 +++  euh non docteur
+P4270 +++  oui docteur
+P4272 +++  oui docteur
+P4274 +++  je ne sais vraiment pas
+P4276 +++  euh non. bah, j'ai pas trop de contact avec ma famille. mais rien de particulier. ah si! il y a ma grand-mère qui a fait un infarctus.
+P4278 +++  oui j'ai froid
+P4280 +++  je n'ai pas ce problème docteur
+P4282 +++  je ne sais vraiment pas
+P4284 +++  euh non docteur
+P4286 +++  j'avais mangé une pizza juste après j'au eu très très mal au ventre
+P4288 +++  je ne sais vraiment pas
+P4290 +++  non
+P4292 +++  euh non docteur
+P4294 +++  euh non docteur
+P4296 +++  c'est plutôt comme un coup de poignard
+P4298 +++  non pas vraiment.
+P4300 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4302 +++  euh non docteur
+P4304 +++  je ne sais vraiment pas
+P4306 +++  je n'ai pas ce problème docteur
+P4308 +++  euh non docteur
+P4310 +++  non docteur
+P4312 +++  euh non docteur
+P4314 +++  je n'ai pas ce problème docteur
+P4316 +++  je ne sais vraiment pas
+P4318 +++  euh non docteur
+P4320 +++  rien de particulier docteur
+P4322 +++  je ne sais vraiment pas
+P4324 +++  je suis marié et j'ai deux enfants
+P4326 +++  euh non docteur
+P4328 +++  euh non docteur
+P4330 +++  je ne pratique aucune activité physique
+P4332 +++  je ne sais vraiment pas
+P4334 +++  je ne sais vraiment pas
+P4336 +++  euh non docteur
+P4338 +++  je n'ai pas ce problème docteur
+P4340 +++  oui deux enfants
+P4342 +++  euh non docteur
+P4344 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4346 +++  rien de particulier docteur
+P4348 +++  euh non docteur
+P4350 +++  euh non docteur
+P4352 +++  euh non docteur
+P4354 +++  euh non docteur
+P4356 +++  euh non docteur
+P4358 +++  je ne sais vraiment pas
+P4360 +++  euh non docteur
+P4362 +++  je n'ai pas ce problème docteur
+P4364 +++  euh non docteur
+P4366 +++  je ne sais vraiment pas
+P4368 +++  j'ai un stérilet
+P4370 +++  je ne sais vraiment pas
+P4372 +++  comme tout le monde sans excès
+P4374 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4376 +++  je ne sais vraiment pas
+P4378 +++  j'avais mangé et c'est juste après les douleurs sont apparues
+P4380 +++  quand je me mets sur le côté j'ai moins mal
+P4382 +++  je ne sais vraiment pas
+P4384 +++  euh non docteur
+P4386 +++  quand je me mets sur le côté j'ai moins mal
+P4388 +++  je n'ai pas ce problème docteur
+P4390 +++  je ne sais vraiment pas
+P4392 +++  je ne sais vraiment pas
+P4394 +++  je n'ai pas ce problème docteur
+P4396 +++  euh non docteur
+P4398 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4400 +++  je ne sais vraiment pas
+P4402 +++  rien de particulier docteur
+P4404 +++  comme tout le monde sans excès
+P4406 +++  je ne sais vraiment pas
+P4408 +++  je n'ai pas ce problème docteur
+P4410 +++  je n'ai pas ce problème docteur
+P4412 +++  je ne sais vraiment pas
+P4414 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4416 +++  je ne sais vraiment pas
+P4418 +++  euh non docteur
+P4420 +++  euh non docteur
+P4422 +++  rien de particulier docteur
+P4424 +++  euh non docteur
+P4426 +++  euh non docteur
+P4428 +++  euh non docteur
+P4430 +++  je n'ai pas ce problème docteur
+P4432 +++  euh non docteur
+P4434 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4436 +++  je ne sais vraiment pas
+P4438 +++  euh non docteur
+P4440 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4442 +++  je ne sais vraiment pas
+P4444 +++  euh non docteur
+P4446 +++  euh non docteur
+P4448 +++  je n'ai pas ce problème docteur
+P4450 +++  je ne sais vraiment pas
+P4452 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4454 +++  j'avais mangé une pizza et la douleur est survenue juste après
+P4456 +++  je n'ai pas ce problème docteur
+P4458 +++  je ne sais vraiment pas
+P4460 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4462 +++  oui docteur
+P4464 +++  je ne sais vraiment pas
+P4466 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4468 +++  je ne sais vraiment pas
+P4470 +++  euh non docteur
+P4472 +++  je ne sais vraiment pas
+P4474 +++  euh non docteur
+P4476 +++  euh non docteur
+P4478 +++  pas d'activités sportives
+P4480 +++  euh non docteur
+P4482 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4484 +++  euh non docteur
+P4486 +++  euh non docteur
+P4488 +++  je ne sais vraiment pas
+P4490 +++  je ne sais vraiment pas
+P4492 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4494 +++  euh non docteur
+P4496 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4498 +++  je n'ai pas ce problème docteur
+P4500 +++  plutôt mal au ventre et ça a commencé hier soir
+P4502 +++  je ne fume pas docteur
+P4504 +++  euh non docteur
+P4506 +++  je ne sais vraiment pas
+P4508 +++  pas de régime particulier
+P4510 +++  je n'ai pas ce problème docteur
+P4512 +++  le transit est normal
+P4514 +++  euh non docteur
+P4516 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4518 +++  je ne sais vraiment pas
+P4520 +++  euh non docteur
+P4522 +++  euh non docteur
+P4524 +++  je ne fume pas et je ne bois pas non plus
+P4526 +++  euh non docteur
+P4528 +++  je n'ai pas ce problème docteur
+P4530 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4532 +++  je ne sais vraiment pas
+P4534 +++  euh non docteur
+P4536 +++  j'ai mal sous le sternum
+P4538 +++  je n'ai pas ce problème docteur
+P4540 +++  je n'ai pas ce problème docteur
+P4542 +++  je ne sais vraiment pas
+P4544 +++  euh non docteur
+P4546 +++  je n'ai pas ce problème docteur
+P4548 +++  je ne bois pas
+P4550 +++  euh non docteur
+P4552 +++  je ne sais vraiment pas
+P4554 +++  je ne sais vraiment pas
+P4556 +++  je n'ai pas ce problème docteur
+P4558 +++  euh non docteur
+P4560 +++  euh non docteur
+P4562 +++  je ne sais vraiment pas
+P4564 +++  je n'ai pas ce problème docteur
+P4566 +++  euh non docteur
+P4568 +++  je ne sais vraiment pas
+P4570 +++  euh non pas de sand docteur
+P4572 +++  euh non docteur
+P4574 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4576 +++  j'avais mangé une pizza
+P4578 +++  euh non docteur
+P4580 +++  c'est plutôt comme un coup de poignard
+P4582 +++  euh non docteur
+P4584 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4586 +++  je ne sais vraiment pas
+P4588 +++  rien de particulier docteur
+P4590 +++  euh non docteur
+P4592 +++  je ne sais vraiment pas
+P4594 +++  euh non docteur
+P4596 +++  euh non docteur
+P4598 +++  je ne sais vraiment pas
+P4600 +++  je n'ai pas ce problème docteur
+P4602 +++  euh non docteur
+P4604 +++  quand je me mets sur le côté j'ai moins mal
+P4606 +++  euh non docteur
+P4608 +++  comme tout le monde sans excès
+P4610 +++  je ne sais vraiment pas
+P4612 +++  c'est plutôt comme un coup de poignard
+P4614 +++  euh non docteur
+P4616 +++  je ne sais vraiment pas
+P4618 +++  euh non docteur
+P4620 +++  je n'ai pas ce problème docteur
+P4622 +++  rien de particulier docteur
+P4624 +++  plutôt mal au ventre et ça a commencé hier soir
+P4626 +++  je ne sais vraiment pas
+P4628 +++  euh non docteur
+P4630 +++  euh non docteur
+P4632 +++  euh non docteur
+P4634 +++  quand je me mets sur le côté j'ai moins mal
+P4636 +++  euh non docteur
+P4638 +++  je n'ai pas ce problème docteur
+P4640 +++  c'est plutôt comme un coup de poignard
+P4642 +++  quand je me mets sur le côté j'ai moins mal
+P4644 +++  euh non docteur
+P4646 +++  euh non docteur
+P4648 +++  je ne sais vraiment pas
+P4650 +++  je ne sais vraiment pas
+P4652 +++  quand je me mets sur le côté j'ai moins mal
+P4654 +++  euh non docteur
+P4656 +++  euh non docteur
+P4658 +++  c'est plutôt comme un coup de poignard
+P4660 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4662 +++  euh non docteur
+P4664 +++  euh non docteur
+P4666 +++  euh non docteur
+P4668 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4670 +++  je n'ai pas ce problème docteur
+P4672 +++  euh non docteur
+P4674 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4676 +++  je ne sais vraiment pas
+P4678 +++  je n'ai pas ce problème docteur
+P4680 +++  je ne sais vraiment pas
+P4682 +++  plutôt mal au ventre et ça a commencé hier soir
+P4684 +++  je ne sais vraiment pas
+P4686 +++  je ne sais vraiment pas
+P4688 +++  plutôt mal au ventre et ça a commencé hier soir
+P4690 +++  euh non docteur
+P4692 +++  je ne sais vraiment pas
+P4694 +++  pas de régime particulier
+P4696 +++  euh non docteur
+P4698 +++  je n'ai pas ce problème docteur
+P4700 +++  euh non docteur
+P4702 +++  je ne sais vraiment pas
+P4704 +++  oui docteur j'ai un stérilet
+P4706 +++  euh non docteur
+P4708 +++  quand je me mets sur le côté j'ai moins mal
+P4710 +++  rien de particulier docteur
+P4712 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4714 +++  comme tout le monde sans excès
+P4716 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4718 +++  euh non docteur
+P4720 +++  euh non docteur
+P4722 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4724 +++  euh non docteur
+P4726 +++  euh non docteur
+P4728 +++  euh non docteur
+P4730 +++  c'est plutôt comme un coup de poignard
+P4732 +++  euh non docteur
+P4734 +++  euh non docteur
+P4736 +++  euh non docteur
+P4738 +++  je n'ai pas ce problème docteur
+P4740 +++  euh non docteur
+P4742 +++  euh non docteur
+P4744 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4746 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4748 +++  je ne sais vraiment pas
+P4750 +++  pas d'activités physiques
+P4752 +++  je ne pratique aucune activité sportive
+P4754 +++  je n'ai pas ce problème docteur
+P4756 +++  euh non docteur
+P4758 +++  je ne sais vraiment pas
+P4760 +++  je ne sais vraiment pas
+P4762 +++  euh non docteur
+P4764 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4766 +++  je n'ai pas d'addiction particulière
+P4768 +++  euh non docteur
+P4770 +++  euh non docteur
+P4772 +++  euh non docteur
+P4774 +++  plutôt mal au ventre et ça a commencé hier soir
+P4776 +++  euh non docteur
+P4778 +++  je ne sais vraiment pas
+P4780 +++  euh non docteur
+P4782 +++  euh non docteur
+P4784 +++  je ne sais vraiment pas
+P4786 +++  un intervalle de 5 ans
+P4788 +++  c'est plutôt comme un coup de poignard
+P4790 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4792 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4794 +++  euh non docteur
+P4796 +++  euh non docteur
+P4798 +++  euh non docteur
+P4800 +++  c'est plutôt comme un coup de poignard
+P4802 +++  euh non docteur
+P4804 +++  euh non docteur
+P4806 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4808 +++  je n'ai pas ce problème docteur
+P4810 +++  euh non docteur
+P4812 +++  euh non docteur
+P4814 +++  euh non docteur
+P4816 +++  euh non docteur
+P4818 +++  je n'ai pas ce problème docteur
+P4820 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4822 +++  euh non docteur
+P4824 +++  j'ai un stérilet docteur
+P4826 +++  j'ai un stérilet docteur
+P4828 +++  j'ai un stérilet docteur
+P4830 +++  euh non docteur
+P4832 +++  je n'ai pas ce problème docteur
+P4834 +++  c'est plutôt comme un coup de poignard
+P4836 +++  euh non docteur
+P4838 +++  euh non docteur
+P4840 +++  je suis mariée docteur
+P4842 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4844 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4846 +++  je n'ai pas ce problème docteur
+P4848 +++  je ne sais vraiment pas
+P4850 +++  je ne sais vraiment pas
+P4852 +++  je n'ai pas ce problème docteur
+P4854 +++  euh non docteur
+P4856 +++  rien de particulier docteur
+P4858 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4860 +++  je n'ai pas ce problème docteur
+P4862 +++  quand je me mets sur le côté j'ai moins mal
+P4864 +++  je n'ai pas ce problème docteur
+P4866 +++  je ne sais vraiment pas
+P4868 +++  je n'ai pas ce problème docteur
+P4870 +++  euh non docteur
+P4872 +++  euh non docteur
+P4874 +++  je n'ai pas ce problème docteur
+P4876 +++  les douleurs ont apparues après avoir mangé une pizza
+P4878 +++  euh non docteur
+P4880 +++  je ne sais vraiment pas
+P4882 +++  euh non docteur
+P4884 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4886 +++  je ne sais vraiment pas
+P4888 +++  je ne sais vraiment pas
+P4890 +++  c'est plutôt comme un coup de poignard
+P4892 +++  euh non docteur
+P4894 +++  euh non docteur
+P4896 +++  rien de particulier docteur
+P4898 +++  euh non docteur
+P4900 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4902 +++  je suis mariée docteur
+P4904 +++  euh non docteur
+P4906 +++  euh non docteur
+P4908 +++  je ne sais vraiment pas
+P4910 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4912 +++  je n'ai pas ce problème docteur
+P4914 +++  euh non docteur
+P4916 +++  euh non docteur
+P4918 +++  euh non docteur
+P4920 +++  euh non docteur
+P4922 +++  je n'ai pas ce problème docteur
+P4924 +++  euh non docteur
+P4926 +++  je ne sais vraiment pas
+P4928 +++  je ne sais vraiment pas
+P4930 +++  je ne sais vraiment pas
+P4932 +++  je ne sais vraiment pas
+P4934 +++  je n'ai pas ce problème docteur
+P4936 +++  je ne sais vraiment pas
+P4938 +++  j'ai mal au ventre sous le sternum
+P4940 +++  je ne sais vraiment pas
+P4942 +++  je n'ai pas ce problème docteur
+P4944 +++  comme tout le monde sans excès
+P4946 +++  euh non docteur
+P4948 +++  je n'ai pas ce problème docteur
+P4950 +++  je ne sais vraiment pas
+P4952 +++  euh non docteur
+P4954 +++  euh non docteur
+P4956 +++  je n'ai pas ce problème docteur
+P4958 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4960 +++  je ne sais vraiment pas
+P4962 +++  je ne sais vraiment pas
+P4964 +++  pas de régime particulier
+P4966 +++  je n'ai pas ce problème docteur
+P4968 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4970 +++  je ne sais vraiment pas
+P4972 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P4974 +++  j'ai un stérilet docteur
+P4976 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4978 +++  je ne sais vraiment pas
+P4980 +++  je ne sais vraiment pas
+P4982 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P4984 +++  je n'ai pas ce problème docteur
+P4986 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P4988 +++  je n'ai pas ce problème docteur
+P4990 +++  je ne suis pas sous traitement
+P4992 +++  je ne sais vraiment pas
+P4994 +++  euh non docteur
+P4996 +++  je ne sais vraiment pas
+P4998 +++  je n'ai pas d'addictions
+P5000 +++  quand je me mets sur le côté j'ai moins mal
+P5002 +++  je ne fume pas et je ne bois pas non plus
+P5004 +++  je n'ai pas ce problème docteur
+P5006 +++  je n'ai pas ce problème docteur
+P5008 +++  je ne bois pas
+P5010 +++  je ne bois pas
+P5012 +++  euh non docteur
+P5014 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5016 +++  je n'ai pas ce problème docteur
+P5018 +++  je ne sais vraiment pas
+P5020 +++  euh non docteur
+P5022 +++  je ne suis pas sous traitement
+P5024 +++  rien de particulier docteur
+P5026 +++  je n'ai pas ce problème docteur
+P5028 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5030 +++  euh non docteur
+P5032 +++  euh non docteur
+P5034 +++  j'ai froid
+P5036 +++  euh non docteur
+P5038 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5040 +++  euh non docteur
+P5042 +++  je n'ai pas ce problème docteur
+P5044 +++  euh non docteur
+P5046 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P5048 +++  j'ai très mal au ventre
+P5050 +++  euh non docteur
+P5052 +++  euh non docteur
+P5054 +++  euh non docteur
+P5056 +++  je n'ai pas ce problème docteur
+P5058 +++  euh non docteur
+P5060 +++  sy
+P5062 +++  je n'ai pas ce problème docteur
+P5064 +++  je ne sais vraiment pas
+P5066 +++  je n'ai pas ce problème docteur
+P5068 +++  je ne sais vraiment pas
+P5070 +++  je n'ai pas ce problème docteur
+P5072 +++  je n'ai pas ce problème docteur
+P5074 +++  euh non docteur
+P5076 +++  je n'ai pas ce problème docteur
+P5078 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P5080 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5082 +++  euh non docteur
+P5084 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5086 +++  je n'ai pas ce problème docteur
+P5088 +++  je n'ai pas ce problème docteur
+P5090 +++  plutôt mal au ventre et ça a commencé hier soir
+P5092 +++  euh non docteur
+P5094 +++  plutôt mal au ventre et ça a commencé hier soir
+P5096 +++  euh non docteur
+P5098 +++  je n'ai pas ce problème docteur
+P5100 +++  euh non docteur
+P5102 +++  plutôt mal au ventre et ça a commencé hier soir
+P5104 +++  je ne sais vraiment pas
+P5106 +++  je n'ai pas ce problème docteur
+P5108 +++  comme tout le monde sans excès
+P5110 +++  euh non docteur
+P5112 +++  je ne sais vraiment pas
+P5114 +++  euh non docteur
+P5116 +++  je ne sais vraiment pas
+P5118 +++  je travaille dans l'éducation, je suis enseignante
+P5120 +++  euh non docteur
+P5122 +++  euh non docteur
+P5124 +++  je ne sais vraiment pas
+P5126 +++  quand je me mets sur le côté j'ai moins mal
+P5128 +++  je ne sais vraiment pas
+P5130 +++  je ne sais vraiment pas
+P5132 +++  je ne sais vraiment pas
+P5134 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5136 +++  quand je me mets sur le côté j'ai moins mal
+P5138 +++  je ne sais vraiment pas
+P5140 +++  euh non docteur
+P5142 +++  je n'ai pas ce problème docteur
+P5144 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5146 +++  euh non docteur
+P5148 +++  je n'ai pas ce problème docteur
+P5150 +++  je ne sais vraiment pas
+P5152 +++  je ne sais vraiment pas
+P5154 +++  je ne sais vraiment pas
+P5156 +++  je n'ai pas ce problème docteur
+P5158 +++  euh non docteur
+P5160 +++  non
+P5162 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5164 +++  quand je me mets sur le côté j'ai moins mal
+P5166 +++  je n'ai pas ce problème docteur
+P5168 +++  c'est plutôt comme un coup de poignard
+P5170 +++  euh non docteur
+P5172 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5174 +++  labforsims
+P5176 +++  je ne sais vraiment pas
+P5178 +++  j'habite avec mon mari et mes deux enfants
+P5180 +++  je ne sais vraiment pas
+P5182 +++  euh non docteur
+P5184 +++  je n'en mange pas docteur
+P5186 +++  je n'ai pas ce problème docteur
+P5188 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P5190 +++  je ne sais vraiment pas
+P5192 +++  euh non docteur
+P5194 +++  euh non docteur
+P5196 +++  plutôt mal au ventre et ça a commencé hier soir
+P5198 +++  euh non docteur
+P5200 +++  j'ai un stérilet
+P5202 +++  j'ai un stérilet
+P5204 +++  euh non docteur
+P5206 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5208 +++  quand je me mets sur le côté j'ai moins mal
+P5210 +++  rien de particulier docteur
+P5212 +++  euh non docteur
+P5214 +++  je n'ai pas ce problème docteur
+P5216 +++  euh non docteur
+P5218 +++  c'est plutôt comme un coup de poignard
+P5220 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P5222 +++  oui j'ai pris 2 comprimés de paracétamol
+P5224 +++  je ne sais vraiment pas
+P5226 +++  euh non docteur
+P5228 +++  euh non docteur
+P5230 +++  je ne sais vraiment pas
+P5232 +++  mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière.
+P5234 +++  je ne sais vraiment pas
+P5236 +++  le transit, c'est normal
+P5238 +++  je n'ai pas ce problème docteur
+P5240 +++  rien de particulier docteur
+P5242 +++  plutôt mal au ventre et ça a commencé hier soir
+P5244 +++  euh non docteur
+P5246 +++  pas d'activités sportives
+P5248 +++  euh non docteur
+P5250 +++  plutôt mal au ventre et ça a commencé hier soir
+P5252 +++  plutôt mal au ventre et ça a commencé hier soir
+P5254 +++  je ne sais vraiment pas
+P5256 +++  comme tout le monde sans excès
+P5258 +++  je ne fume pas
+P5260 +++  euh non docteur
+P5262 +++   oui j'ai eu une fausse couche
+P5264 +++  quand je me mets sur le côté j'ai moins mal
+P5266 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5268 +++  bah effectivement, je venais de manger. j'avais mangé 2 pizzas, avec mes enfants. et puis j'étais en train de regarder la télé.et puis après c'est avec le doliprane, ça avait été un petit peu mieux. mais au début, c'était vraiment
+P5270 +++  oui docteur
+P5272 +++  je ne sais vraiment pas
+P5274 +++  je m'excuse, mais je ne souhaite pas donner cette information.
+P5276 +++  quand je me mets sur le côté j'ai moins mal
+P5278 +++  euh non docteur
+P5280 +++  j'ai vomi deux fois hier soir
+P5282 +++  je ne sais vraiment pas
+P5284 +++  euh non docteur
+P5286 +++  non, j'ai un stérilet.
+P5288 +++  je n'ai jamais été opérée mais j'ai accouché 2 fois et j'ai fait une fausse couche.
+P5290 +++  je n'ai pas ce problème docteur
+P5292 +++  euh non docteur
+P5294 +++  euh non docteur
+P5296 +++  je n'ai pas ce problème docteur
+P5298 +++  euh non docteur
+P5300 +++  euh non docteur
+P5302 +++  euh non docteur
+P5304 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5306 +++  non
+P5308 +++  oui docteur
+P5310 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5312 +++  euh non docteur
+P5314 +++  je suis enseignante en école maternelle
+P5316 +++  je ne sais pas mais je me sentais un peu fiévreuse
+P5318 +++  euh non docteur
+P5320 +++  euh non docteur
+P5322 +++  euh non docteur
+P5324 +++  euh non docteur
+P5326 +++  non, j'ai pas de problèmes particuliers. je me suis fait opérer des dents de sagesse. j'ai 2 enfants, et puis j'ai fait une fausse couche. mais sinon, rien de particulier. ah si oui, je suis allergique au pollen.
+P5328 +++  je ne sais vraiment pas
+P5330 +++  je ne sais vraiment pas
+P5332 +++  euh non docteur
+P5334 +++  je viens parce que j'ai très mal au ventre
+P5336 +++  je ne bois pas docteur
+P5338 +++  euh non docteur
+P5340 +++  je ne sais vraiment pas
+P5342 +++  je ne sais vraiment pas
+P5344 +++  non
+P5346 +++  euh non docteur
+P5348 +++  euh non docteur
+P5350 +++  euh non docteur
+P5352 +++  euh non docteur
+P5354 +++  je ne sais vraiment pas
+P5356 +++  euh non docteur
+P5358 +++  je n'ai pas ce problème docteur
+P5360 +++  je ne souhaite pas donner cette information
+P5362 +++  je ne sais vraiment pas
+P5364 +++  oui docteur il nous arrive de mettre des préservatifs mon mari et moi
+P5366 +++  quand je me mets sur le côté j'ai moins mal
+P5368 +++  euh non docteur
+P5370 +++  comme tout le monde sans excès
+P5372 +++  euh non docteur
+P5374 +++  euh non docteur
+P5376 +++  euh non docteur
+P5378 +++  euh non docteur
+P5380 +++  euh non docteur
+P5382 +++  et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule
+P5384 +++  euh non docteur
+P5386 +++  euh non docteur
+P5388 +++  euh non docteur
+P5390 +++  je n'ai pas ce problème docteur
+P5392 +++  euh non docteur
+P5394 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5396 +++  c'est là. et puis c'est vrai que ça va un peu sur le côté, là, vers la droite. un petit peu de l'autre côté aussi, mais surtout du côté droit. et puis un peu dans le dos et vers les épaules, là, aussi
+P5398 +++  c'est plutôt comme un coup de poignard
+P5400 +++  euh non docteur
+P5402 +++  plutôt mal au ventre et ça a commencé hier soir
+P5404 +++  quand je me mets sur le côté j'ai moins mal
+P5406 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5408 +++  je ne pratiques pas d'activités sportives
+P5410 +++  non pas de sport
+P5412 +++  je préfère garder cette information
+P5414 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5416 +++  plutôt mal au ventre et ça a commencé hier soir
+P5418 +++  non, pas particulièrement.
+P5420 +++  euh non docteur
+P5422 +++  euh non docteur
+P5424 +++  euh non docteur
+P5426 +++  je ne sais vraiment pas
+P5428 +++  euh non docteur
+P5430 +++  rien de particulier docteur
+P5432 +++  je n'ai pas d'addictions
+P5434 +++  euh non docteur
+P5436 +++  j'ai un stérilet avec des hormones et je n'ai pas de règles.
+P5438 +++  euh non docteur
+P5440 +++  plutôt mal au ventre et ça a commencé hier soir
+P5442 +++  euh non docteur
+P5444 +++  euh non docteur
+P5446 +++  je ne sais vraiment pas
+P5448 +++  euh non docteur
+P5450 +++  euh non docteur
+P5452 +++  euh non docteur
+P5454 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5456 +++  euh non docteur
+P5458 +++  je ne sais vraiment pas
+P5460 +++  je ne sais vraiment pas
+P5462 +++  euh non docteur
+P5464 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5466 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5468 +++  je n'ai pas ce problème docteur
+P5470 +++  euh non docteur
+P5472 +++  euh non docteur
+P5474 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5476 +++  euh non docteur
+P5478 +++  euh non docteur
+P5480 +++  je ne bois pas
+P5482 +++  je ne sais vraiment pas
+P5484 +++  euh non docteur
+P5486 +++  c'est plutôt comme un coup de poignard
+P5488 +++  euh non docteur
+P5490 +++  non
+P5492 +++  je ne sais vraiment pas
+P5494 +++  je ne sais vraiment pas
+P5496 +++  euh non docteur
+P5498 +++  euh non docteur
+P5500 +++  c'est plutôt comme un coup de poignard
+P5502 +++  je ne sais vraiment pas
+P5504 +++  quand je me mets sur le côté j'ai moins mal
+P5506 +++  euh non docteur
+P5508 +++  euh non docteur
+P5510 +++  euh non docteur
+P5512 +++  euh non docteur
+P5514 +++  comme tout le monde sans excès
+P5516 +++  je n'ai pas ce problème docteur
+P5518 +++  euh non docteur
+P5520 +++  euh non docteur
+P5522 +++  euh non docteur
+P5524 +++  j'ai mal au ventre juste sous le sternum
+P5526 +++  euh non docteur
+P5528 +++  euh non docteur
+P5530 +++  j'ai juste vomi deux fois hier soir
+P5532 +++  euh non docteur
+P5534 +++  euh non docteur
+P5536 +++  euh non docteur
+P5538 +++  je n'ai pas ce problème docteur
+P5540 +++  euh non docteur
+P5542 +++  euh non docteur
+P5544 +++  42 ans
+P5546 +++  je mange chez moi
+P5548 +++  euh non docteur
+P5550 +++  plutôt mal au ventre et ça a commencé hier soir
+P5552 +++  je ne sais vraiment pas
+P5554 +++  euh non docteur
+P5556 +++  euh non docteur
+P5558 +++  je ne sais vraiment pas
+P5560 +++  euh non docteur
+P5562 +++  euh non docteur
+P5564 +++  comme tout le monde sans excès
+P5566 +++  j'ai juste eu une opération pour mes dents de sagesse et une césarienne pour ma deuxième grossesse et elles se sont bien passées
+P5568 +++  pas de sports
+P5570 +++  je ne sais vraiment pas
+P5572 +++  euh non docteur
+P5574 +++  euh non docteur
+P5576 +++  je ne sais vraiment pas
+P5578 +++  bah ça m'a empêché de dormir. du coup, j'ai pris 2 doliprane. et avec le doliprane, ça allait mieux.
+P5580 +++  je n'ai pas ce problème docteur
+P5582 +++  euh non docteur
+P5584 +++  euh non docteur
+P5586 +++  euh non docteur
+P5588 +++  rien de particulier docteur
+P5590 +++  euh non docteur
+P5592 +++  euh non
+P5594 +++  je ne sais vraiment pas
+P5596 +++  euh non docteur
+P5598 +++  pas d'allergies
+P5600 +++  quand je me mets sur le côté j'ai moins mal
+P5602 +++  rien de particulier docteur
+P5604 +++  je n'ai pas ce problème docteur
+P5606 +++  je ne sais vraiment pas
+P5608 +++  euh non docteur
+P5610 +++  euh non docteur
+P5612 +++  je ne sais vraiment pas
+P5614 +++  quand je me mets sur le côté j'ai moins mal
+P5616 +++  euh non docteur
+P5618 +++  non
+P5620 +++  euh non docteur
+P5622 +++  euh non docteur
+P5624 +++  je n'ai pas ce problème docteur
+P5626 +++  je ne sais vraiment pas
+P5628 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5630 +++  c'est plutôt comme un coup de poignard
+P5632 +++  plutôt mal au ventre et ça a commencé hier soir
+P5634 +++  je ne sais vraiment pas
+P5636 +++  euh non docteur
+P5638 +++  j'avais fini de manger et je regardais la télé
+P5640 +++  je ne sais vraiment pas
+P5642 +++  euh non docteur
+P5644 +++  non
+P5646 +++  dans ma famille, je n'en sais rien docteur
+P5648 +++  rien de particulier docteur
+P5650 +++  je ne sais vraiment pas
+P5652 +++  le transit est normal
+P5654 +++  euh non docteur
+P5656 +++  je ne sais vraiment pas
+P5658 +++  quand je me mets sur le côté j'ai moins mal
+P5660 +++  euh non docteur
+P5662 +++  plutôt mal au ventre et ça a commencé hier soir
+P5664 +++  euh non docteur
+P5666 +++  j'ai plutôt des douleurs au ventre, c'est comme un coup de poignard
+P5668 +++  euh non docteur
+P5670 +++  non
+P5672 +++  euh non docteur
+P5674 +++  euh non docteur
+P5676 +++  euh non docteur
+P5678 +++  euh non docteur
+P5680 +++  euh non docteur
+P5682 +++  je n'ai pas ce problème docteur
+P5684 +++  euh non docteur
+P5686 +++  non pas d'antécédents particuliers, docteur.
+P5688 +++  rien de particulier docteur
+P5690 +++  euh non docteur
+P5692 +++  euh non docteur
+P5694 +++  euh non docteur
+P5696 +++  euh non docteur
+P5698 +++  euh non docteur
+P5700 +++  je ne sais vraiment pas
+P5702 +++  euh non
+P5704 +++  je ne sais vraiment pas
+P5706 +++  euh non docteur
+P5708 +++  comme tout le monde sans excès
+P5710 +++  non
+P5712 +++  rien de particulier docteur
+P5714 +++  non
+P5716 +++  quand je me mets sur l ecôté j'ai moins mal
+P5718 +++  euh non docteur
+P5720 +++  euh non docteur
+P5722 +++  euh non docteur
+P5724 +++  je ne sais vraiment pas
+P5726 +++  plutôt mal au ventre et ça a commencé hier soir
+P5728 +++  je ne me drogue pas, je ne fume pas et je ne bois pas
+P5730 +++  euh non docteur

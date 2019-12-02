@@ -1,0 +1,60 @@
+d18000000 bonjour madame 
+p18000000 Bonjour docteur
+d18000001 vous consulté aujourd'hui pour des douleurs abdominales 
+p18000001 Oui docteur, tout à fait
+d18050052 est-ce que vous avez mal au ventre 
+p18050052 J'ai mal au niveau du ventre
+d18050053 où dans le ventre 
+p18050053 C'est là. En fait c'est juste sous le sternum. Là, juste en haut du ventre.
+d18050004 depuis combien de temps avez-vous mal au ventre 
+p18050004 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d18050045 est-ce que vous avez vomi 
+p18050045 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d18050046 est-ce que vous avez de la diarrhée 
+p18050046 Non
+d18050017 est-ce que vous avez eu de la fièvre 
+p18050017 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d18050048 est-ce que vous avez eu des autres douleurs 
+p18050048 Non
+d18050009 est-ce que la douleur est continue depuis hier soir 
+p18050009 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d180500410 quand est-ce que la couleur de vos selles étaient décoloré 
+p180500410 Non, non, ça, j'ai rien remarqué. Non, j'ai pas vu de jaunisse.
+d180400311 est-ce que vous êtes possiblement enceinte 
+p180400311 J'ai un stérilet
+d180400412 la date de votre dernière règle c'était quand quand avez-vous eu vos dernières règles 
+p180400412 J'ai un stérilet avec des hormones et je n'ai pas de règles.
+d180100113 est-ce que est-ce que vous êtes marié 
+p180100113 Oui j'ai un mari
+d180100214 est-ce que vous avez des enfants 
+p180100214 J'ai 2 enfants
+d180100515 est-ce que vous travaillez est-ce que vous travaillez 
+p180100515 Je suis enseignante en école maternelle.
+d180400016 est-ce que vous avez eu des problèmes de santé dans votre vie 
+p180400016 Non
+d180400017 pas d'hypertension 
+p180400017 Non
+d180400018 vous n'avez pas de diabète 
+p180400018 Non
+d180400019 vous avez un diabète 
+p180400019 Non
+d180400520 est-ce que vous avez des allergies 
+p180400520 Non, je ne suis pas allergique si, un peu au pollen J'ai de l'allergie un peu au pollen. Mais sinon, rien de grave.
+d180400221 vous avez été opéré dans votre vie 
+p180400221 J'ai été opérée des dents de sagesse.
+d180300022 quand est-ce que vous prenez un traitement médical 
+p180300022 Non, je ne suis pas sous traitement. des fois, quand j'ai mal, je prends du paracetamol. Mais sinon, j'ai pas de traitement.
+d180300123 est-ce que  pour la douleur d'hier est-ce que vous  vous avez pris un traitement 
+p180300123 Non pas de traitement
+d180300024 depuis hier est-ce que vous avez pris les médicaments 
+p180300024 Oui j'ai pris deux dolipranes.
+d180300025 est-ce que ça à soulager les douleurs 
+p180300025 Oui un peu mais pas complètement.
+d180500426 est-ce que vous avez eu des douleurs au niveau du thorax 
+p180500426 J'ai mal au ventre, on dirait un coup de poignard
+d180500727 est-ce que vous êtes essoufflé 
+p180500727 Non
+d180500728 que vous êtes essoufflé 
+p180500728 Non
+d180500729 est-ce que vous avez le souffle court 
+p180500729 Non

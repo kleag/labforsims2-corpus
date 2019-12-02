@@ -1,0 +1,2701 @@
+MTF0001 +++ bonjour. donc. pourquoi venez-vous aux urgences?
+MTF0003 +++ salut . donc . pourquoi venir vous aux urgence ?
+MTF0005 +++ bonjour . donc . pourquoi venir vous à hôpital ?
+MTF0007 +++ pourquoi venir vous à l'hosto ?
+HDM0010 +++ d'accord, depuis quand?
+HDM0013 +++ d'accord. et ça fait mal à peu près où?
+HDM0016 +++ et c'est une douleur qui est continue, ou?
+TRT0019 +++ d'accord. et vous aviez pris des traitements avant?
+TRT0022 +++ d'accord. vous ne prenez pas l'aspirine ou?
+ATD0025 +++ d'accord, ok. vous avez déjà eu des douleurs comme ça avant, ou jamais?
+HDM0028 +++ en général, après manger?
+HDM0031 +++ et hier?
+ATD0034 +++ et vous êtes suivie pour des maladies particulières?
+HDM0037 +++ d'accord. ok. d'accord. c'est une douleur qui est fixe ou ça irradie ? enfin, ça touche d'autres endroits?
+MTF0040 +++ bonjour madame. alors, est-ce que vous pouvez me raconter un peu, ce qui se passe? pourquoi vous êtes ici?
+HDM0043 +++ c'est-à-dire? ça a commencé quand?
+HDM0046 +++ vous avez mal quelque part en particulier?
+ATD0049 +++ d'accord. et vous avez déjà eu une douleur comme ça? vous connaissez?
+HDM0052 +++ d'accord. et là, vous avez encore mal?
+TRT0055 +++ ok. vous avez pris des antalgiques ou pas?
+HDM0058 +++ ok. vous aviez mangé quelque chose de particulier, pas comme d'habitude?
+HDM0061 +++ d'accord. vous avez pas eu envie de vomir?
+HDM0064 +++ d'accord. vous avez de la fièvre ou pas?
+HDM0067 +++ et vous avez des problèmes de transit en ce moment? plus que d'habitude?
+ATD0070 +++ et du coup cette douleur, vous l'avez déjà connue avant?
+ATD0073 +++ et ça passait de temps en temps?
+ATD0076 +++ d'accord. et est-ce que vous avez déjà eu la peau jaune? ou la conjonctive des yeux? vous avez jamais remarqué?
+ATD0079 +++ d'accord. sinon je voulais revoir avec vous du coup: est-ce que vous avez des antécédents particuliers? des maladies?
+UNK0082 +++ d'accord.
+ATD0085 +++ pas de diabète?
+ATD0088 +++ hypertension?
+ATD0091 +++ et à part les dents de sagesse, vous avez pas eu d'autres opérations?
+ATD0094 +++ d'accord. mais rien au niveau haut de l'abdomen? vous avez toujours votre vésicule biliaire?
+UNK0097 +++ pour l'instant j'essaye de voir.
+UNK0100 +++ je pose juste mes questions après je vais vous examiner.
+ATD0103 +++ après entre tout ce qu'on regarde sur internet, tout et n'importe quoi, je vous conseille vraiment pas. c'est plus phénomène d'anxiété qu'autre chose, je pense. du coup, d'accord. est-ce que vous avez des allergies particulières?
+MDV0106 +++ et est-ce que vous fumez?
+MDV0109 +++ vous buvez de temps en temps?
+UNK0112 +++ pour les occasions?
+UNK0115 +++ ok. donc, je vais vous examiner.
+PSN0118 +++ bonjour madame. vous êtes madame?
+PSN0121 +++ vous avez quel âge?
+HDM0124 +++ et vous venez parce que vous avez mal au ventre. alors racontez-moi quand est-ce que ça a commencé.
+HDM0127 +++ ça a commencé hier soir?
+HDM0130 +++ est-ce que vous aviez mal autre part? est-ce que la douleur, elle partait dans un sens ou dans un autre?
+HDM0133 +++ que à droite?
+HDM0136 +++ d'accord. est-ce que vous avez vomi?
+TRT0139 +++ et vous avez essayé de prendre quelque chose pour soulager la douleur?
+ATD0142 +++ d'accord. est-ce que vous avez déjà eu la même douleur auparavant? est-ce que vous avez déjà été malade et ça vous a fait la même chose?
+ATD0145 +++ c'était quand?
+ATD0148 +++ d'accord. et là c'est resté?
+HDM0151 +++ vous avez eu de la fièvre?
+HDM0154 +++ est-ce que la douleur, ça vous a empêché de manger?
+TRT0157 +++ d'accord. est-ce que vous prenez des traitements tous les jours? des médicaments?
+TRT0160 +++ même pas même la pilule?
+ATD0163 +++ ok. est-ce que vous avez des pathologies comme de la tension, du diabète?
+ATD0166 +++ césarienne ou ?
+ATD0169 +++ et dans votre famille, il y a des problèmes de santé?
+ATD0172 +++ a quel âge?
+UNK0175 +++ d'accord. ok.
+MTF0178 +++ bonjour madame. alors qu'est-ce qui vous arrive?
+HDM0181 +++ vous pouvez me dire à peu près, à quel niveau du ventre, vous avez mal.
+HDM0184 +++ d'accord. ça fait combien de temps que vous avez mal?
+HDM0187 +++ d'accord. après manger? a un moment particulier?
+TRT0190 +++ d'accord. et puis, à part le doliprane, il n'y a pas une position qui vous soulageait? ou un mouvement qui aggravait la douleur?
+UNK0193 +++ d'accord. donc là, on va vous examiner un petit peu, et....
+MTF0196 +++ bonjour. vous venez pour quoi?
+HDM0199 +++ depuis quand, vous avez mal au ventre?
+HDM0202 +++ ouais. et c'est à peu près où?
+HDM0205 +++ et ça vous est arrivé d'un coup?
+HDM0208 +++ c'était combien de temps après manger à peu près?
+ATD0211 +++ ça vous est déjà arrivé des douleurs comme ça?
+HDM0214 +++ et là, la douleur, elle était longue? elle est pas passée?
+TRT0217 +++ vous l'avez pris quand le doliprane?
+HDM0220 +++ ok. et est-ce qu'il y a d'autres endroits où vous avez mal?
+PSN0223 +++ ok. et vous avez quel âge?
+PSN0226 +++ est-ce que vous avez des enfants?
+PSN0229 +++ ok. et vous travaillez?
+ATD0232 +++ et est-ce que vous avez déjà eu des chirurgies ou?
+ATD0235 +++ ok. et sinon, il y a pas eu d'autres opérations ou quoi que ce soit?
+ATD0238 +++ et est-ce que vous avez déjà eu des maladies particulières? du diabète?
+TRT0241 +++ ok. est-ce que vous prenez des traitements particuliers? pour votre allergie ou pour autre chose?
+HDM0244 +++ et pour revenir à la douleur: est-ce que vous aviez aussi des vomissements associés?
+HDM0247 +++ oui? vous avez pas vomi, sinon?
+HDM0250 +++ avec des frissons, ou?
+HDM0253 +++ et au niveau du transit?
+MTF0256 +++ bonjour. alors, qu'est-ce qui vous arrive? qu'est-ce qui vous amène aux urgences aujourd'hui?
+HDM0259 +++ d'accord. depuis quand ça dure?
+HDM0262 +++ vous veniez de manger?
+HDM0265 +++ d'accord. il y a eu d'autres signes avec ça? vous avez vomi, ou?
+HDM0268 +++ d'accord. des diarrhées? des choses comme ça?
+HDM0271 +++ l'appétit est normal, ces derniers temps?
+ATD0274 +++ vous avez des antécédents en particulier? des problèmes de santé? ça vous avez déjà fait ça avant?
+ATD0277 +++ ils ont quel âge?
+ATD0280 +++ les accouchements s'étaient bien passés?
+HDM0283 +++ donc là vous avez encore mal en ce moment?
+HDM0286 +++ c'est un peu passé?
+HDM0289 +++ et la douleur, si vous deviez la quoter sur une échelle...?
+HDM0292 +++ ça vous a empêché de dormir cette nuit?
+HDM0295 +++ d'accord. et donc là, si vous pouviez me montrer la douleur.
+HDM0298 +++ et c'était quel type de douleur?
+PSN0301 +++ bonjour madame. vous vous appelez comment?
+PSN0304 +++ vous avez quel âge?
+MTF0307 +++ d'accord. et expliquez-moi, pourquoi vous venez.
+HDM0310 +++ depuis combien de temps?
+HDM0313 +++ d'accord. donc c'était hier soir, ça?
+HDM0316 +++ et pourquoi vous venez que maintenant?
+HDM0319 +++ elle est toujours présente. et c'est parce qu'elle continue que vous êtes venue?
+HDM0322 +++ initialement, la douleur, elle est apparue brutalement?
+HDM0325 +++ et elle était très douloureuse?
+HDM0328 +++ d'accord. et elle était localisée à quel endroit?
+HDM0331 +++ d'accord. et elle irradiait quelque part? vous la sentiez ailleurs la douleur? ou c'était vraiment très localisé?
+HDM0334 +++ d'accord. est-ce que c'était augmenté quand vous inspiriez très fort? ça vous coupait la respiration?
+TRT0337 +++ et penchée en avant par exemple, ça soulageait? y a une position qui vous soulage?
+HDM0340 +++ et là, c'était juste après un repas? vous aviez pris des médicaments, quelque chose, ou?
+HDM0343 +++ d'accord. vous avez eu des nausées? des vomissements?
+HDM0346 +++ vous avez eu de la fièvre? vous avez pris votre température?
+ATD0349 +++ et est-ce qu'on vous a dit, ou quelqu'un a remarqué que vous étiez un peu jaune ou vous vous êtes regardé? vous aviez un aspect normal?
+HDM0352 +++ vous aviez eu des sueurs? des choses comme ça?
+ATD0355 +++ et personne n'a eu de fièvre chez vous?
+HDM0358 +++ et donc après, vous aviez pris un médicament, et puis ça ne s'infectait pas, vous êtes venu. c'est ça?
+HDM0361 +++ d'accord. c'est une douleur en plateau, continue? ou est-ce qu'il y a des moments où ça fait plus mal, c'est plus intense?
+HDM0364 +++ là comment vous vous sentez?
+HDM0367 +++ d'accord. au même endroit?
+ATD0370 +++ d'accord. vous n'avez jamais eu de douleur à cet endroit-là?
+ATD0373 +++ c'était moins fort?
+ATD0376 +++ et c'était passé tout seul?
+ATD0379 +++ rapidement?
+ATD0382 +++ d'accord. vous avez des maladies?
+TRT0385 +++ d'accord. pas de médicament?
+ATD0388 +++ pas de diabète? pas de cholestérol? pas de tension?
+MDV0391 +++ vous avez un médecin traitant?
+MDV0394 +++ vous êtes suivie par un autre spécialiste?
+TRT0397 +++ d'accord. vous prenez des médicaments au quotidien?
+ATD0400 +++ dans la famille, tout le monde est en bonne santé?
+UNK0403 +++ d'accord.
+PSN0405 +++ quel âge avez-vous ?
+PSN0408 +++ où habitez vous ?
+PSN0411 +++ quelle est votre profession ?
+PSN0414 +++ avez-vous des enfants et combien de grossesses avez-vous eu ?
+ATD0417 +++ avez-vous des problèmes de santé, digestifs par exemple ?
+ATD0420 +++ avez-vous des antécédents médicaux ?
+ATD0423 +++ y'a-t-il dans votre famille des gens qui ont des problèmes de santé ?
+TRT0426 +++ prenez vous des médicaments ?
+ATD0429 +++ avez-vous des allergies connues ?
+ATD0432 +++ prenez vous une contraception ?
+ATD0435 +++ avez-vous déjà été opérée ?
+MTF0438 +++ pourquoi venez vous consulter aux urgences ?
+HDM0441 +++ où avez-vous mal ?
+HDM0444 +++ depuis quand avez-vous mal ?
+HDM0447 +++ la douleur est-elle toujours présente ?
+ATD0450 +++ avez-vous déjà eu ce type de douleurs ?
+HDM0453 +++ avez-vous une sensation de faim douloureuse ?
+HDM0456 +++ est-ce que ça fait comme une crampe douloureuse ?
+HDM0459 +++ est-ce plus un point douloureux, comme un point de côté ?
+HDM0462 +++ est-ce que la douleur va ailleurs dans l'abdomen dans le dos ou vers la gauche ou vers la mâchoire ?
+HDM0465 +++ est-ce que la douleur va vers l'épaule ?
+HDM0468 +++ est-ce que la douleur est rythmée par les repas ?
+TRT0471 +++ est-ce que la douleur est calmée par certaines positions ?
+HDM0474 +++ est-ce que la douleur est plus forte quand vous respirez profondément ?
+TRT0477 +++ avez-vous pris quelque chose pour calmer la douleur ?
+TRT0480 +++ en dehors des deux comprimés de paracétamol, est-ce que vous avez pris d'autres médicaments récemment ?
+HDM0483 +++ pouvez vous coter votre douleur de 0 à 10 ?
+HDM0486 +++ est-ce que vous avez vomi ?
+ATD0489 +++ y'a-t-il d'autres personnes malades dans votre entourage, présentant les mêmes symptômes ?
+HDM0492 +++ est-ce que vous avez des nausées ?
+HDM0495 +++ est-ce que vous allez aux toilettes normalement ?
+HDM0498 +++ avez-vous des gazs ?
+ATD0501 +++ à quand remonte vos dernières règles ?
+HDM0504 +++ est-ce que vous avez des saignements d'origine gynécologiques anormaux ou des pertes anormales ?
+HDM0507 +++ est-ce que vous avez des brûlures quand vous faites pipi ?
+HDM0510 +++ est-ce que vous avez eu un malaise, ou est-ce que vous avez perdu connaissance ?
+HDM0513 +++ est-ce que vous avez des palpitations ?
+HDM0516 +++ est-ce que vous ressentez une gène respiratoire ?
+MDV0519 +++ est-ce que vous avez voyagé récemment ?
+HDM0522 +++ est-ce que vous avez remarqué que vos urines étaient très foncées ?
+HDM0525 +++ est-ce que vous avez remarqué que vos selles étaient décolorées ?
+HDM0528 +++ est-ce que vous avez pris votre température ?
+HDM0531 +++ est-ce que vous avez de la fièvre ?
+ATD0534 +++ est-ce que vous avez consulté un médecin avant de venir aux urgences ?
+ATD0537 +++ est-ce que vous avez fait des examens avant de venir aux urgences ?
+PSN0540 +++ quel est votre nom et votre prénom ?
+PSN0543 +++ les origines ?
+PSN0546 +++ ah, vous vivez comment ?
+PSN0549 +++ et à la maison, c'est comment ?
+PSN0552 +++ qu'est-ce que vous faites dans la vie ?
+PSN0555 +++ votre âge ?
+PSN0558 +++ quel âge avez-vous ?
+PSN0561 +++ vous avez quel âge ?
+MTF0564 +++ pourquoi vous venez aux urgences ?
+MTF0567 +++ pourquoi vous êtes ici ?
+HDM0570 +++ vous la décririez comment la douleur ?
+HDM0573 +++ on m'a dit que vous aviez mal au ventre, est-ce que vous pouvez m'expliquer comment ça a commencé ?
+HDM0576 +++ vous avez des douleurs abdominales c'est ça ?
+HDM0579 +++ vous avez des douleurs épigastriques ?
+HDM0582 +++ les douleurs, elles sont où exactement ?
+HDM0585 +++ où est-ce que vous avez mal ?
+HDM0588 +++ où exactement avez-vous mal au ventre ?
+HDM0591 +++ et c'est à quel niveau la douleur ?
+HDM0594 +++ la douleur est plutôt dans un endroit ?
+ATD0597 +++ c'est la première fois que vous avez ça ?
+ATD0600 +++ c'est la première fois que ça vous arrive ?
+ATD0603 +++ est-ce que vous avez déjà eu ce genre de douleur ?
+ATD0606 +++ est-ce que ça vous est déjà arrivé ces douleurs comme ça ?
+HDM0609 +++ la douleur, elle revient périodiquement ?
+ATD0612 +++ est-ce que vous avez déjà ou jamais eu une douleur pareille ?
+HDM0615 +++ ça a commencé quand ?
+HDM0618 +++ depuis combien de temps ?
+HDM0621 +++ ça fait combien de temps ?
+HDM0624 +++ quand est-ce que la douleur elle a commencé ?
+HDM0627 +++ ça fait combien de temps que vous avez mal au ventre ?
+HDM0630 +++ depuis combien de temps ?
+HDM0633 +++ comment les douleurs évoluent ?
+HDM0636 +++ est-ce que la douleur elle est continue ou est-ce qu'elle a changé ?
+HDM0639 +++ et ça a commencé brutalement ou petit à petit ?
+HDM0642 +++ c'est aigu ou ça a commencé progressivement ?
+HDM0645 +++ comment était la douleur... brutale... aiguë ?
+HDM0648 +++ c'est une douleur qui est apparue d'un coup ou qui a été progressive ?
+HDM0651 +++ est-ce qu'il y a eu une énorme douleur puis après y'a un fond de douleur ?
+HDM0654 +++ elle a changé la douleur depuis que ça a commencé ?
+HDM0657 +++ vous avez toujours mal ?
+HDM0660 +++ la douleur est continue, vous avez toujours mal ?
+HDM0663 +++ c'est quel type de douleur ?
+HDM0666 +++ et du coup, c'est quoi comme type de douleur ?
+HDM0669 +++ est-ce que ça vous brûle ?
+HDM0672 +++ est-ce que ça vous brûle ?
+HDM0675 +++ comment elle est la douleur... est-ce que quand vous avez cette douleur c'est comme si vous aviez très faim ?
+HDM0678 +++ est-ce que ça vous fait très mal en même temps d'avoir faim ?
+HDM0681 +++ ça a commencé alors que vous regardiez la tv c'est ça ?
+HDM0684 +++ après le repas ?
+HDM0687 +++ est-ce que vous aviez mangé avant ou pas ?
+HDM0690 +++ est-ce que c'était après un repas ?
+HDM0693 +++ est-ce que avant, vous étiez en train de regarder la tv, est-ce que avant ça vous aviez fait un repas copieux ?
+MDV0696 +++ est-ce que vous avez pris de l'alcool ?
+HDM0699 +++ et par rapport au repas du soir ?
+HDM0702 +++ c'était combien de temps après votre repas ?
+HDM0705 +++ vous avez mangé quoi ?
+TRT0708 +++ est-ce que vous avez pris des médicaments récemment ?
+TRT0711 +++ vous n'avez jamais pris d'anti-inflammatoire ?
+ATD0714 +++ vous avez pris un coup ?
+ATD0717 +++ pas d'accident ?
+HDM0720 +++ les douleurs, elles sont apparues après avoir fait quelque chose de spécial ?
+HDM0723 +++ est-ce c'est des fortes douleurs... l'intensité ?
+HDM0726 +++ ça fait mal comment ?
+HDM0729 +++ et comme intensité ?
+HDM0732 +++ a combien vous noteriez votre douleur sur une échelle de 0 à 10 ?
+HDM0735 +++ est-ce que ça a commencé en épigastrique ou à un autre endroit et ça a migré ?
+HDM0738 +++ est-ce que la douleur elle irradie ?
+HDM0741 +++ et la douleur irradie ?
+HDM0744 +++ plutôt centré sur l'épigastre... est-ce que c'est une douleur qui irradie ?
+HDM0747 +++ est-ce qu'elle a un trajet la douleur ?
+HDM0750 +++ est-ce qu'elles vont à un autre endroit... est-ce que ça vous irradie ?
+HDM0753 +++ la vous me dites elle est épigastrique en jargon médical, est-ce qu'elle va vers le dos, est-ce qu'elle va vers les épaules ?
+HDM0756 +++ est-ce que la douleur est diffuse ou vous avez mal principalement là ?
+HDM0759 +++ c'est venu assez brutalement... irradiation ?
+HDM0762 +++ est-ce que la douleur s'est répandue à une autre zone du corps... c'est-à-dire à proximité ?
+HDM0765 +++ est-ce que vous avez d'autres douleurs ?
+HDM0768 +++ au niveau de l'œsophage ?
+HDM0771 +++ vous avez mal « nulle part d'autre » ?
+HDM0774 +++ et vous avez mal autre part... dans le dos ?
+HDM0777 +++ est-ce que ça vous empêche de respirer ?
+HDM0780 +++ est-ce que la douleur est passée la nuit ?
+HDM0783 +++ vous vous grattez ?
+HDM0786 +++ est-ce qu'il y a d'autres signes que cette douleur ?
+HDM0789 +++ est-ce qu'il y a d'autres signes ?
+HDM0792 +++ est-ce que vous avez vomis ?
+HDM0795 +++ est-ce que vous avez d'autres signes digestifs, par exemple la diarrhée ou est-ce que vous avez vomis ?
+HDM0798 +++ à côté vous avez eu des vomissements ou pas ?
+HDM0801 +++ des vomissements ?
+HDM0804 +++ des nausées ?
+HDM0807 +++ vous avez pas vomi après ça ?
+HDM0810 +++ le vomissement, il était comment ?
+HDM0813 +++ il n'y avait pas de sang ?
+HDM0816 +++ il n'y avait pas de sang dans les vomissements ?
+HDM0819 +++ est-ce que dans les vomissements il y avait du sang ou pas ?
+HDM0822 +++ dans la bouche est-ce que vous avez la bouche pâteuse ?
+HDM0825 +++ est-ce que vous allez aux toilettes ?
+HDM0828 +++ est-ce que vous avez des troubles du transit ?
+HDM0831 +++ vous allez bien aux selles ?
+HDM0834 +++ et au niveau du transit, y a t-il eu des diarrhées ?
+HDM0837 +++ est-ce que vous avez des diarrhées ?
+TRT0840 +++ avez-vous pris des antalgiques ?
+TRT0843 +++ est-ce que vous avez essayé de prendre des médicaments contre la douleur ?
+TRT0846 +++ vous avez pris quelque chose pour soulager ?
+TRT0849 +++ est-ce que vous pris quelque chose ?
+HDM0852 +++ et après le doliprane la douleur a été calmée ?
+TRT0855 +++ est-ce qu'il y des facteurs qui vous soulagent ?
+TRT0858 +++ est-ce qu'il y a une position qui calme cette douleur ?
+HDM0861 +++ et quand vous bougez ça vous fait plus mal ?
+TRT0864 +++ est-ce que quand vous vous mettez dans une position, comme une position fœtale, que vous vous recroquevillez sur vous, ça calme un peu la douleur ?
+TRT0867 +++ vous vous recroquevillez sur vous, vous bougez pas vous vous extendez ?
+TRT0870 +++ y'a-t-il une position dans laquelle ça soulage ?
+TRT0873 +++ est-ce qu'il y a une position qui calme la douleur ou pas ?
+TRT0876 +++ est-ce que quand vous vous baissez ça vous fait moins mal ?
+HDM0879 +++ est-ce que vous avez de la fièvre ?
+HDM0882 +++ est-ce que vous avez eu de la fièvre ?
+HDM0885 +++ et vous avez de la température ?
+HDM0888 +++ vous avez eu de la fièvre ?
+MDV0891 +++ est-ce que vous buvez ?
+MDV0894 +++ et vous buvez ?
+MDV0897 +++ tabac ?
+MDV0900 +++ vous fumez ?
+MDV0903 +++ est-ce que vous fumez ?
+MDV0906 +++ des animaux de compagnie ?
+ATD0909 +++ des allergies ?
+ATD0912 +++ est-ce que vous avez des allergies ?
+ATD0915 +++ vous avez d'autres maladies ?
+ATD0918 +++ vous avez des antécédents médicaux particuliers ?
+ATD0921 +++ pas d'antécédents cardiaques ?
+ATD0924 +++ pas d'antécédents dans la famille ?
+ATD0927 +++ dans votre famille est-ce qu'il y a des maladies particulières ?
+ATD0930 +++ et dans la famille ?
+ATD0933 +++ y a-t-il des problèmes de santé ?
+ATD0936 +++ est-ce que dans la famille il y a des maladies particulières ?
+ATD0939 +++ vous avez déjà été opérée ?
+ATD0942 +++ donc jamais opérée ?
+ATD0945 +++ vous avez déjà été hospitalisée récemment ?
+ATD0948 +++ des opérations ?
+ATD0951 +++ et les accouchements c'était des césariennes ?
+MDV0954 +++ et vous personnellement vous n'avez jamais été à l'hôpital ?
+ATD0957 +++ est-ce qu'il y a des antécédents d'ulcère ?
+ATD0960 +++ est-ce qu'il y a du diabète, de l'hypertension ?
+ATD0963 +++ est-ce que vous avez des problèmes de colique hépatique ?
+ATD0966 +++ vous avez pas des calculs dans le foie ?
+TRT0969 +++ des traitements ?
+ATD0972 +++ des choses particulières, des médicaments ?
+TRT0975 +++ est-ce que vous prenez des médicaments ?
+ATD0978 +++ vous avez vos règles régulièrement ?
+ATD0981 +++ pas de douleurs ?
+HDM0984 +++ il y a eu un facteur déclenchant à cette douleur
+HDM0987 +++ vous avez des troubles digestifs récemment
+MTF0990 +++ bonjour
+MTF0992 +++ comment allez-vous ?
+MTF0994 +++ vous allez bien alors qu'est-ce qui vous amène ?
+MTF0996 +++ vous êtes malade ?
+ATD0998 +++ vous avez de l'hypertension ?
+MDV1000 +++ vous êtes suivi pour votre hypertension
+MTF1002 +++ c'est la raison de votre visite ?
+MTF1004 +++ quelle est la raison de votre visite ?
+UNK1006 +++ je suis anesthésiste , je ne vais pas vous opérer
+UNK1008 +++ vous êtes envoyé par le docteur noyer ?
+MTF1010 +++ pour cette consultation vous venez pour quelle raison ?
+UNK1012 +++ vous allez vous faire opérer , bien je vais vous poser des questions sur l'anesthesie
+ATD1014 +++ avec-vous des allergies ?
+ATD1016 +++ pas d'autres allergies ?
+ATD1018 +++ latex ?
+ATD1020 +++ une allergie au latex ?
+ATD1022 +++ avez-vous déja été opérée ?
+ATD1024 +++ les amydales c'était en quelle année ?
+ATD1026 +++ avez-vous eu des problèmes pendant ces opérations ?
+ATD1028 +++ d'autres problèmes ?
+ATD1030 +++ vous avez eu d'autres problèmes , des saignements ?
+TRT1032 +++ vous prenez des médicaments ?
+HDM1034 +++ de quoi allez-vous être opéré ?
+ATD1036 +++ quelle est la date de votre opération ?
+UNK1038 +++ l'opération que vous allez avoir aura lieu quand ?
+ATD1040 +++ est-ce que vous avez un pace maker ou un implant ?
+MDV1042 +++ vous fumez ?
+MDV1044 +++ combien de cigarettes par jour ?
+MDV1046 +++ et vous consommez de l'alccol ?
+MDV1048 +++ vous consommez de l'alcool ?
+MDV1050 +++ donc vous n'en consommez pas ?
+PSN1052 +++ vous avez des enfants ?
+MDV1054 +++ comment se sont passées les grosesses ?
+UNK1056 +++ ah
+MTF1058 +++ bonjour madame
+MTF1060 +++ vous venez pour une consultation de préanesthésie ?
+MTF1062 +++ bonjour
+MTF1064 +++ comment allez vous
+MTF1066 +++ très bien ? qu'est ce qui vous amène alors à consulter ?
+MTF1068 +++ très bien nous ne nous sommes pas vus depuis longtemps
+UNK1070 +++ c'est l'occasion de refaire le point d'une manière générale
+PSN1072 +++ quel âge avez vous maintenant ?
+MDV1074 +++ vous pratiquez souvent de l'activité physique
+MDV1076 +++ sur votre lieu de travail ?
+MDV1078 +++ vous pratiquez de l'activité physique sur votre lieu de travail ?
+PSN1080 +++ avez vous des enfants
+PSN1082 +++ quelle est votre taille ?
+UNK1084 +++ pod
+PSN1086 +++ poids
+PSN1088 +++ poids
+PSN1090 +++ vous fumez ?
+ATD1092 +++ il n'y a pas de problème de tension , diabète , cholestérol ?
+ATD1094 +++ quand avons nous fait le dernier controle de santé ?
+ATD1096 +++ jamais d'hypertension ?
+MDV1098 +++ comment se compose votre alimentation ?
+MDV1100 +++ vous mangez souvent au fast food ?
+MDV1102 +++ vous mangez beaucoup de charcuterie ?
+MDV1104 +++ et de l'alcool ?
+UNK1106 +++ au pire ?
+ATD1108 +++ vous n'avez pas d'antécedents médicaux notables ?
+ATD1110 +++ vous avez déjà été hospitalisé pour un quelconque problème de santé ?
+ATD1112 +++ pas d'allergie ?
+TRT1114 +++ vous ne prenez pas de médicaments ?
+ATD1116 +++ jamais été opéré ?
+HDM1118 +++ quand vous faites de l'activité , avez vous des symptomes particuliers ?
+HDM1120 +++ avez vous des douleurs à l'effort ?
+HDM1122 +++ de l'essouflement ?
+HDM1124 +++ êtes vous essouflé à l'effort ?
+HDM1126 +++ avez vous des palpitations ?
+UNK1128 +++ très bien
+PSN1130 +++ quel est votre nom ?
+PSN1132 +++ quel est votre âge ?
+PSN1134 +++ quelle est votre taille ?
+MTF1136 +++ pourquoi venez-vous ?
+PSN1138 +++ quel est votre métier ?
+PSN1140 +++ avez-vous fait ce travail toute votre vie ?
+HDM1142 +++ depuis combien de temps toussez-vous ?
+HDM1144 +++ depuis quand avez-vous mal à la poitrine ?
+HDM1146 +++ a quoi ressemble cette douleur ?
+HDM1148 +++ crachez-vous ?
+HDM1150 +++ depuis combien de temps ?
+HDM1152 +++ de quelle couleur sont vos crachats ?
+HDM1154 +++ quel est le volume de vos crachats ?
+TRT1156 +++ quel est votre traitement ?
+ATD1158 +++ avez-vous des allergies ?
+MDV1160 +++ fumez-vous
+MDV1162 +++ depuis quand fumez-vous ?
+MDV1164 +++ combien de cigarettes fumez-vous par jour ?
+MDV1166 +++ fumez-vous autre chose ?
+ATD1168 +++ quels sont les problèmes de santé que vous avez eu ?
+ATD1170 +++ avez-vous été opéré
+ATD1172 +++ avez-vous eu des anesthésies générales ?
+TRT1174 +++ donnez ma liste de vos traitements ?
+UNK1176 +++ quoi d'autre ?
+TRT1178 +++ à quelle dose ?
+TRT1180 +++ 1 le matin ?
+MDV1182 +++ êtes-vous exposé à des substances toxiques ?
+MDV1184 +++ etiez-vous exposé à des substances toxiques dans votre métier ?
+MDV1186 +++ etiez-vous exposé à des substances toxiques ou dans vos loisirs ?
+HDM1188 +++ avez-vous de la fièvre ?
+HDM1190 +++ quel est votre témpérature ?
+HDM1192 +++ avez-vous perdu du poids ?
+HDM1194 +++ avez-vous bon appétit ?
+HDM1196 +++ avez-vous maigri ?
+HDM1198 +++ avez-vous perdu du poids ?
+PSN1200 +++ quel est votre poids habituel ?
+HDM1202 +++ où avez-vous mal ?
+HDM1204 +++ avez-vous mal dans la poitrine ?
+HDM1206 +++ à gauche ?
+HDM1208 +++ à quoi ressemble vos douleurs ?
+HDM1210 +++ avez-vous reçu un coup sur la poitrine ?
+MDV1212 +++ avez-vous fait des voyages ?
+ATD1214 +++ avez-vous des allergies ?
+PSN1216 +++ bonjour , pouvez vous me donner votre nom ?
+PSN1218 +++ quel est votre prénom ?
+PSN1220 +++ pouvez-vous me donner votre date de naissance ?
+PSN1222 +++ quel est votre âge ?
+PSN1224 +++ vous travaillez dans quel domaine ?
+PSN1226 +++ êtes vous mariée ?
+PSN1228 +++ quel est votre situation familiale ?
+PSN1230 +++ avez vous des enfants ?
+PSN1232 +++ quels âges ont ils ?
+PSN1234 +++ qui est votre personne de confiance ?
+PSN1236 +++ quelle est la personne à prévenir ?
+PSN1238 +++ qui alerter en cas de besoin ?
+PSN1240 +++ vous mesurez combien ?
+PSN1242 +++ quel est votre poids ?
+PSN1244 +++ quelles sont vos habitudes alimentaires ?
+HDM1246 +++ depuis combien de temps ?
+TRT1248 +++ êtes vous sous traitement ?
+MDV1250 +++ consommer vous de l'alcool ?
+MDV1252 +++ fumer vous ?
+MDV1254 +++ quelle est votre consommation de tabac ?
+MDV1256 +++ combien de cigarettes par jour ?
+MDV1258 +++ faites vous de l'activité physique ?
+MDV1260 +++ parlez moi de votre sommeil ?
+MDV1262 +++ dormez vous normalement ?
+HDM1264 +++ des problèmes pour aller à la selle ?
+HDM1266 +++ urinez vous normalement ?
+MDV1268 +++ prenez vous des drogues ?
+HDM1270 +++ avez vous des problèmes pour aller à la selle ?
+HDM1272 +++ urinez vous normalement ?
+HDM1274 +++ combien de fois par jour ?
+HDM1276 +++ combien de fois par jour allez vous au toilettes ?
+MTF1278 +++ pourquoi consultez vous aujourd'hui ?
+MTF1280 +++ savez vous pourquoi nous nous rencontrons ce jour ?
+MTF1282 +++ motif de la consultation ?
+ATD1284 +++ parlons de vos antécédents
+ATD1286 +++ parlons de vos antécédents
+ATD1288 +++ avez vous des antécédents médicaux ?
+ATD1290 +++ chirurgicaux ?
+ATD1292 +++ avez vous des antécédents chirurgicaux ?
+ATD1294 +++ quels sont vos antécédents chirurgicaux ?
+ATD1296 +++ avez vous déjà été opérée ?
+UNK1298 +++ en quelles années ?
+ATD1300 +++ des problèmes avec l'anesthésie ?
+UNK1302 +++ beaucoup ?
+HDM1304 +++ avez vous eu beaucoup de nausées ?
+ATD1306 +++ avez vous eu des maladies dans l'enfance
+ATD1308 +++ avez eu des accidents ?
+ATD1310 +++ avez vous déjà été hospitalisée ?
+ATD1312 +++ avez vous déjà été anesthésiée ?
+ATD1314 +++ êtes vous vaccinée ?
+ATD1316 +++ vos vaccins sont ils à jours ?
+ATD1318 +++ y a t il s des antécédents particuliers dans votre famille ?
+ATD1320 +++ faites vous des allergies particulières ?
+ATD1322 +++ des allergies aux traitements ?
+HDM1324 +++ quels sont les symptômes quand vous manger un kiwi ?
+ATD1326 +++ faites vous des allergies particulières ?
+ATD1328 +++ avez vous des allergies à des traitements ?
+HDM1330 +++ quels sont les symptômes quand vous mangez un kiwi ?
+HDM1332 +++ que ressentez vous ?
+HDM1334 +++ que ressentez vous ?
+HDM1336 +++ précisez vos douleurs ?
+HDM1338 +++ quelle intensité pour vos douleurs ?
+HDM1340 +++ sur une échelle de 1 à 10 quelle est l'intensité de vos douleurs ?
+TRT1342 +++ prenez vous des médicaments ?
+UNK1344 +++ uniquement ?
+TRT1346 +++ quel est votre traitement ?
+TRT1348 +++ pourquoi prenez vous du paracétamol ?
+TRT1350 +++ vous ne prenez que du paracétamol ?
+TRT1352 +++ pourquoi prenez vous du coversyl ?
+HDM1354 +++ depuis combien de temps ?
+TRT1356 +++ depuis combien de temps prenez vous du coversyl pour l'hypertension ?
+HDM1358 +++ quels symptomes ressentez vous ?
+HDM1360 +++ quels sont vos symptômes ?
+HDM1362 +++ que ressentez vous ?
+HDM1364 +++ précisez vos symptômes
+MDV1366 +++ portez vous des lunettes ?
+ATD1368 +++ avez vous des problèmes de vue ?
+ATD1370 +++ avez vous un appareil dentaire ?
+ATD1372 +++ avez vous des prothèse auditives ?
+ATD1374 +++ avez vous des problèmes aux dents ?
+ATD1376 +++ avez vous des problèmes à la machoire ?
+ATD1378 +++ avez vous des problèmes cardiaques ?
+ATD1380 +++ avez vous des problèmes respiratoires ?
+ATD1382 +++ avez vous des problèmes gastro-intestinaux ?
+ATD1384 +++ avez vous des problèmes neurologiques ?
+ATD1386 +++ avez vous des problèmes urinaires ?
+MTF1388 +++ bonjour monsieur , quest ce qu'il vous arrive ?
+MTF1390 +++ pourquoi venez vous me consulter ?
+MDV1392 +++ vous êtes sportif ?
+MDV1394 +++ vous pratiquez déja un sport ?
+MDV1396 +++ combien d'heures par semaine ?
+MDV1398 +++ combien de sport la semaine ?
+ATD1400 +++ avez vous des maladies ?
+TRT1402 +++ est ce que vous prenez des médicaments
+ATD1404 +++ des opérations chirurgicales ?
+PSN1406 +++ quel est votre poids
+PSN1408 +++ et votre taille ?
+MDV1410 +++ vous fumez ?
+MDV1412 +++ vous buvez de l'alcool
+HDM1414 +++ quelle est votre tension
+MTF1416 +++ bonjour , quest ce qu'il vous amène à consulter
+MTF1418 +++ le monsieur te demande de quoi tu te plains !
+ATD1420 +++ vous avez amené des analyses ?
+UNK1422 +++ et ?
+UNK1424 +++ mais encore ?
+TRT1426 +++ c'est bien , il faut toujours faire les bilans lipidiques a jeun !
+TRT1428 +++ parfait , c'est 23 euros , vous pouvez rentrer chez vous !
+MTF1430 +++ bonjour monsieur . qu'est-ce qui vous amène ?
+MDV1432 +++ pratiquez-vous la course à pied habituellement ?
+ATD1434 +++ c'est la premuère fois que nous nous voyons . êtes-vous suivi pour des pathologies connues ?
+ATD1436 +++ pas de problème respiratoire ?
+ATD1438 +++ de l'asthme d'effort ?
+ATD1440 +++ pas d'allergie aux pollens ?
+HDM1442 +++ actuellement , vous ne toussez pas ?
+MDV1444 +++ vous fumez ?
+ATD1446 +++ c'est bien ! y'a-t-il dans votre entourage des personnes souffrant de maladies respiratoires ?
+PSN1448 +++ vos parents sont toujours vivants ?
+HDM1450 +++ vous semblez en pleine forme du point de vue respiratoire , mais vous avez un grain du côté psychiatrique , non ?
+UNK1452 +++ oui , oui , je vois bien , en effet c'est du pur , ou bien il est coupé ?
+UNK1454 +++ oui : le nom de votre fournisseur ?
+HDM1456 +++ ah je vois vous le protégez . revenons à vous : côté coeur , comment ça va ?
+ATD1458 +++ de l'hypertension ?
+HDM1460 +++ pas de douleur dans la cage thoracique quand vous faites des efforts ?
+ATD1462 +++ dans votre famille , pas de maldie cardiaque ?
+ATD1464 +++ je m'en doutais , figurez-vous . chez vos parents , pas d'infarctus ?
+ATD1466 +++ pas de problème vasculaire connu ?
+ATD1468 +++ votre mère : pas de phlébite ?
+PSN1470 +++ vous avez des enfants , au fait ?
+PSN1472 +++ et ils vont bien ?
+PSN1474 +++ ils sont scolarisés ?
+PSN1476 +++ hé bé ! ils ne doivent pas souvent vous solliciter alors , si ?
+ATD1478 +++ laissez tomber , je pensais tout haut . avez-vous effectué des examens sanguins récemment ?
+ATD1480 +++ il y a des personnes attientes d'alzheimer dans votre famille ?
+ATD1482 +++ et des accidents vasculaires cérébraux , y en-a-t-il dans votre famille ?
+HDM1484 +++ connaissez-vous votre tension artérielle ?
+HDM1486 +++ elle vaut combien ?
+PSN1488 +++ c'est quoi votre nom , déjà ? tryphon tournesol ?
+UNK1490 +++ d'accord . et à l'autre ?
+UNK1492 +++ non ce n'est pas tout . vous voulez votre certificat oui ou non ?
+UNK1494 +++ oui : faites un effort pour me donner des réponses sensées , d'accord ?
+MDV1496 +++ oui : dormez-vous bien ?
+UNK1498 +++ c'est-à-dire ?
+MDV1500 +++ combien d'heure de sommeil ?
+ATD1502 +++ avez-vous pensé à consulter un orl ?
+HDM1504 +++ alors revenez quand vous aurez éliminé le cérumen qui bouche vos oreilles ! entendu ?
+PSN1506 +++ vous avez votre carte vitale ?
+PSN1508 +++ je vous demande votre carte vitale : vous l'avez ?
+MTF1510 +++ je vous demande d'arrêter de faire le clown et de régler votre consultation . vous payez en liquide ?
+MTF1512 +++ ca tombe bien , ce n'est pas excessif : pour vous ce sera 23 euros , en secteur 1 . vous réglez par carte bleue ?
+UNK1514 +++ par don ? ah ben c'est comme vous voulez alors . je le reverserai à l'afm en décembre . ca vous va ?
+HDM1516 +++ nous sommes en mars . vous êtes totalement désorienté , mon ami . ca relève de la neurologie ou de la psychiatrie . je vous fais une lettre pour un confrère , à l'hôpital sainte anne , d'accord ?
+UNK1518 +++ pourquoi , non ?
+TRT1520 +++ il me semble que je m'en suis rendu compte , en effet . on se revoit dans trois mois , après votre cure à sainte anne , entendu ?
+TRT1522 +++ eh ben voilà ! retournez en salle d'attente , les ambulanciers ne vont pas tarder . vous n'avez rien contre une petite camisole en tergal blanc ?
+PSN1524 +++ laissez tomber . dois-je prévenir vos enfants ?
+UNK1526 +++ oui , je le sais . dois-je les prévenir ?
+PSN1528 +++ oui : le numéro de votre ex-femme ?
+PSN1530 +++ le numéro de téléphone de votre ex-femme ?
+UNK1532 +++ on verra ça plus tard . au revoir !
+UNK1534 +++ au revoir !
+PSN1536 +++ pouvez vous me donner votre nom ?
+PSN1538 +++ quel est votre prénom ?
+MTF1540 +++ pourquoi consultez vous aujourd'hui ?
+MTF1542 +++ pourquoi êtes vous ici ce jour ?
+MTF1544 +++ qu'es ce qui vous amène ?
+MTF1546 +++ qu'est ce qui vous amène à consultez ?
+PSN1548 +++ quel est votre poids ?
+PSN1550 +++ vous pesez combien ?
+TRT1552 +++ quel est votre traitement actuel ?
+TRT1554 +++ quel est votre traitement actuel ?
+TRT1556 +++ depuis combien de temps prenez vous du co-renitec ?
+HDM1558 +++ êtes vous douloureux ?
+HDM1560 +++ que ressentez vous ?
+HDM1562 +++ quel est votre température ?
+HDM1564 +++ depuis combien de temps êtes vous fatigué ?
+HDM1566 +++ toussez vous ?
+MDV1568 +++ fumez vous ?
+MDV1570 +++ combien de cigarettes ?
+MDV1572 +++ combien de paquets ?
+PSN1574 +++ quel âge avez-vous ?
+PSN1576 +++ quel est votre poids
+PSN1578 +++ combien pesez vous
+PSN1580 +++ votre date de naissance ?
+PSN1582 +++ quel est votre âge
+PSN1584 +++ quelle est votre date de naissance
+PSN1586 +++ avez vous des enfants
+MDV1588 +++ avez-vous déjà eu des rapports sexuels ?
+MDV1590 +++ avez-vous une sexualité active ?
+MDV1592 +++ avez-vous une sexualité à risque
+PSN1594 +++ êtes vous hétérosexuel ?
+ATD1596 +++ des membres de votre famille ont-ils des maladies de coeur ?
+PSN1598 +++ vos parents sont-ils toujours vivants ?
+ATD1600 +++ vous les avez perdu de vue ?
+PSN1602 +++ avez-vous été adopté ?
+ATD1604 +++ quelle est votre tension artérielle habituelle ?
+ATD1606 +++ souffrez-vous de palpitations ?
+HDM1608 +++ avez vous des douleurs dans la poitrine ?
+HDM1610 +++ dans le ventre ?
+HDM1612 +++ dans la tête ?
+HDM1614 +++ urinez-vous normalement ?
+HDM1616 +++ avez-vous des problèmes pour uriner ?
+MTF1618 +++ pourquoi êtes vous venu me consulter ?
+ATD1620 +++ avez vous ressenti quelque chose d'anormal ces derniers temps ?
+HDM1622 +++ vous sentez vous en bonne santé ?
+HDM1624 +++ pensez-vous être en bonne santé ?
+PSN1626 +++ parlez-vous français ?
+TRT1628 +++ suivez-vous un entraînement régulier ?
+MDV1630 +++ courez-vous régulièrement ?
+MDV1632 +++ quels sports souhaitez vous pratiquer ?
+MDV1634 +++ avez-vous déjà participé à une compétition sportive ?
+HDM1636 +++ ressentez-vous une douleur dans la poitrine quand vous faites du vélo ?
+HDM1638 +++ et quand vous nagez ?
+HDM1640 +++ avez-vous remarqué un symptome anormal lorsque vous faites un effort ?
+HDM1642 +++ vous m'aviez dit tout à l'heure que vous m'avez dit avant que vous ne connaissiez pas votre tension artérielle !
+ATD1644 +++ quand avez vous un tension élevée
+HDM1646 +++ que se passe-t-il quand vous faites un effort ?
+MTF1648 +++ bonjour , que vous arrive-t-il ?
+MTF1650 +++ pourquoi venez-vous consulter ?
+HDM1652 +++ depuis quand avez-vous ces symptômes ?
+HDM1654 +++ et pour la douleur à la poitrine ?
+ATD1656 +++ est-ce que cela vous est déjà arrivé ?
+PSN1658 +++ que faites-vous comme métier ?
+ATD1660 +++ est-ce que vous avez des problèmes de santé particuliers ?
+TRT1662 +++ vous prenez un traitement pour cette hypertension ?
+TRT1664 +++ vous prenez d'autres médicaments ?
+ATD1666 +++ et dans le passé , vous avez eu d'autres maladies ?
+ATD1668 +++ pas d'allergies ?
+ATD1670 +++ pas d'infections à répétition ?
+ATD1672 +++ où en êtes-vous de vos vaccinations ?
+ATD1674 +++ vos vaccinations sont-elles à jour ?
+ATD1676 +++ êtes-vous vaciné contre le pneumocoque ?
+HDM1678 +++ avez-vous perdu du poids récemment ?
+MDV1680 +++ est-ce que vous fumez ?
+MDV1682 +++ combien de cigarettes par jour ?
+ATD1684 +++ depuis combien d'années ?
+MDV1686 +++ est-ce que vous buvez de l'alcool ?
+MDV1688 +++ quelle quantité par jour environ
+MDV1690 +++ combien de verres d'alcool par jour ?
+MDV1692 +++ prenez-vous d'autres substances ?
+MDV1694 +++ avez-vous d'autres addictions ?
+MDV1696 +++ même pas les feux de l'amour à la télé ?
+MTF1698 +++ motif consultation ?
+HDM1700 +++ symptômes ?
+HDM1702 +++ depuis aquand ?
+HDM1704 +++ depuis quand ?
+HDM1706 +++ depuis combien de temps ?
+HDM1708 +++ début des symptomes ?
+HDM1710 +++ durée des symptomes ?
+ATD1712 +++ antécédents ?
+ATD1714 +++ problèmes de santé ?
+TRT1716 +++ traitement ?
+TRT1718 +++ autres médicaments ?
+TRT1720 +++ vaccinations ?
+UNK1722 +++ vus ne la faites plus ?
+UNK1724 +++ vous ne la faites plus ?
+TRT1726 +++ vaccination contre la grippe ?
+HDM1728 +++ grippe ?
+HDM1730 +++ amaigrissement ?
+HDM1732 +++ prise de poids ?
+MDV1734 +++ tabac ?
+UNK1736 +++ combien ?
+MDV1738 +++ alcool ?
+UNK1740 +++ combien ?
+MDV1742 +++ autres drogues ?
+HDM1744 +++ douleur dans la poitrine ?
+HDM1746 +++ quel endroit de la poitrine ?
+HDM1748 +++ à droite ?
+UNK1750 +++ que boit la vache ?
+HDM1752 +++ pneumonie ?
+ATD1754 +++ avez-vous déjà eu une pneumonie ?
+MTF1756 +++ bonjour monsieur . comment allez-vous depuis votre dernière visite ?
+MTF1758 +++ et pourquoi êtes-vous revenu me voir ?
+MTF1760 +++ vous venez donc pour une surdité ?
+MTF1762 +++ une presby-acousie , peut-être ?
+PSN1764 +++ quel âge avez-vous ?
+HDM1766 +++ de quoi vous plaignez-vous ?
+HDM1768 +++ vous êtes bien silencieux vous souffrez de quelque chose ?
+MTF1770 +++ eh oh ! faut vous réveiller , là . je ne suis pas vétérinaire , moi . pour quelle raison êtes vous revenu me voir ?
+HDM1772 +++ bon ben je vais rappeler les ambulanciers d'hier , pour vous ramener à l'asile . d'accord ?
+UNK1774 +++ allez ! au revoir monsieur . mes amitiés à votre épouse .
+ATD1776 +++ avez vous des antécédents médicaux
+UNK1778 +++ importantes ?
+ATD1780 +++ avez vous du diabete ?
+ATD1782 +++ diabète ?
+ATD1784 +++ de l'hypertension artérielle ?
+MDV1786 +++ combien buvez vous de verres d'alcool par jour ?
+MDV1788 +++ fumez vous ?
+PSN1790 +++ quel est votre métier ?
+PSN1792 +++ êtes vous marié ?
+PSN1794 +++ combien pesez vous ?
+PSN1796 +++ combien mesurez vous ?
+ATD1798 +++ avez vous déjà eu des douleurs thoraciques ?
+ATD1800 +++ êtes vous allergique ?
+ATD1802 +++ êtes vous allergique à la pénicilline ?
+MTF1804 +++ comment allez vous au travail ?
+TRT1806 +++ quels médicaments prenez vous ?
+MDV1808 +++ nagez vous beaucoup ?
+ATD1810 +++ avez vous déjà été opéré ?
+ATD1812 +++ avez vous du cholestérol ?
+HDM1814 +++ avez vous mal à la tête ?
+ATD1816 +++ faites vous des malaises ?
+ATD1818 +++ avez vous déjà chuté ?
+ATD1820 +++ avez vous déjà fait des chutes ?
+ATD1822 +++ avez vous mal aux jambes ?
+HDM1824 +++ quels sont vos symptômes ?
+ATD1826 +++ faites vous de l'hypertension ?
+ATD1828 +++ quelle est votre tension artérielle ?
+HDM1830 +++ votre coeur bat il vite habituellement ?
+ATD1832 +++ êtes vous tachycarde ?
+ATD1834 +++ avez-vous déjà subit une opération ?
+ATD1836 +++ avez vous des allergies ?
+MDV1838 +++ consommez vous de l'alcool ?
+ATD1840 +++ avez vous des analyses récentes ?
+ATD1842 +++ avez fait un ecg ?
+MDV1844 +++ fumez vous régulierement ?
+MDV1846 +++ a quelle fréquence ?
+MDV1848 +++ depuis combien de temps ?
+MTF1850 +++ bonjour , qu'est ce qui vous amène ?
+MDV1853 +++ fumez vous ?
+MDV1855 +++ consommez vous de l'alcool ?
+MDV1857 +++ ressentez vous un essoufflement lors d'efforts physiques
+UNK1859 +++ d'accord . je peux vous délivrer votre certificat
+UNK1861 +++ oui . au revoir
+MTF1863 +++ bonjour , comment allez-vous ?
+MTF1865 +++ qu'est-ce qui vous amène ?
+ATD1867 +++ depuis quand avez-vous cette douleur ?
+HDM1869 +++ et la toux ?
+HDM1871 +++ et de la fièvre ?
+HDM1873 +++ avez-vous pris votre température ?
+UNK1875 +++ c'est à dire ?
+HDM1877 +++ quel type de douleur ?
+MDV1879 +++ avez-vous voyagé recemment
+PSN1881 +++ je vais vous peser
+PSN1883 +++ et votre taille ?
+PSN1885 +++ quel est votre profession ?
+UNK1887 +++ où ?
+PSN1889 +++ où travailliez-vous ?
+PSN1891 +++ faites-vous du sport ?
+ATD1893 +++ avez-vous des allergies ?
+UNK1895 +++ pourquoi ?
+UNK1897 +++ pourquoi ?
+UNK1899 +++ pourquoi ?
+MDV1901 +++ buvez-vous beaucoup d'alcool ?
+MDV1903 +++ du vin français ?
+MDV1905 +++ buvez-vous beaucoup d'eau ?
+MDV1907 +++ buvez-vous des jus de fruits ?
+MDV1909 +++ mangez-vous souvent du chocolat ?
+ATD1911 +++ avez-vous une pathologie chronique ?
+ATD1913 +++ des antécédents dans la famille ?
+ATD1915 +++ avez-vous des antécédents de maladies chroniques dans votre famille ?
+ATD1917 +++ cancer ?
+ATD1919 +++ avez-vous déjà eu un bilan sanguin ?
+ATD1921 +++ avez-vous déjà subi une intervention chirurgicale ?
+PSN1923 +++ quel est votre couleur préférée ?
+MDV1925 +++ portez-vous des lunettes ?
+ATD1927 +++ prenez-vous régulièrement votre tension ?
+TRT1929 +++ avez-vous un traitement contre l'hypertension ?
+TRT1931 +++ suivez-vous bien votre traitement ,
+UNK1933 +++ toujours ?
+HDM1935 +++ est-ce que cela vous arrive d'oublier ?
+TRT1937 +++ est-ce que cela vous arrive d'oublier votre comprimé
+UNK1939 +++ au revoir
+MTF1941 +++ bonjour
+MTF1943 +++ comment ça va aujourd'hui ?
+MTF1945 +++ quoi de neuf ?
+PSN1947 +++ les efants ?
+PSN1949 +++ les enfants ?
+PSN1951 +++ quel âge ?
+PSN1953 +++ vous avez des photos ?
+TRT1955 +++ comment se passe le traitement ?
+MTF1957 +++ pourquoi venez-vous me voir ?
+TRT1959 +++ quels sont les résultats de la radio ?
+UNK1961 +++ ok
+UNK1963 +++ ok
+UNK1965 +++ je vois
+HDM1967 +++ avez-vous mal à la poitrine ?
+HDM1969 +++ la toux ?
+HDM1971 +++ fièvre ?
+HDM1973 +++ depuis quand ?
+HDM1975 +++ quel température avez-vous ?
+TRT1977 +++ je vais vous prescrire du paracétamol
+MTF1979 +++ bonjour
+MTF1981 +++ qu'est-ce qui vous arrive ?
+ATD1983 +++ vous n'avez pas de médecin traitant ?
+ATD1985 +++ avez-vous des maladies ,
+ATD1987 +++ et des maladies moins importantes ?
+ATD1989 +++ vous êtes en parfaite santé ,
+HDM1991 +++ vous ne soufrrez de rien ?
+HDM1993 +++ vous ne souffrez de rien ?
+HDM1995 +++ souffrez-vous de quelque chose ?
+HDM1997 +++ avez-vous quelque chose ,
+ATD1999 +++ avez-vous des problèmes de santé ?
+UNK2001 +++ d'accord
+ATD2003 +++ vous n'avez pas d'hyper tension ?
+TRT2005 +++ d'accord je vais d'abord vous ausculter
+MTF2007 +++ bonjour
+MTF2009 +++ vous venez pourquoi ?
+ATD2011 +++ pas de problème particulier ?
+ATD2013 +++ avez-vous des problèmes de santé ?
+ATD2015 +++ vous vous considérez en bonne santé ?
+HDM2017 +++ pour vous vous êtes en bonne santé ?
+TRT2019 +++ bon je vais vous examiner alors
+MTF2021 +++ bonjour monsieur
+UNK2023 +++ alors ?
+MTF2025 +++ alors que vous arrive-t-il ?
+MTF2027 +++ qu'est-ce qui vous arrive ?
+HDM2029 +++ vous toussez
+HDM2031 +++ souvent ?
+HDM2033 +++ depuis quand ,
+HDM2035 +++ et vous avez aussi de la fièvre ?
+HDM2037 +++ depuis quand ?
+HDM2039 +++ vous avez pris votre température ?
+TRT2041 +++ vous avez pris un médicament pour cela ,
+TRT2043 +++ vous avez pris un traitement pour la fièvre ?
+TRT2045 +++ pas de médicament ?
+HDM2047 +++ et maintenant vous sentez encore de la fièvre ?
+TRT2049 +++ je vais vous examiner
+ATD2051 +++ avez-vous vos examens
+MTF2053 +++ bonjour ,
+MTF2055 +++ nous ne nous connaissons pas , c'est la première fois que vous venez ,
+MTF2057 +++ c'est la première fois que nous nous votons ?
+MTF2059 +++ on se voit pour la première fois ?
+MTF2061 +++ vous êtes déja venu au cabinet ?
+ATD2063 +++ avez-vous un médecin traitant ?
+ATD2065 +++ vous n'êtes jamais malade ?
+UNK2067 +++ vous avez de la chance
+MTF2069 +++ vous venez pour ?
+MTF2071 +++ quel est la raison de votre visite ,
+UNK2073 +++ d'accord
+MTF2075 +++ bonjour madame
+MTF2077 +++ qu'est ce qui vous fais consulter ?
+MTF2079 +++ pourquoi consulter vous ?
+ATD2081 +++ avez vous eu des maladies ?
+ATD2083 +++ avez vous eu des opérations chirurgicales ?
+TRT2085 +++ prenez vous des traitements ?
+MDV2087 +++ fumez vous ?
+MDV2089 +++ combien fumez vous ?
+MDV2091 +++ depuis quand fumez vous ?
+MDV2093 +++ buvez vous de l'alcool ?
+MDV2095 +++ prenez vous des toxiques ?
+MDV2097 +++ avez vous des addictions ?
+MDV2099 +++ prenez vous de la drogue ?
+ATD2101 +++ avez vous des allergies ?
+ATD2103 +++ quelles reactions faites vous après ingestion de kiwi ?
+ATD2105 +++ mangez vous des kiwi ?
+ATD2107 +++ êtes vous allergique aux kiwi ?
+HDM2109 +++ quels sont vos symptomes ?
+HDM2111 +++ depuis quand avez vous ces symptomes ?
+PSN2113 +++ quelles taille faite vous ?
+PSN2115 +++ quel poids faite vous ?
+PSN2117 +++ quel poids faite vous ?
+PSN2119 +++ quel est votre métier ?
+PSN2121 +++ êtes vous marié ?
+PSN2123 +++ êtes vous fidèle ?
+MDV2125 +++ avez vous plusieurs partenaires sexuels
+PSN2127 +++ avez vous des enfants ?
+PSN2129 +++ vos enfants sont des garçons ?
+PSN2131 +++ des garçons ?
+MTF2133 +++ bonjour monsieur
+PSN2135 +++ quel est votre nom ?
+MTF2137 +++ bonjour alain
+MTF2139 +++ bonjour
+MTF2141 +++ bonjour alain
+MTF2143 +++ mon nom est alexis
+PSN2145 +++ nom
+PSN2147 +++ votre nom est ?
+HDM2149 +++ quels sont vos symptomes ?
+HDM2151 +++ depuis quand ?
+UNK2153 +++ qui vous l'a dit ?
+TRT2155 +++ prenez vous des traitements ?
+TRT2157 +++ aucun traitement ?
+MDV2159 +++ quels est votre alimentation
+MDV2161 +++ avez vous des addictions ?
+MDV2163 +++ faite vous du sport ?
+PSN2165 +++ quel est votre poids ?
+PSN2167 +++ quel est votre taille ?
+HDM2169 +++ avez vous des symptomes ?
+HDM2171 +++ avez vous des symptomes ?
+HDM2173 +++ vous avez la tension élevée ?
+HDM2175 +++ avez vous des maux de tête ?
+HDM2177 +++ avez vous mal au ventre ?
+ATD2179 +++ avez vous des allergies ?
+TRT2181 +++ prenez vous des traitements ?
+ATD2183 +++ avez vous eu des maladies auparavant ?
+ATD2185 +++ avez vous été opéré ?
+ATD2187 +++ avez vous eu un electrocardiogramme ?
+ATD2189 +++ avez vous eu une échographie ?
+ATD2191 +++ avez vous eu des examens ?
+ATD2193 +++ quel est le résultat de votre bilan lipidique ?
+HDM2195 +++ quels sont vos symptomes ?
+MTF2197 +++ salut
+MTF2199 +++ salut
+MTF2201 +++ bonjour
+MTF2203 +++ bonjour
+MTF2205 +++ bonjour monsieur
+PSN2207 +++ appelle comment
+PSN2209 +++ comment t'appelles tu ?
+PSN2211 +++ quel est votre prénom ?
+PSN2213 +++ simone ?
+PSN2215 +++ votre nom de famille
+PSN2217 +++ votre prénom
+PSN2219 +++ métier
+PSN2221 +++ taille
+PSN2223 +++ poids
+HDM2225 +++ symptomes
+MDV2227 +++ mode de vie
+MDV2229 +++ alimentation
+MDV2231 +++ addictions
+MDV2233 +++ addictions
+MDV2235 +++ avez vous des addictions
+MDV2237 +++ vous fumez depuis quand
+MDV2239 +++ vous fumez combien
+MDV2241 +++ vous buvez depuis quand
+MDV2243 +++ vous buvez combien ?
+UNK2245 +++ c'est vrai ?
+UNK2247 +++ vraiment ?
+TRT2249 +++ traitements
+ATD2251 +++ maladie
+ATD2253 +++ opération chirurgicales
+HDM2255 +++ symptomes
+HDM2257 +++ symptomes
+HDM2259 +++ toux seche depuis quand
+HDM2261 +++ crachats depuis quand
+HDM2263 +++ grelottements depuis quand
+HDM2265 +++ avez vous des sueurs
+HDM2267 +++ depuis quand
+HDM2269 +++ comment sont vos crachats
+HDM2271 +++ vos crachats sont sales ?
+ATD2273 +++ radio
+ATD2275 +++ resultats radio
+HDM2277 +++ fatigué
+MTF2279 +++ bonjour madame
+MTF2281 +++ je vais vous poser quelques questions pour mieux vous connaitre , afin que la chirugie prévue prochainement se passe au mieux
+PSN2283 +++ combien pesez-vous ?
+PSN2285 +++ quelle est votre taille ?
+PSN2287 +++ quel métier exercer vous ?
+PSN2289 +++ avez-vous fait d'autres métiers avant celui la ?
+PSN2291 +++ vous êtes assistante maternelle depuis combien de temps ?
+PSN2293 +++ avez-vous des enfants ?
+PSN2295 +++ êtes vous mariée ?
+MDV2297 +++ est-ce que vous fumez ?
+MDV2299 +++ depuis quel âge ?
+MDV2301 +++ depuis quand fumez-vous ?
+MDV2303 +++ combien de cigarette par jour environ ?
+MDV2305 +++ prenez vous des drogues ?
+MDV2307 +++ quelle est votre consommation d'alcool ?
+MDV2309 +++ avez vous des allergies alimentaires ?
+MDV2311 +++ avez vous une alimentation équilibrée ?
+ATD2313 +++ votre diabète est-il équilibré ?
+TRT2315 +++ prenez vous des traitements ?
+ATD2317 +++ vous n'avez pas d'insuline ?
+ATD2319 +++ avez vous déjà été hospitalisée ?
+ATD2321 +++ êtes vous déjà venue à l'hôpital ?
+ATD2323 +++ est ce que vous avez eu des maladies particulières
+ATD2325 +++ dans votre enfance , avez-vous eu des maladies ?
+ATD2327 +++ avez vous déjà été opérée ?
+UNK2329 +++ et tout s'est bien passé ?
+ATD2331 +++ quelle maladie avez-vous eu ?
+HDM2333 +++ comment vous sentez vous aujourd'hui ?
+TRT2335 +++ avez vous pris un médicament pour vous soulager ?
+HDM2337 +++ vous avez vomi combien de fois ?
+HDM2339 +++ avez vous de la fièvre ?
+HDM2341 +++ fièvre ?
+HDM2343 +++ des maux de tête ?
+HDM2345 +++ des diarrhées ?
+MTF2347 +++ bonjour monsieur
+MTF2349 +++ je m'appelle sophie , je vais vous poser quelques questions pour mieux vous connaitre
+PSN2351 +++ quel est votre poids ?
+PSN2353 +++ et votre taille ?
+PSN2355 +++ quelle profession exercez-vous ?
+PSN2357 +++ depuis combien de temps êtes vous enseignante?
+PSN2359 +++ depuis quand exercez-vous cette profession ?
+PSN2361 +++ avez-vous des enfants ?
+ATD2363 +++ avez vous des antécédents cardio-vasculaires ?
+ATD2365 +++ avez vous déjà eu des problèmes de coeur ?
+ATD2367 +++ et dans votre famille ?
+ATD2369 +++ est-ce que vos parents prennent des médicaments ?
+TRT2371 +++ est-ce que vous vous prenez des médicaments ?
+ATD2373 +++ êtes vous suivi par des spécialistes ?
+ATD2375 +++ avez vous des allergies ?
+MDV2377 +++ est ce que vous fumez ?
+MDV2379 +++ prenez vous des drogues ?
+MDV2381 +++ quelle est votre consommation d'alcool ?
+MDV2383 +++ avez vous un régime alimentaire ?
+MDV2385 +++ êtes vous sportif ?
+MDV2387 +++ faites vous du sport ?
+ATD2389 +++ est ce que vous avez déjà été malade ?
+ATD2391 +++ avez vous déjà été opéré ?
+HDM2393 +++ comment vous sentez vous aujourdhui ?
+HDM2395 +++ à combien est votre tension ?
+UNK2397 +++ comment le savez vous ?
+HDM2399 +++ comment savez vous que votre tension est élevée ?
+HDM2401 +++ avez vous mal quelque part ?
+HDM2403 +++ avez vous mal à la tête ?
+HDM2405 +++ êtes vous essouffler ?
+MTF2407 +++ pourquoi venez vous me voir aujourd'hui ?
+MTF2409 +++ bonjour monsieur , je m'appelle sophie , pourquoi consultez-vous aujourd'hui ?
+MTF2411 +++ bonjour monsieur
+MTF2413 +++ pourquoi venez-vous me voir aujourd'hui ?
+PSN2415 +++ quel âge avez vous ?
+PSN2417 +++ quelle est votre taille ?
+PSN2419 +++ quel est votre poids ?
+PSN2421 +++ avez vous des enfants ?
+MDV2423 +++ fumez vous ?
+ATD2425 +++ avez vous du diabète ?
+TRT2427 +++ prenez vous des traitements ?
+MTF2429 +++ bonjour monsieur
+MTF2431 +++ quel est votre motif de consultation ?
+MDV2433 +++ faites vous du sport ?
+MDV2435 +++ très bien et concernant votre alimentation ?
+PSN2437 +++ très bien avez vous perdu du poids ?
+PSN2439 +++ quelle est votre taille ?
+PSN2441 +++ et votre poids ?
+MDV2443 +++ fumez vous ?
+PSN2445 +++ quelle est votre profession ?
+UNK2447 +++ vous êtes un con
+MTF2449 +++ bonjour monsieur
+MTF2451 +++ pourquoi venez-vous me voir aujourd'hui ?
+PSN2453 +++ quel est votre age ?
+PSN2455 +++ et votre taille ?
+PSN2457 +++ et votre poids ?
+ATD2459 +++ depuis quand avez vous mal au ventre ?
+HDM2461 +++ quelle est l'intensité des douleurs ?
+ATD2463 +++ avez vous déjà eu des douleurs comme celle là ?
+ATD2465 +++ êtes vous suivi par un cardiologue ?
+ATD2467 +++ êtes vous suivi par d'autres spécialités ?
+ATD2469 +++ êtes vous suivi par des médecins spécialistes ?
+MDV2471 +++ fumez vous ?
+HDM2473 +++ depuis combien de temps vous fumez?
+MDV2475 +++ et combien de cigarette par jour ?
+ATD2477 +++ est-ce que vous êtes diabétique ?
+ATD2479 +++ avez vous du cholestérol ?
+MDV2481 +++ faites vous du sport ?
+ATD2483 +++ avez vous des allergies ?
+TRT2485 +++ prenez vous des traitements ?
+HDM2487 +++ votre tension est à combien ?
+ATD2489 +++ avez vous déjà eu des maladies ?
+ATD2491 +++ avez vous déjà été opéré ?
+ATD2493 +++ des antécédents familiaux ?
+PSN2495 +++ êtes vous marié ?
+PSN2497 +++ avez vous des enfants ?
+MTF2499 +++ comment vous sentez vous aujourd'hui ?
+HDM2501 +++ êtes vous essouflé ?
+HDM2503 +++ êtes vous essouflés lorsque vous êtes asso ?
+HDM2505 +++ êtes vous essoufflés lorsque vous êtes assis ?
+HDM2507 +++ comment est votre toux ?
+HDM2509 +++ avez vous des crachats ?
+HDM2511 +++ avez vous des crachats jaunes ?
+HDM2513 +++ avez vous des sueurs ?
+HDM2515 +++ et des frissons ?
+HDM2517 +++ est-ce que vous avez pris votre température ?
+PSN2519 +++ quel était votre profession ?
+ATD2521 +++ vos vaccins sont-ils à jour ?
+PSN2523 +++ quel age avez vous ?
+MTF2525 +++ bonjour , pourquoi êtes-vous venu me voir ?
+PSN2527 +++ d'accord , quel est votre métier ?
+PSN2529 +++ vous êtes marrié ?
+PSN2531 +++ vous êtes marié ?
+PSN2533 +++ vous avez des enfants ?
+PSN2535 +++ comment s'appellent-ils ?
+PSN2537 +++ comment s'appelle votre enfant de 12 ans ?
+PSN2539 +++ quel âge avez-vous ?
+PSN2541 +++ combien mesurez-vous ?
+PSN2543 +++ et combien pesez-vous ?
+MDV2545 +++ est-ce que vous faîtes du sport ?
+MDV2547 +++ il vous arrive de fumer ?
+MDV2549 +++ est-ce que vous mangez de façon équilibrée ?
+MDV2551 +++ vous ne mangez pas trop gras ?
+ATD2553 +++ avez-vous des allergies ?
+ATD2555 +++ avez-vous déjà subit une opération chirurgicale ?
+ATD2557 +++ vous avez déjà été malade ?
+TRT2559 +++ prenez-vous un traitement en ce moment ?
+TRT2561 +++ avez-vous un traitement ?
+HDM2563 +++ vous n'avez pas de douleurs aux articulations ?
+ATD2565 +++ avez-vous des antécédents familiaux particuliers ?
+ATD2567 +++ y-a-t-il des antécédents d'arthrite dans votre familles ?
+ATD2569 +++ y-a-t-il des antécédents d'insuffisance cardiaque dans votre famille ?
+ATD2571 +++ êtes-vous insuffisant cardiaque ?
+HDM2573 +++ avez-vous du mal à respirer ?
+HDM2575 +++ lorsque vous faîtes un effort , avez-vous le souffle court ?
+MTF2577 +++ bonjour , qu'est-ce qui vous amène içi aujourd'hui ?
+PSN2579 +++ quel âge avez-vous ?
+PSN2581 +++ vous êtes marié ?
+PSN2583 +++ vous avez des enfants ?
+MDV2585 +++ vous fumez régulièrement ?
+MDV2587 +++ est-ce-que vous buvez de l'alcool régulièrement ?
+HDM2589 +++ quels symptômes avez-vous ?
+TRT2591 +++ vous avez un traitement ?
+HDM2593 +++ vous a-t-il été prescrit un traitement pour la tension élevée ?
+ATD2595 +++ comment avez-vous découvert votre hypertension artérielle essentielle ?
+TRT2597 +++ prenez-vous un traitement ?
+HDM2599 +++ avez-vous des douleurs ?
+HDM2601 +++ quelle est votre tension ?
+HDM2603 +++ quel est votre taux de cholestérol ?
+ATD2605 +++ êtes-vous allé déjà voir un autre médecin avant moi ?
+ATD2607 +++ comment vous appelez-vous
+ATD2609 +++ avez-vous vu un autre médecin que moi ?
+ATD2611 +++ suis-je le premier médecin que vous voyez ?
+MTF2613 +++ qu'est-ce qui vous amène ?
+ATD2615 +++ comment savez-vous que c'est une hypertension artérielle essentielle ?
+UNK2617 +++ pourquoi confirmer ?
+HDM2619 +++ pourquoi voulez-vous confirmer la présence d'un hypertension artérielle essentielle ?
+ATD2621 +++ qui vous a dit que vous aviez une hypertension artérielle essentielle ?
+ATD2623 +++ avez-vous déjà fait des tests ?
+ATD2625 +++ quels en étaient les résultats ?
+HDM2627 +++ avez-vous mesuré votre tension artérielle ?
+HDM2629 +++ êtes-vous fatigué ?
+MTF2631 +++ comment allez vous
+PSN2633 +++ quel âge avez vous
+MTF2635 +++ que puis-je faire pour vous
+ATD2637 +++ en avez vous deja eu une auparavant ?
+ATD2639 +++ avez vous eu des problemes de santé particulier ?
+TRT2641 +++ avez vous un traitement ?
+MTF2643 +++ comment vous appelez vous ?
+HDM2645 +++ avez-vous des palpitations ?
+HDM2647 +++ avez-vous une douleur thoracique
+HDM2649 +++ avez-vous une lipothymie
+MTF2651 +++ bonjour
+MTF2653 +++ comment allez-vous ?
+PSN2655 +++ comment vous appelez-vous ?
+MTF2657 +++ vous venez pourquoi ?
+UNK2659 +++ de combien de kilomètres ?
+PSN2661 +++ avez-vous des enfants ?
+PSN2663 +++ quel est votre poids ?
+MDV2665 +++ fumez vous ?
+MDV2667 +++ combien de cigarette par jour ?
+HDM2669 +++ depuis combien de temps ?
+UNK2671 +++ cela fait donc 20 ans ?
+PSN2673 +++ combien mesurez vous ?
+PSN2675 +++ quelle est votre profession ?
+PSN2677 +++ quel est votre travail ?
+PSN2679 +++ dans quoi travaillez vous ?
+PSN2681 +++ avez vous des enfants ?
+ATD2683 +++ ont ils des maladies ?
+PSN2685 +++ vos enfants ?
+HDM2687 +++ vous souffrez ?
+ATD2689 +++ êtes vous allergique à la pénicilline ?
+ATD2691 +++ avez vous déjà subi des opérations ?
+TRT2693 +++ quel est votre traitement habituel ?
+MDV2695 +++ pratiquez vous du sport ?
+HDM2697 +++ vous plaignez vous de quelque chose de particulier ?
+HDM2699 +++ quels sont vos symptômes ?
+UNK2701 +++ pourquoi me dites vous ça ?
+MTF2703 +++ pourquoi venez vous aujourd'hui ?
+MTF2705 +++ qui vous envoie ?
+UNK2707 +++ quel spécialiste vous envoie me voir ?
+TRT2709 +++ pourquoi veut il vous faire enlever la vésicule biliaire ?
+HDM2711 +++ quelles sont vos plaintes relatives à la vésicule biliaire ?
+TRT2713 +++ voulez vous vous faire opérer ?
+PSN2715 +++ qui sera votre chirurgien ?
+HDM2717 +++ éprouvez-vous du plaisir à manger
+HDM2719 +++ avez-vous des difficultés à prononcer certains mots distinctement
+MDV2721 +++ quelle est votre consommation de additifs pour aliments
+ATD2723 +++ avez-vous eu une parasthésie
+MDV2725 +++ pratiquez-vous d'activités de loisir
+HDM2727 +++ de quoi avez-vous vécu
+ATD2729 +++ comment s'est passé l'opération de hiatus
+HDM2731 +++ vous arrive-t-il d'avoir des difficultés à ouvrir des pots
+HDM2733 +++ vos selles sont-elles décolorées
+HDM2735 +++ avez-vous du mal à bouger la langue quand vous parlez
+HDM2737 +++ au bout de combien de temps la douleur disparaît-elle
+HDM2739 +++ quelle dent vous fait souffrir
+PSN2741 +++ avez-vous allaité ou nourri au biberon vos enfants
+HDM2743 +++ en quoi la douleur vous gêne-t-elle à la maison
+HDM2745 +++ la sensation de brûlure est-elle majorée par les plats épicés
+HDM2747 +++ avez-vous de bonnes dents
+HDM2749 +++ avez-vous eu la voix enrouée
+HDM2751 +++ vous sentez-vous à l'étroit dans vos vêtements
+HDM2753 +++ avez-vous uriné ai lit lorsque vous dormez
+TRT2755 +++ est-ce que le repos calme cette douleur
+ATD2757 +++ de quel côté êtes-vous opéré
+HDM2759 +++ est-ce que vos urines sont colorées
+HDM2761 +++ souffrez-vous des problèmes de déglutition
+HDM2763 +++ avez-vous eu des accès de toux
+HDM2765 +++ est-ce une douleur continue
+HDM2767 +++ éprouvez-vous des brûlures d'estomac
+HDM2769 +++ le nez coule-t-il ou est-il bouché
+HDM2771 +++ avez-vous vomi du sang noir
+ATD2773 +++ est-ce votre première grossesse
+ATD2775 +++ avez-vous été en contact avec des personnes ayant le même problème
+HDM2777 +++ avez-vous du mal dans les bourses quand vous êtes en érection
+ATD2779 +++ comment va votre adénome insulaire à cellules bêta
+MDV2781 +++ consommez-vous de la cocaine
+HDM2783 +++ les douleurs sont-elles aggravées par la miction
+TRT2785 +++ votre traitement est-il bien toléré
+HDM2787 +++ avez-vous ressenti un claquement soudain dans l'épaule en même temps qu'une douleur intense
+ATD2789 +++ souffrez-vous une maladie intestinale
+ATD2791 +++ vos parents sont-ils en bonne santé
+HDM2793 +++ avez-vous du mal à vous concentrer
+HDM2795 +++ parlez-moi de votre mal de tête.
+HDM2797 +++ avez-vous des difficultés pour uriner
+HDM2799 +++ avez-vous toujours autant de mal à respirer ou bien est-ce juste à l'effort
+ATD2801 +++ souffrez-vous un problème de menopause
+HDM2803 +++ est-ce que votre capacité à entendre est réduite
+ATD2805 +++ à quel stade de votre grossesse avez-vous fait de fausses-couches
+MDV2807 +++ faites-vous du basket-ball
+HDM2809 +++ la faiblesse affecte-t-elle le fait de se lever
+ATD2811 +++ quand avez-vous maux d'estomac
+ATD2813 +++ avez-vous eu des rapports avec quelqu'un susceptible d' avoir des douleurs à l'aine
+HDM2815 +++ avez-vous vomi marc de café
+ATD2817 +++ avez-vous bien supporté l'opération de l'aisselle
+ATD2819 +++ avez-vous bien supporté la chirurgie des orteils
+ATD2821 +++ avez-vous d'autres antécédents médicaux ou chirurgicaux à signaler
+HDM2823 +++ avez-vous vomi du sang
+ATD2825 +++ avez-vous eu une circoncision
+MDV2827 +++ consommez-vous jamais des aubergines
+HDM2829 +++ avez-vous besoin de pousser pour uriner
+MDV2831 +++ consommez-vous des raisins
+HDM2833 +++ la douleur passe-t-elle d'une articulation à l'autre
+ATD2835 +++ avez-vous des problèmes dentaires
+HDM2837 +++ est-ce que vous avez des vertiges après un changement brusque de position
+HDM2839 +++ y a-t-il gonflement du genou
+HDM2841 +++ avez-vous eu une sensation de claquement ou de déchirement quand vous vous êtes tordu le genou
+PSN2843 +++ quand devez-vous accoucher
+HDM2845 +++ vomissez-vous souvent
+ATD2847 +++ avez-vous bien supporté l'opération de voies digestives
+ATD2849 +++ y a-t-il dans votre entourage des gens malades
+HDM2851 +++ est-ce que vous êtes capable de rester assis longtemps sans aller à la selle
+ATD2853 +++ avez-vous déjà eu besoin d'être sondé pour uriner
+HDM2855 +++ avez-vous un rythme du sommeil régulier
+HDM2857 +++ êtes-vous capable de répéter des mots ou des expressions
+HDM2859 +++ parlez-moi de votre trouble cutané
+HDM2861 +++ quand êtes-vous allé à la selle
+UNK2863 +++ avez-vous vu le dard
+HDM2865 +++ l'inspiration aggrave votre douleur
+ATD2867 +++ comment vont vos problèmes rachidiennes
+HDM2869 +++ avez-vous des difficultés à trouver vos mots
+HDM2871 +++ avez-vous eu des gaz ce matin
+MDV2873 +++ consommez-vous du pain
+HDM2875 +++ devez-vous attendre longtemps pour faire du caca
+PSN2877 +++ votre poids est-il stable
+ATD2879 +++ quelqu'un de votre famille est atteint de leucoedème oral
+HDM2881 +++ y a-t-il quelque chose de particulier qui déclenche ces crises
+ATD2883 +++ avez-vous déjà remarqué une goutte à l'extrémité de votre verge juste avant d'uriner
+ATD2885 +++ avez-vous déjà été hypertendue
+HDM2887 +++ vos pertes vaginales sont-elles jaunâtres, crémeuses, rougeâtres, brun foncé ou claires
+HDM2889 +++ avez-vous noté quelque chose concernant votre transit
+ATD2891 +++ avez-vous eu une période postinterventionnelle
+MDV2893 +++ mangez-vous en grande quantité
+HDM2895 +++ cela n'arrive-t-il que la nuit ou dans la journée également
+HDM2897 +++ une toux grasse
+PSN2899 +++ qui est votre parent le plus proche
+ATD2901 +++ souffrez-vous des maladies capillaires
+HDM2903 +++ est-ce que vous avez fait quelque chose pour réduire les volume des selles
+ATD2905 +++ quand avez-vous eu une dosage de l'hémoglobine
+HDM2907 +++ votre douleur anorectale est majorée
+HDM2909 +++ votre problème vous gêne-t-elle au quotidien
+HDM2911 +++ votre symptômes ménopausiques ont diminués
+HDM2913 +++ arrivez-vous à ouvrir les voies génito-urinaires
+HDM2915 +++ avez-vous perdu les eaux
+HDM2917 +++ vos habits vous serrent-ils moins qu'avant
+HDM2919 +++ y a-t-il quelque chose qui atténue cette douleur
+ATD2921 +++ vous êtes-vous déjà blessé au niveau de l'oreille
+UNK2923 +++ combien de tampons
+HDM2925 +++ avez-vous mal à bouger la langue quand vous parlez
+HDM2927 +++ des situations angoissantes provoquent vos expectorations
+ATD2929 +++ quand avez-vous eu un diagnostic ophtalmologique
+HDM2931 +++ avez-vous eu une dérivation bilio-pancréatique
+ATD2933 +++ quelles sont les manifestations de vos allergies
+HDM2935 +++ est-ce que la douleur c'est comme une décharge électrique
+HDM2937 +++ avez-vous du mal à lire à cause de votre vue
+HDM2939 +++ est-ce que vous arrivez à rester assis longtemps sans aller à la selle
+HDM2941 +++ la douleur diffuse-t-elle vers le haut
+HDM2943 +++ avez-vous remarqué des vertiges ou avez-vous la vue brouillée
+HDM2945 +++ combien de fois urinez-vous par jour
+HDM2947 +++ votre voix devient-elle rauque
+HDM2949 +++ votre appétit est-il affecté par le fait d'uriner
+HDM2951 +++ vous sentez-vous déprimé
+HDM2953 +++ décrivez-moi votre pyrexie
+HDM2955 +++ combien de fois par jour allez-vous aux toilettes
+HDM2957 +++ est-ce que vous entendez bien
+ATD2959 +++ comment s'est passé l'opération du ventricule
+HDM2961 +++ y a-t-il quelque chose qui améliore la toux
+MDV2963 +++ pouvez-vous décrire vos habitudes alimentaires
+MTF2965 +++ qu'est-ce qui vous ennuie
+ATD2967 +++ quand votre enfant a-t-il eu la varicelle
+HDM2969 +++ avez-vous pensé à vous faire du mal
+HDM2971 +++ vous grattez-vous souvent le nez
+HDM2973 +++ vos douleurs sont concentrées en un point précis
+TRT2975 +++ sont-elles changées par les aliments épicés
+HDM2977 +++ avez-vous du mal à voir quand vous êtes en éclairage artificiel intense
+MDV2979 +++ suivez-vous un régime amaigrissant
+MDV2981 +++ êtes-vous extraverti ou introverti
+HDM2983 +++ avez-vous des pertes anormales
+HDM2985 +++ vos engorgements mammaires sont comment
+HDM2987 +++ l'air conditionné aggrave ces symptômes
+HDM2989 +++ êtes-vous insomniaque
+HDM2991 +++ troubles de la parole et du langage
+HDM2993 +++ le caillot est il important ou discret
+HDM2995 +++ est-ce que vous pouvez vous débrouiller tout seul
+HDM2997 +++ ressentez-vous une sécheresse vaginale
+HDM2999 +++ avez-vous de fréquents levers nocturnes
+HDM3001 +++ souffrez-vous d'un manque de motivation ?
+HDM3003 +++ la douleur se propage-t-elle le long de la cuisse ou de la fesse
+HDM3005 +++ avez-vous des troubles du goût
+ATD3007 +++ souffrez-vous des maladies lombo-sacres
+MDV3009 +++ avez-vous un régime hypersodé
+HDM3011 +++ la dyspepsie est-elle affectée par le fait de manger
+HDM3013 +++ s'est-elle produite d'un côté seulement
+HDM3015 +++ depuis quand avez-vous une démarche trébuchante
+HDM3017 +++ avez-vous des engourdissements
+ATD3019 +++ la cysto-urétéroscopie s'est bien passé
+HDM3021 +++ comment va votre gangrène sèche de l'orteil
+HDM3023 +++ êtes-vous souvent essoufflé
+HDM3025 +++ est-ce que vous avez sensation de mouches volantes
+ATD3027 +++ avez-vous déjà eu la jaunisse
+MDV3029 +++ pouvez-vous faire votre toilette intime seul
+HDM3031 +++ est-ce un point de côté
+HDM3033 +++ est-ce que les symptômes sont aggravés en s'allongeant sur le dos
+HDM3035 +++ des aura surviennent-elles avant la migraine
+HDM3037 +++ avez-vous eu une discogramme
+HDM3039 +++ avez-vous l'impression que votre cheville se dérobe
+ATD3041 +++ avez-vous déjà eu une fracture
+HDM3043 +++ une consistance molle
+HDM3045 +++ la force du jet a-t-elle changé
+HDM3047 +++ êtes-vous aussi fatigué le matin que si vous n'aviez pas dormi
+HDM3049 +++ la douleur vous gêne-t-elle la nuit
+PSN3051 +++ qui est la personne à prevenir
+ATD3053 +++ depuis quand souffrez-vous des maux du métatarse
+HDM3055 +++ ressentez-vous des craquements dans les oreilles semblables sous l' effet de la contrariété
+ATD3057 +++ avez-vous fait une fausse couche provoquée
+HDM3059 +++ la faiblesse apparaît-elle seulement après une activité ou un exercice intense
+HDM3061 +++ avez-vous des coliques quand vous restez en position debout prolongée
+HDM3063 +++ vous arrive-t-il d'avoir des difficultés à boutonner votre chemise
+HDM3065 +++ portez-vous un mainteneur d'espace
+HDM3067 +++ avez-vous remarqué des saignements après vos rapports sexuels
+HDM3069 +++ êtes-vous allé à la selle depuis que vous avez mal
+HDM3071 +++ est-ce majoré quand vous êtes debout
+HDM3073 +++ la douleur est-elle soulagée après défécation
+HDM3075 +++ avez-vous de l'appétit
+HDM3077 +++ avez-vous l'impression d'avoir enflé au niveau des chevilles
+HDM3079 +++ avez-vous eu des mouvements involontaires
+HDM3081 +++ avez-vous eu des mouvements inhabituels
+HDM3083 +++ avez-vous eu des mouvements particuliers
+HDM3085 +++ saignez-vous fréquemment des gencives
+HDM3087 +++ depuis quand avez-vous troubles du métabolisme
+HDM3089 +++ pouvez-vous étendre le jambes devant vous
+MDV3091 +++ votre alimentation est-elle riche en graisse
+HDM3093 +++ la douleur est-elle continue ou intermittente
+HDM3095 +++ tout le crachat était-il sanglant
+ATD3097 +++ avez-vous des problèmes hypothalamiques
+HDM3099 +++ saignez-vous des gencives quand vous les brossez
+HDM3101 +++ la douleur est-elle améliorée par la défécation
+HDM3103 +++ dans quelles circonstances vos hallucinations se produisent
+HDM3105 +++ votre dent est-elle douloureuse à la mastication
+HDM3107 +++ est-ce que ça vous brûle
+HDM3109 +++ votre crâne ou votre mâchoire ont-ils augmenté de taille
+TRT3111 +++ quelle position provoque vos ecoulements
+HDM3113 +++ le café ou le thé aggravent la douleur
+HDM3115 +++ avez-vous des sensations de brûlure lorsque vous vous allongez
+ATD3117 +++ vous êtes-vous déjà foulé cette articulation
+HDM3119 +++ vous réveillez vous la nuit à cause de vos douleurs
+ATD3121 +++ souffrez-vous des maladies gingivales
+HDM3123 +++ combien d'heures restez-vous au lit par jour
+HDM3125 +++ avez-vous les nez qui coule
+HDM3127 +++ y a-t-il eu un craquement
+ATD3129 +++ êtes-vous très sensible à la lumière
+PSN3131 +++ quel était le poids de naissance du bébé
+ATD3133 +++ la chirurgie de vertèbres lombaires s'est bien passée
+HDM3135 +++ avez-vous été exposé à des expériences traumatiques
+TRT3137 +++ utilisez-vous un stérilet
+HDM3139 +++ la puissance du jet a-t-elle changé
+ATD3141 +++ y a-t-il des antécédents de névralgie dans votre famille
+HDM3143 +++ avez-vous remarqué des changements concernant votre tolérance au froid
+ATD3145 +++ parlez-moi de votre maladie lombo-sacree
+HDM3147 +++ est-ce que vous êtes capable de rester assis longtemps sans vous endormir
+ATD3149 +++ aviez-vous les bras et les jambes qui tremblaient
+HDM3151 +++ avez-vous remarqué quels aliments provoquent la douleur
+HDM3153 +++ vos aphtes surviennent-ils après avoir mangé des noix
+HDM3155 +++ avez-vous remarqué un gonflement du creux axillaire gauche
+TRT3157 +++ la douleur est-elle calmée par un exercice léger
+HDM3159 +++ l'envie de déféquer vous réveille-t-elle la nuit
+HDM3161 +++ est-ce une douleur pulsative
+HDM3163 +++ avez-vous eu mal à la gorge
+HDM3165 +++ comment va votre ulcère gastrique
+ATD3167 +++ votre douleur a-t-il un retentissement familial
+HDM3169 +++ quelle est l'odeur de vos urines
+HDM3171 +++ parlez-moi de votre dyschézie
+HDM3173 +++ décrivez-moi votre rash
+HDM3175 +++ pouvez-vous détendre les jambes
+HDM3177 +++ un abus de café déclenche vos signes buccales
+HDM3179 +++ votre respiration est-elle bruyante quand vous inspirez
+HDM3181 +++ quel aide cela vous a-t-il apporté
+HDM3183 +++ l'effort aggrave votre douleur
+ATD3185 +++ souffrez-vous des maux de couche endolymphatique de la lame spirale
+HDM3187 +++ la puissance du jet est-elle stable
+HDM3189 +++ la douleur augmente à l'inspiration
+ATD3191 +++ avez-vous déjà été hospitalisé pour une hépatite
+PSN3193 +++ il y a longtemps que vous faites ce poids-là
+HDM3195 +++ êtes-vous saisi de frissons
+HDM3197 +++ avez-vous des douleurs en barre, rétrosternales, constrictives, avec irradiation
+HDM3199 +++ avez-vous perdu vos urines
+MDV3201 +++ avez-vous insomnie transitoire lors des rapports
+HDM3203 +++ la douleur diffuse-t-elle vers le bas
+UNK3205 +++ quel en est l'aspect
+ATD3207 +++ y a-t-il des antécédents de hypophosphatasie dans votre famille
+HDM3209 +++ avez-vous eu des troubles de la déglutition
+HDM3211 +++ avez-vous eu une engourdissement du visage
+HDM3213 +++ l'aspect rouge apparaît-il au moment de vos règles
+HDM3215 +++ avez-vous beaucoup utilisé votre bras récemment
+ATD3217 +++ avez-vous eu récemment une amygdalite
+HDM3219 +++ en quelles quantités urinez vous
+HDM3221 +++ un abus de café provoque vos selles volumineuses
+HDM3223 +++ vous arrive-t-il d'avoir des migraines
+TRT3225 +++ est-ce que vous avez des vertiges lors d'un passage brusque de la position allongée à la position debout
+MDV3227 +++ suivez-vous un régime
+HDM3229 +++ souffrez-vous des vertiges
+HDM3231 +++ avez-vous parfois des écoulements oculaires
+MDV3233 +++ utilisez-vous habituellement une lotion après-rasage
+HDM3235 +++ vous êtes-vous mordu la langue
+ATD3237 +++ avez-vous des maladies intestinales
+ATD3239 +++ quelqu'un de votre famille est atteint de obstruction du conduit pancréatique
+ATD3241 +++ avez-vous eu une infection adénoïdienne
+HDM3243 +++ est-ce une douleur en coup d'aiguille
+HDM3245 +++ pensez-vous avoir du mal à entendre
+HDM3247 +++ avez-vous des élancements dans les yeux
+PSN3249 +++ vos parents sont-ils toujours vivants
+HDM3251 +++ depuis combien de temps présentez-vous un flou visuel ou une baisse de vision
+MDV3253 +++ avez-vous maigri au cours des dernières semaines
+HDM3255 +++ avez-vous un écoulement menstrual réduit
+ATD3257 +++ y avait-il eu des complications
+HDM3259 +++ depuis quand souffrez-vous le signe de musset
+PSN3261 +++ sur quelle période de temps la perte de poids a-t-elle eu lieu
+HDM3263 +++ avez-vous des aigreurs d'estomac
+HDM3265 +++ avez-vous une sensation d'étrangeté
+HDM3267 +++ toussez-vous la nuit
+PSN3269 +++ avez-vous été absent du travail
+HDM3271 +++ le contact avec des chiens et des chats a-t-il une influence sur vos bouffées de chaleur
+HDM3273 +++ la douleur descend-elle jusque dans les épaules
+ATD3275 +++ avez-vous eu une opération rénale
+HDM3277 +++ avez-vous des accès d'étouffement
+HDM3279 +++ la puissance du jet est-elle bonne
+HDM3281 +++ votre gêne a changé
+HDM3283 +++ la ecoulement de fistule est elle majorée par les plats épicés
+PSN3285 +++ portez-vous des charges lourdes à votre travail
+HDM3287 +++ êtes-vous frileux
+ATD3289 +++ quand avez-vous des cyanoses
+HDM3291 +++ avez-vous eu des sueurs froides juste avant de vous évanouir
+HDM3293 +++ est-ce que vous avez des vertiges lors d'un mouvement de rotation de la tête
+HDM3295 +++ avez-vous déjà uriné du sang
+ATD3297 +++ y a-t-il des gens avec des douleurs autour de vous
+HDM3299 +++ avez-vous une rugosité de la muqueuse buccale
+HDM3301 +++ combien de fois vous réveillez pour faire pipi la nuit
+ATD3303 +++ comment s'est passé l'opération de ganglions
+HDM3305 +++ votre partenaire se plaint-elle d'une douleur dans la poitrine
+ATD3307 +++ la chirurgie du muscle s'est bien passée
+MDV3309 +++ est-ce que vous buvez régulièrement
+HDM3311 +++ avez-vous eu de la fièvre
+HDM3313 +++ avez-vous eu des douleurs au niveau de la vessie
+HDM3315 +++ vous avez une sensation de vessie pleine ou de pertes fréquentes
+HDM3317 +++ avez-vous des dents manquantes
+ATD3319 +++ avez-vous des problèmes fissuraires
+ATD3321 +++ depuis quand vous avez remarqué une perte de l'ouïe
+ATD3323 +++ la chirurgie du testicule s'est bien passé
+ATD3325 +++ quelle est la date de votre chirurgie de coeur
+ATD3327 +++ parlez-moi de votre problème urologique
+HDM3329 +++ en quelles quantités mictionnez vous
+HDM3331 +++ vous urinez de grosses quantités
+HDM3333 +++ votre vision est-elle double
+ATD3335 +++ avez-vous déjà présenté un problème cardiaque
+HDM3337 +++ le sang s'accompagnait-il de brûlures
+HDM3339 +++ crachez-vous
+HDM3341 +++ avez-vous des maux au trou occipital
+HDM3343 +++ pouvez-vous retenir vos urines quand vous toussez
+ATD3345 +++ avez-vous déjà eu une sensation de craquement
+HDM3347 +++ cela était-il nauséabond
+ATD3349 +++ le bébé a eu-t-il des problèmes respiratoires
+HDM3351 +++ vous sentez-vous lourd après un repas riche en graisses
+MTF3353 +++ comment ça va depuis la dernière fois
+HDM3355 +++ les solides ne passent pas
+MDV3357 +++ avez-vous des relations satisfaisantes sur le plan physique
+HDM3359 +++ pouvez-vous plier les jambes
+ATD3361 +++ avez-vous déjà eu un corps étranger dans l'oreille
+HDM3363 +++ avez-vous reçu un coup à l'oeil avec un objet acéré
+HDM3365 +++ pouvez-vous ouvrir la bouche
+HDM3367 +++ la sensation d'étouffement vous réveille-t-elle la nuit
+HDM3369 +++ avez-vous des bourdonnements ou des sifflements d'oreille
+HDM3371 +++ les essoufflements sont-ils déclenchées par un contact avec le froid
+HDM3373 +++ voyez-vous normalement d'habitude
+HDM3375 +++ est-ce que vous êtes capable de vous retenir d'uriner
+UNK3377 +++ pour quelle artère
+HDM3379 +++ souffrez-vous des maux au système voméro-nasal
+ATD3381 +++ les douleurs dentaires sont-elles déclenchées par un contact avec le chaud, le froid, le sucre, par la pression sur une dent ou par la mastication ?
+ATD3383 +++ comment s'est passé la chirurgie du tarse
+HDM3385 +++ les bourdonnements d'oreille sont-ils pulsatiles
+HDM3387 +++ vos otalgies sont comment
+HDM3389 +++ avez-vous le sentiment que votre vessie est totalement vidée
+ATD3391 +++ avez-vous déjà pris votre pouls lors d'un de ces épisodes
+HDM3393 +++ quand vous expirez, avez-vous toujours l'impression d'avoir de l'air dans les poumons
+ATD3395 +++ vous arrive-t-il de vous réveiller en haletant
+HDM3397 +++ est-ce que vous voyez flou
+MDV3399 +++ ronflez-vous en dormant
+HDM3401 +++ pouvez-vous baisser et croiser les jambes devant vous le plus loin possible
+MDV3403 +++ est-ce que vous dormez bien
+HDM3405 +++ le pollen déclenche la toux
+ATD3407 +++ saignez-vous entre les règles
+MDV3409 +++ avez-vous plusieurs partenaires sexuels
+HDM3411 +++ des émotions provoquent vos douleurs rétrosternales
+HDM3413 +++ avez-vous une digestion pénible
+HDM3415 +++ la sensation de brûlure est-elle majorée par les aliments épicés
+ATD3417 +++ vos cycles sont-ils réguliers
+HDM3419 +++ c'est une couleur claire
+HDM3421 +++ avez-vous une douleur ou un sentiment de pesanteur à gauche sous la dernière côte
+HDM3423 +++ souffrez-vous des vomissements
+HDM3425 +++ qu'est-ce qui aggrave cette douleur
+ATD3427 +++ quand avez-vous eu une dosage immunoenzymatique
+HDM3429 +++ quand est-ce que les boutons de fièvre apparaissent
+MTF3431 +++ de quoi vous plaignez-vous
+HDM3433 +++ vous arrive-t-il d'avoir mal au coeur
+HDM3435 +++ avez-vous des bourdonnements d'oreille
+HDM3437 +++ c'est une odeur normale
+HDM3439 +++ avez-vous eu une chirurgie de medulla
+HDM3441 +++ avez-vous du mal à voir pendant la journée
+HDM3443 +++ êtes-vous maladroit quand vous faîtes des mouvements précis
+HDM3445 +++ avez-vous des maux de tête
+HDM3447 +++ votre enurésie nocturne s' accompagne de xérostomie
+HDM3449 +++ la douleur est-elle aggravée par des mouvements du poignet et des doigts
+HDM3451 +++ ressentez-vous des picotements lorsque vous urinez
+HDM3453 +++ pensez-vous avoir été piqué par un insecte
+HDM3455 +++ des selles noir goudron
+HDM3457 +++ vous réveillez-vous la nuit en raison d'une respiration sifflante
+HDM3459 +++ avez-vous une quelconque douleur au niveau d'un os
+HDM3461 +++ est-ce que vous ressentez une mauvaise vidange vésicale
+MDV3463 +++ pratiquez-vous le contrôle des naissances
+HDM3465 +++ votre sensation ébrieuse est sevré
+HDM3467 +++ votre problème survient-il suite à un stress émotionnel
+ATD3469 +++ cela vous arrivait-il avec autre chose que la farine
+ATD3471 +++ parlez-moi de votre maladie vulvaire
+HDM3473 +++ avez-vous remarqué des nodules ou des tuméfactions au niveau des seins
+HDM3475 +++ est-ce que vous avez du mal à vous réveiller le matin
+HDM3477 +++ avez-vous eu une extraction instrumentale
+HDM3479 +++ avez-vous un écoulement mamelonnaire
+HDM3481 +++ avez-vous le nez qui vous démange
+HDM3483 +++ avez-vous une impression d'engourdissement
+HDM3485 +++ la douleur migre-t-elle d'une articulation à l'autre
+MDV3487 +++ parlez-moi de votre humeur habituelle
+ATD3489 +++ vous est-il arrivé de voir des choses que les autres personnes ne pouvaient pas voir
+HDM3491 +++ depuis combien de temps ressentez-vous cette douleur
+MDV3493 +++ êtes-vous d'une nature enjouée
+HDM3495 +++ la faiblesse affecte-t-elle le langage
+HDM3497 +++ avez-vous d'autres hallucinations visuelles
+MDV3499 +++ faites-vous de la natation
+MDV3501 +++ utilisez-vous un crayon à sourcil
+HDM3503 +++ est-ce que vous arrivez à rester assis longtemps sans avoir le besoin de dormir
+HDM3505 +++ la douleur est-elle soulagée par le jeûne
+HDM3507 +++ pourquoi êtes-vous fatigué
+HDM3509 +++ avez-vous une sensation de masse dans le vagin
+HDM3511 +++ la douleur irradie-t-elle dans les mâchoires
+HDM3513 +++ vous arrive-t-il de voir des anneaux brillants
+HDM3515 +++ vous arrive-t-il de vous mordre la joue
+MDV3517 +++ avez-vous envie de faire du mal à d'autres personnes ou de vous venger
+HDM3519 +++ est-ce une douleur légère
+ATD3521 +++ souffrez-vous des problèmes de muscle
+ATD3523 +++ aviez-vous fait un trajet prolongé en avion ou en voiture
+HDM3525 +++ avez-vous le nez irrité
+HDM3527 +++ était-ce un moustique
+MTF3529 +++ comment va votre lèpre
+MDV3531 +++ portez-vous un dentier
+ATD3533 +++ quel âge aviez-vous lors de votre premier rapport sexuel
+HDM3535 +++ vomissez-vous des aliments reconnaissables
+HDM3537 +++ perdez-vous des gouttes d'urine en fin de miction
+UNK3539 +++ l'objet était-il pointu
+HDM3541 +++ la douleur irradie-t-elle au poignet gauche
+HDM3543 +++ tenez-vous la tête inclinée de côté
+HDM3545 +++ vous êtes vous réveillé la nuit à cause de votre chaleur au niveau du site d'injection
+HDM3547 +++ avez-vous des signes précurseurs de la douleur
+ATD3549 +++ souffrez-vous des problèmes urologiques
+ATD3551 +++ avez-vous déjà subi un test de dépistage du vih, le virus à l'origine du sida
+HDM3553 +++ vos pertes vaginales sont-elles mousseux, collant
+MTF3555 +++ que puis-je pour vous
+TRT3557 +++ suivez-vous un traitement médical
+HDM3559 +++ parlez-moi de votre prolapsus
+ATD3561 +++ avez-vous reçu récemment un coup sur le côté du genou
+HDM3563 +++ avez-vous eu une blessure à la tête
+HDM3565 +++ des selles mousseuses
+HDM3567 +++ combien de marches pouvez-vous monter sans être épuisé
+ATD3569 +++ avez-vous déjà eu une impossibilité respiratoire
+HDM3571 +++ on vous a fait des tests cutanés allergiques
+ATD3573 +++ avez-vous des problèmes lombo-sacrées
+ATD3575 +++ avez-vous des problèmes endolymphatiques
+HDM3577 +++ respirez-vous plus facilement la bouche ouverte
+HDM3579 +++ avez-vous été vacciné
+HDM3581 +++ des claquements
+MDV3583 +++ vous arrive-t-il d'avoir de remarques à propos de votre consommation
+MDV3585 +++ utilisez-vous un dentifrice fluoré
+ATD3587 +++ quand avez-vous une odeur vaginale anormale
+HDM3589 +++ était-ce une crise convulsive
+HDM3591 +++ avez-vous noté ce qui les déclenche
+HDM3593 +++ était-ce sanglant
+HDM3595 +++ vos muscles sont-ils contractés
+HDM3597 +++ perdez-vous du sang en ce moment
+HDM3599 +++ votre voix est-elle plus haute
+HDM3601 +++ est-ce que la forme de votre mâchoire a changé
+HDM3603 +++ est-ce que la douleur se situe derrière le sternum
+ATD3605 +++ avez-vous des problèmes sénologiques
+HDM3607 +++ l'écoulement se produit-il à certaines saisons
+HDM3609 +++ avez-vous dû forcer ou pousser pour finir de faire pipi
+HDM3611 +++ votre voix est-elle plus grave
+HDM3613 +++ êtes-vous porteur de matériel médical
+HDM3615 +++ avez-vous eu des calculs
+MDV3617 +++ avez-vous des expériences religieuses intenses inhabituelles
+HDM3619 +++ avez-vous des pertes d'urine
+HDM3621 +++ avez-vous des boutons de l'herpès
+ATD3623 +++ avez-vous été vacciné contre la polio
+HDM3625 +++ où avez-vous des picotements
+PSN3627 +++ avez-vous un désir de grossese
+ATD3629 +++ depuis quand souffrez-vous des problèmes cardio-thoraciques
+HDM3631 +++ est-ce que la douleur s'aggrave quand vous soulevez quelque chose de lourd
+MDV3633 +++ êtes-vous allé dans des pays étrangers
+HDM3635 +++ avez-vous des maux de muscle biceps
+HDM3637 +++ était-ce purulent
+HDM3639 +++ perdez-vous beaucoup d'urine
+HDM3641 +++ avez-vous des sensations de fourmillement
+HDM3643 +++ est-ce que vous bronzez facilement
+ATD3645 +++ avez-vous subi un lavage de l'oreille avec une seringue
+TRT3647 +++ suivez-vous un régime pauvre en sucre
+ATD3649 +++ avez-vous eu des rapports non protégés
+HDM3651 +++ quand vous avez mal à la tête, avez-vous envie de vomir
+HDM3653 +++ avez-vous eu les dents redressées
+HDM3655 +++ saignez-vous des gencives en vous brossant les dents ou spontanément
+HDM3657 +++ quelle peut être la cause de votre respiration agonique
+MDV3659 +++ ce problème vous perturbe au travail
+HDM3661 +++ avez-vous eu des eruptions juste avant des affections érythémateuses
+HDM3663 +++ vous sentez vous les jambes lourdes
+HDM3665 +++ la région périarticulaire est-elle gonflé, rouge, chaude
+HDM3667 +++ votre essoufflement est augmenté
+MDV3669 +++ depuis quand avez-vous une perte de force physique
+HDM3671 +++ êtes-vous essoufflé en marchant
+UNK3673 +++ voyez-vous bien de près
+HDM3675 +++ depuis quand avez-vous une tuberculose
+HDM3677 +++ la perte de mémoire s'est-elle détériorée au fil des années
+ATD3679 +++ quand avez-vous une gêne oculaire
+ATD3681 +++ avez-vous déjà remarqué une grosseur au niveau de votre cou
+ATD3683 +++ avez-vous déjà eu une diminution du volume des urines ?
+HDM3685 +++ depuis quand avez-vous des erythèmes
+MDV3687 +++ comment ça se passe avec votre partenaire
+HDM3689 +++ comment sont vos règles
+HDM3691 +++ souffrez-vous de sécheresse vaginale
+HDM3693 +++ avez-vous des brûlures rétrosternales
+HDM3695 +++ la fumée de cigarette a-t-elle une influence sur vos symptômes
+HDM3697 +++ votre douleur s'accompagne-t-elle de vomissements
+HDM3699 +++ qu'est-ce qui entraîne la douleur
+HDM3701 +++ à quelles occasions se manifeste l'essoufflement
+HDM3703 +++ avez-vous mal sur le bord interne du genou
+HDM3705 +++ sensibilité abdominale
+ATD3707 +++ avez-vous déjà eu des sensations de brûlure
+HDM3709 +++ le mal de tête est-il situé à l'arrière du crâne
+HDM3711 +++ avez-vous eu une angioplastie coronaire avec ou sans stent, pontages coronaires
+HDM3713 +++ est-ce que la douleur se situe derrière la cuisse et le long de la face interne de la jambe
+ATD3715 +++ avez-vous eu cette perte de connaissance au cours d'une quinte de toux
+ATD3717 +++ avez-vous des hauts le coeur
+HDM3719 +++ vos pertes vaginales sont-elles verdâtres
+MDV3721 +++ avez-vous sommeil la journée
+HDM3723 +++ ressentez-vous une transpiration abondante semblable sous l'effet de l'enthousiasme ?
+HDM3725 +++ est-ce que vous avez une diminution de force des muscles
+HDM3727 +++ où avez-vous des sueurs
+ATD3729 +++ avez-vous eu des contacts avec une personne susceptible d'avoir une maladie vénérienne
+HDM3731 +++ est-ce que votre vue se brouille
+HDM3733 +++ est-ce que vous devez pousser pour finir d'avaler
+HDM3735 +++ avez-vous uriné du sang
+HDM3737 +++ avez-vous l'impression que votre coeur s'arrête momentanément
+HDM3739 +++ avez-vous une diminution de votre jet urinaire
+HDM3741 +++ avez-vous mal au dos
+HDM3743 +++ est-ce que cela entraîne une gêne respiratoire
+HDM3745 +++ vous êtes-vous senti nauséeux après la douleur
+ATD3747 +++ avez-vous déjà fait des glaires ou du pus
+HDM3749 +++ avez-vous uriné après la syncope
+HDM3751 +++ votre voix est-elle rauque
+HDM3753 +++ avez-vous une diminution de l'appétit
+HDM3755 +++ dormez-vous toute la nuit ou vous réveillez-vous pendant la nuit
+MDV3757 +++ avez-vous pris l'avion récémment
+HDM3759 +++ est-ce une douleur fulgurante
+HDM3761 +++ le pollen provoque l'engourdissement
+ATD3763 +++ quand avez-vous eu une opération de l'épithélium exocervical
+HDM3765 +++ quelque chose fait la maladie de l'oreille mieux
+HDM3767 +++ y a-t-il abus de laxatifs
+HDM3769 +++ avez-vous eu une douleur de l'épaule après
+HDM3771 +++ combien de fois vous levez-vous pour uriner chaque nuit
+HDM3773 +++ depuis quand avez-vous un gonflement auriculaire
+HDM3775 +++ vos aphtes surviennent-ils après avoir mangé du fromage
+HDM3777 +++ est-ce que la gastro-entérite perturbe les activités quotidiennes
+HDM3779 +++ comment vous brossez vous les dents
+HDM3781 +++ avez-vous mal au cours des rapports
+HDM3783 +++ vous sentez-vous mal à l'aise
+MDV3785 +++ quelle est la fréquence des rapports sexuels
+HDM3787 +++ est-ce une colique néphrétique
+HDM3789 +++ avez-vous avalé quelque chose qui a pu se bloquer dans votre gorge
+HDM3791 +++ quelle est l'emplacement de la douleur
+ATD3793 +++ l'un de vos partenaires a-t-il eu une maladie sexuellement transmissible
+HDM3795 +++ avez-vous des difficultés à trouver les mots
+HDM3797 +++ combien de fois allez-vous à la selle par jour
+HDM3799 +++ avez-vous le souffle court quand vous montez un escalier ou marchez trop rapidement
+HDM3801 +++ le lait fait-il disparaître la sensation de brûlure
+ATD3803 +++ vos endolorissements sont comment
+HDM3805 +++ les crachats sont-ils clairs, glaireux ou moussants
+MDV3807 +++ vous avez ingéré accidentellement un produit toxique
+ATD3809 +++ depuis quand souffrez-vous des problèmes de ligaments
+ATD3811 +++ qui est votre médecin de famille
+ATD3813 +++ avez-vous déjà eu une dystonie cervicale ?
+HDM3815 +++ avez-vous perdu des caillots ou des débris tissulaires
+MTF3817 +++ comment va votre asphyxie
+ATD3819 +++ avez-vous jamais eu de problèmes de santé mentale
+HDM3821 +++ avez-vous perdu l'appétit récemment
+HDM3823 +++ l'air conditionné majore ces symptômes
+HDM3825 +++ avez-vous des hallucinations sensorielles ou spatiales
+HDM3827 +++ l'écoulement épais
+HDM3829 +++ la douleur est-elle affectée par le fait de manger ou d'aller à la selle
+PSN3831 +++ qu'arrive quand vous faites le ménage à la maison
+MDV3833 +++ fumez-vous
+HDM3835 +++ avez-vous l'impression qu'une de vos dents touche avant les autres en fermeture
+HDM3837 +++ devez-vous attendre longtemps pour déglutir
+PSN3839 +++ qui alerter en cas de besoin
+HDM3841 +++ votre vue est-elle trouble
+HDM3843 +++ combien de fois vous êtes vous levé manger chaque nuit
+ATD3845 +++ avez-vous eu un problème rythmique avec implantation d'un pacemaker, d'un défibrillateur automatique implantable ou d'un holter
+HDM3847 +++ est-ce que vous en avez ailleurs sur le corps
+ATD3849 +++ la chirurgie de glie s'est bien passé
+ATD3851 +++ portiez-vous des lunettes quand vous étiez jeune
+TRT3853 +++ prenez-vous un médicament quelconque
+ATD3855 +++ quand souffrez-vous des ongles
+HDM3857 +++ est-ce que l'éruption démange
+HDM3859 +++ avez-vous l'impression d'un faux pas du coeur
+HDM3861 +++ êtes-vous extrêmement sensible à la lumière
+HDM3863 +++ depuis quand souffrez-vous des douleurs chroniques
+HDM3865 +++ sentez-vous votre bébé bouger plus que d'habitude
+HDM3867 +++ avez-vous des démangeaisons ou des douleurs vaginales
+HDM3869 +++ avez-vous des crampes dans les membres inférieurs au repos
+HDM3871 +++ de quelle couleur est votre urine
+HDM3873 +++ avez-vous une déformation de la colonne vertébrale
+HDM3875 +++ êtes-vous fatigué
+HDM3877 +++ est-ce que cela vous occasionne une gêne fonctionnelle
+ATD3879 +++ êtes-vous allé chez le médecin récémment
+HDM3881 +++ vos pertes vaginales sont-elles brun foncé
+HDM3883 +++ éternuez-vous beaucoup
+HDM3885 +++ pouvez-vous me dire approximativement combien de migraines vous avez par mois
+TRT3887 +++ utilisez-vous une pompe à insuline
+HDM3889 +++ dans la journée, avez-vous une envie impérieuse et incontrôlable
+HDM3891 +++ la douleur disparaît-elle quand vous mettez les bras en l'air
+ATD3893 +++ avez-vous déjà connu des périodes prolongées d'excitation ou d'euphorie
+MDV3895 +++ portez-vous habituellement des lentilles
+TRT3897 +++ la position déclenche vos douleurs
+HDM3899 +++ vos bourgeons ont augmenté
+MDV3901 +++ quelles sont les activités qui vous sont rendues impossibles en raison de vos difficultés d'excitation sexuelle
+ATD3903 +++ souffrez-vous des maux aux cervicales
+HDM3905 +++ dans quelle partie du cycle menstruelle vous avez ce douleur
+TRT3907 +++ quelle position déclenche vos ecoulements
+HDM3909 +++ quand ce mal de tête a-t-il commencé
+MDV3911 +++ quelle est la fréquence de vos hallucinations
+HDM3913 +++ avez-vous mal aux oreilles quand vous avez mal à la gorge
+HDM3915 +++ avez-vous une impression de brûlure
+HDM3917 +++ comment va votre trouble du système nerveux
+TRT3919 +++ est-ce que votre mal de tête est soulagé par des médicaments
+ATD3921 +++ souffrez-vous des problèmes de menopause
+ATD3923 +++ souffrez-vous une maladie spinale
+HDM3925 +++ la douleur vous oblige-t-elle à vous arrêter
+HDM3927 +++ avez-vous une barre au niveau des sinus
+HDM3929 +++ quand ces symptômes apparaissent
+HDM3931 +++ est-ce que vous avez des sautes d'humeur plus fréquentes
+HDM3933 +++ avez-vous des douleurs à la défécation
+HDM3935 +++ des situations angoissantes déclenchent vos gênes pelviennes
+HDM3937 +++ de la poussière déclenche la toux
+MDV3939 +++ vous avez un mode de vie saine
+ATD3941 +++ avez-vous eu une thermocoagulation
+HDM3943 +++ vous arrive-t-il de vous faire pipi quand vous toussez
+HDM3945 +++ est-ce que la douleur est bien localisée
+HDM3947 +++ des émotions déclenchent vos coliques
+UNK3949 +++ l'objet était-il acéré
+HDM3951 +++ depuis combien de temps vous plaignez-vous de palpitations
+HDM3953 +++ quelle quantité urinez-vous à chaque miction
+MDV3955 +++ utilisez-vous souvent des préservatifs lors de rapports anaux
+ATD3957 +++ avez-vous déjà souffert d'une impossibilité d'uriner malgré un besoin impérieux
+HDM3959 +++ avez-vous une climatisation centrale
+ATD3961 +++ l'un de vos partenaires a-t-il eu une douleur du dos
+HDM3963 +++ vos crachats sont-ils tachés de sang
+HDM3965 +++ vos jambes sont-elles plus lourdes ou plus enflées lors de vos règles
+ATD3967 +++ votre otalgie et écoulement par l'oreille sont comment
+HDM3969 +++ y a-t-il des périodes précises d'amnésie
+HDM3971 +++ y a-t-il des facteurs déclenchant la douleur thoracique
+MDV3973 +++ vous faites une activité qui sollicite beaucoup votre voix
+HDM3975 +++ avez-vous un régime sans sel
+ATD3977 +++ souffrez-vous une maladie costale
+MDV3979 +++ consommez-vous de la merluche
+HDM3981 +++ avez-vous eu des gestes suicidaires
+HDM3983 +++ gardez-vous l'articulation dans une position particulière afin de minimiser la douleur
+HDM3985 +++ s'agit-il de toussotements
+MDV3987 +++ êtes-vous sexuellement actif
+HDM3989 +++ y a-t-il des caillots de sang
+HDM3991 +++ est-ce une migraine avec aura ou une migraine classique
+HDM3993 +++ ressentez-vous une gêne en bougeant vos yeux de haut en bas
+HDM3995 +++ vos bras sont-ils plus lourds ou plus enflés lors de vos règles
+TRT3997 +++ utilisez-vous le retrait
+HDM3999 +++ perdez-vous vos cheveux
+HDM4001 +++ avez-vous noté quelque chose qui accompagne la douleur du mamelon
+TRT4003 +++ avez-vous pris un traitement pour être enceinte
+HDM4005 +++ avez-vous le nez sec
+HDM4007 +++ devenez-vous nauséeux
+HDM4009 +++ est-ce que la douleur irradie en avant
+ATD4011 +++ la chirurgie de côlon s'est bien passé
+TRT4013 +++ est-ce que vous faites quelque chose pour prévenir la nuque rigide
+HDM4015 +++ depuis quand souffrez-vous de l'abdomen
+HDM4017 +++ depuis quand souffrez-vous des maux de l'orteil
+HDM4019 +++ avez-vous mal quand vous portez le poids du corps sur le genou
+MDV4021 +++ un abus de tabac déclenche votre spasme musculaire
+HDM4023 +++ avez-vous serré les dents pendant la crise
+HDM4025 +++ combien de marches pouvez-vous monter sans être essouflé
+HDM4027 +++ à quel niveau la nourriture reste-t-elle coincée
+HDM4029 +++ depuis quand souffrez-vous des etats vertigineux
+HDM4031 +++ le pollen provoque votre dermite
+ATD4033 +++ avez-vous déjà eu un traumatisme de l'abdomen ayant nécessité une hospitalisation
+ATD4035 +++ l'un d'eux était-il sujet à des allergies
+ATD4037 +++ avez-vous des douleurs costales
+MDV4039 +++ êtes-vous heureux
+HDM4041 +++ êtes-vous détendu
+MDV4043 +++ les serviettes hygiéniques sont-elles trempées ou juste tachées
+MDV4045 +++ continuez-vous a consommer le produit
+HDM4047 +++ aviez-vous des flashs dans votre champs de vision
+TRT4049 +++ la douleur est-elle soulagée en position genu-pectorale
+HDM4051 +++ depuis quand avez-vous des problèmes buccodentaires
+HDM4053 +++ avez-vous eu des tintements d'oreille juste avant de
+HDM4055 +++ quand vous mobilisez cette articulation est-ce que ça grince
+HDM4057 +++ avez-vous du mal à évacuer les matières fécales
+HDM4059 +++ la douleur et la raideur sont-elles toujours localisées à la même articulation, ou d'autres articulations sont-elles atteintes ?
+TRT4061 +++ prenez-vous un neuroleptique
+HDM4063 +++ les boutons ressemblent-ils à des cloques quand ils apparaissent
+MDV4065 +++ vous brossez-vous souvent les dents
+ATD4067 +++ êtes-vous anorexique
+HDM4069 +++ avez-vous une diplopie
+HDM4071 +++ douleur épisodique
+HDM4073 +++ avez-vous parfois les yeux qui brûlent
+HDM4075 +++ comment est votre humeur actuellement
+HDM4077 +++ arrivez-vous a bien vider votre vessie
+MDV4079 +++ êtes-vous hétérosexuelle, homosexuelle ou de sexualité non déterminée
+ATD4081 +++ avez-vous une maladie tympanale
+ATD4083 +++ depuis quand avez-vous un surplus de poids
+HDM4085 +++ la douleur irradie-t-elle dans les bras
+UNK4087 +++ n'êtes-vous pas motivé
+HDM4089 +++ avez-vous mal lorsque vous bougez l'articulation
+HDM4091 +++ douleur discrète
+ATD4093 +++ avez-vous déjà eu une crise d'asthme au travail
+HDM4095 +++ avez-vous la sensation d'avoir le rectum plein
+ATD4097 +++ avez-vous déjà vu quelqu'un à ce sujet
+HDM4099 +++ êtes-vous d'humeur instable
+UNK4101 +++ était-ce une abeille
+HDM4103 +++ avez-vous des difficultés à aller aux toilettes
+HDM4105 +++ un effort déclenche votre enurésie nocturne
+MDV4107 +++ utilisez-vous habituellement du rouge à lèvres
+ATD4109 +++ avez-vous eu des accouchements par césarienne
+HDM4111 +++ avez-vous une idée de ce qui peut déclencher la prostatorrhée
+UNK4113 +++ combien de temps passez-vous à chercher la substance quand vous n'en avez pas
+ATD4115 +++ avez-vous eu une perte d'urine après la crise
+ATD4117 +++ parlez-moi de vos maladies costales
+ATD4119 +++ avez-vous pris du poids dernièrement
+HDM4121 +++ y a-t-il un écoulement du pus ou du sang associé
+MDV4123 +++ vous fâchez-vous facilement
+HDM4125 +++ votre voix a-t-elle changé
+HDM4127 +++ vos pertes vaginales sont-elles blanchâtres
+HDM4129 +++ êtes-vous essoufflé après un effort
+HDM4131 +++ quel est selon vous l'origine de vos symptômes
+HDM4133 +++ urinez-vous à chaque miction quelques gouttes
+HDM4135 +++ perdez-vous de petites quantités d'urine quand vous riez ou soulevez quelque chose
+HDM4137 +++ urinez-vous à chaque miction une quantité normale
+HDM4139 +++ vos pertes se produisent-elles vers la fin de votre cycle
+HDM4141 +++ est-ce une douleur qui serre
+UNK4143 +++ vous définiriez-vous comme quelqu'un d'impulsif, d'agressif ou de timide
+HDM4145 +++ avez-vous noté ce qui déclenche votre difficulté à se tenir debout
+HDM4147 +++ est-ce que vous êtes facilement irritable
+HDM4149 +++ le début de la goutte a-t-il été brutal
+HDM4151 +++ vos pertes vaginales sont-elles mousseuses
+HDM4153 +++ votre athérosclérose affecte-t-elle vos activités quotidiennes
+MDV4155 +++ avez-vous nagé récémment
+UNK4157 +++ avez-vous le sentiment d'avoir une importance exceptionnelle ou des pouvoirs particuliers
+HDM4159 +++ est-ce une douleur de type colique
+HDM4161 +++ votre respiration est-elle plus rapide
+PSN4163 +++ votre poids a-t-il changé
+MDV4165 +++ votre humeur est-elle stable
+ATD4167 +++ avez-vous des antécédents familiaux gynécologiques
+ATD4169 +++ avez-vous eu la scarlatine étant enfant
+HDM4171 +++ avez-vous mal la nuit
+ATD4173 +++ avez-vous souvent des extinctions de voix
+HDM4175 +++ vos pertes vaginales sont-elles épaisses
+TRT4177 +++ prenez-vous un dialysat
+HDM4179 +++ pouvez-vous mâcher vos aliments
+HDM4181 +++ comment est le jet d'urine
+HDM4183 +++ est-ce juste une légère gêne
+HDM4185 +++ la douleur a-t-elle commencé brusquement
+HDM4187 +++ vous arrive-t-il de voir des halos lumineux
+HDM4189 +++ c'est permanent ou cela évolue par crise
+ATD4191 +++ vous a-t-on enlevé les amygdales
+TRT4193 +++ prenez-vous un tranquillisant
+HDM4195 +++ est-ce que vos symptômes vous empêchent de dormir la nuit
+HDM4197 +++ y a-t-il un souci ou une pensée qui vous revient en tête fréquemment et que vous n'arrivez pas à chasser
+MDV4199 +++ votre changement d'habitude de transit affecte-t-il votre travail
+UNK4201 +++ acceptez-vous d'en subir un
+TRT4203 +++ avez-vous ressenti des effets secondaires pendant la prise de ces médicaments
+HDM4205 +++ saignez-vous facz mal
+HDM4207 +++ est-ce majoré quand vous êtes debout
+TRT4209 +++ la douleur est-elle soulagée après défécation
+HDM4211 +++ avez-vous de l'appétit
+HDM4213 +++ avez-vous l'impression d'avoir enflé au niveau des chevilles
+HDM4215 +++ avez-vous eu des mouvements involontaires
+HDM4217 +++ saignez-vous fréquemment des gencives
+HDM4219 +++ depuis quand avez-vous troubles du métabolisme
+HDM4221 +++ pouvez-vous étendre le jambes devant vous
+MDV4223 +++ votre alimentation est-elle riche en graisse
+HDM4225 +++ la douleur est-elle continue ou intermittente
+HDM4227 +++ tout le crachat était-il sanglant
+ATD4229 +++ avez-vous des problèmes hypothalamiques
+HDM4231 +++ saignez-vous des gencives quand vous les brossez
+HDM4233 +++ la douleur est-elle améliorée par la défécation
+HDM4235 +++ dans quelles circonstances vos hallucinations se produisent
+HDM4237 +++ votre dent est-elle douloureuse à la mastication
+HDM4239 +++ est-ce que ça vous brûle
+HDM4241 +++ votre crâne ou votre mâchoire ont-ils augmenté de taille
+TRT4243 +++ quelle position provoque vos ecoulements
+HDM4245 +++ le café ou le thé aggravent la douleur
+HDM4247 +++ avez-vous des sensations de brûlure lorsque vous vous allongez
+ATD4249 +++ vous êtes-vous déjà foulé cette articulation
+HDM4251 +++ vous réveillez vous la nuit à cause de vos douleurs
+ATD4253 +++ souffrez-vous des maladies gingivales
+MDV4255 +++ combien d'heures restez-vous au lit par jour
+HDM4257 +++ avez-vous les nez qui coule
+HDM4259 +++ y a-t-il eu un craquement
+HDM4261 +++ êtes-vous très sensible à la lumière
+PSN4263 +++ quel était le poids de naissance du bébé
+ATD4265 +++ la chirurgie de vertèbres lombaires s'est bien passée
+ATD4267 +++ avez-vous été exposé à des expériences traumatiques
+TRT4269 +++ utilisez-vous un stérilet
+TRT4271 +++ avez-vous un stérilet
+HDM4273 +++ la puissance du jet a-t-elle changé
+ATD4275 +++ y a-t-il des antécédents de névralgie dans votre famille
+HDM4277 +++ avez-vous remarqué des changements concernant votre tolérance au froid
+ATD4279 +++ parlez-moi de votre maladie lombo-sacree
+HDM4281 +++ est-ce que vous êtes capable de rester assis longtemps sans vous endormir
+HDM4283 +++ aviez-vous les bras et les jambes qui tremblaient
+HDM4285 +++ avez-vous remarqué quels aliments provoquent la douleur
+HDM4287 +++ vos aphtes surviennent-ils après avoir mangé des noix
+HDM4289 +++ avez-vous remarqué un gonflement du creux axillaire gauche
+HDM4291 +++ la douleur est-elle calmée par un exercice léger
+HDM4293 +++ l'envie de déféquer vous réveille-t-elle la nuit
+HDM4295 +++ est-ce une douleur pulsative
+HDM4297 +++ avez-vous eu mal à la gorge
+ATD4299 +++ comment va votre ulcère gastrique
+ATD4301 +++ votre douleur a-t-il un retentissement familial
+HDM4303 +++ quelle est l'odeur de vos urines
+ATD4305 +++ parlez-moi de votre dyschézie
+HDM4307 +++ saignez-vous facilement des gencives
+HDM4309 +++ votre dentier a-t-il une ventouse en caoutchouc
+MDV4311 +++ avez-vous eu des rapports sexuels alors que vous étiez sous l'emprise de l'alcool ou de drogues au cours de l'année passée
+ATD4313 +++ quand souffrez-vous un picotement de la bouche
+MDV4315 +++ avez-vous perdu de nombreux centres d'intérêt
+HDM4317 +++ vous sentez-vous ballonné après le repas
+HDM4319 +++ décrivez-moi votre irritation des voies respiratoires
+HDM4321 +++ est-ce que vous avez un sentiment de peur
+PSN4323 +++ quel est votre situation familiale
+HDM4325 +++ portez-vous des lunettes
+ATD4327 +++ avez-vous déjà eu des accès de sueurs froides
+MDV4329 +++ cette raideur disparaît-elle avec l'activité physique
+ATD4331 +++ votre partenaire se plaint-il des spasmes
+HDM4333 +++ y a-t-il quelque chose que vous puissiez faire pour arrêter les tremblements
+HDM4335 +++ avez-vous des brûlures d'estomac quand vous vous penchez
+TRT4337 +++ devez-vous utiliser des béquilles
+PSN4339 +++ avez-vous des enfants
+HDM4341 +++ souffrez-vous beaucoup la nuit
+ATD4343 +++ avez-vous bien supporté l'opération de coeur
+MDV4345 +++ pouvez-vous me dire ce que vous avez fait aujourd'hui
+HDM4347 +++ avez-vous la tête qui tourne
+HDM4349 +++ est-ce que vous vomissez longtemps après le repas
+HDM4351 +++ avez-vous des difficultés à entendre dans une ambiance bruyante
+HDM4353 +++ avez-vous dû forcer pour finir de mictionner
+MDV4355 +++ vivez-vous dans une zone où la pollution atmosphérique est importante
+HDM4357 +++ la tonte de la pelouse aggrave ces symptômes
+HDM4359 +++ avez-vous saigné du nez récemment
+ATD4361 +++ parlez-moi de votre mouvement paradoxal du diaphragme
+TRT4363 +++ avez-vous utilisé une crème ou une pommade
+HDM4365 +++ tous les combien êtes-vous réglée
+TRT4367 +++ quelle protection utilisez-vous durant vos menstruations
+ATD4369 +++ quelqu'un de votre famille est atteint de fractures
+MDV4371 +++ parlez-moi de votre vie sexuelle
+ATD4373 +++ quelle est la date de votre coelioscopie
+HDM4375 +++ avez-vous l'impression d'un raté du coeur
+HDM4377 +++ savez-vous ce qui a provoqué le saignement
+HDM4379 +++ est-ce que cela disparaît au repos
+HDM4381 +++ est-ce que la nausée postopératoire était intolérable au début
+ATD4383 +++ avez-vous des problèmes neurologiques
+HDM4385 +++ y a-t-il quelque chose qui soulage cette douleur
+HDM4387 +++ pouvez-vous bouger le pied
+HDM4389 +++ est-ce que la force ou la taille du jet urinaire ont changé
+HDM4391 +++ le temps froid majore ces symptômes
+HDM4393 +++ l'écoulement comporte-t-il des croûtes
+HDM4395 +++ vous êtes-vous cogné la tête
+ATD4397 +++ comment se sont passés les soins postopératoires
+HDM4399 +++ la diplopie persiste-t-elle si l'on cache l'un des deux yeux
+ATD4401 +++ que faisiez vous avant de présenter ces symptômes ( bricolage , coudre ... )
+HDM4403 +++ dormez-vous trop
+HDM4405 +++ des émotions déclenchent vos palpitations
+MDV4407 +++ pouvez-vous dormir à plat
+MDV4409 +++ vous arrive t'il de vous mettre en colère facilement
+ATD4411 +++ êtes-vous en proie à des crises d'angoisse récurrentes et imprévisibles
+ATD4413 +++ avez-vous bien supporté l'opération de l'artère coronaire
+ATD4415 +++ qualifieriez-vous vos règles de peu abondantes, normales ou abondantes
+HDM4417 +++ un abus de café déclenche vos selles volumineuses
+HDM4419 +++ avez-vous quelquefois des bulles hémorragiques dans la bouche
+HDM4421 +++ avez-vous un odorat particulièrement développé
+HDM4423 +++ avez-vous des maux au sinus
+HDM4425 +++ vos crachats sont-ils épais
+HDM4427 +++ avez-vous eu un gonflement du genou
+HDM4429 +++ vous sentez vous les bras lourdes
+HDM4431 +++ avez-vous le nez sec et irrité
+HDM4433 +++ avez-vous aucun symptôme neurologique
+ATD4435 +++ quand avez-vous eu une épreuve d'effort
+HDM4437 +++ est-ce que vous voyez des lumières qui tournent autour les yeux
+HDM4439 +++ est-ce que la douleur descend dans la jambe
+HDM4441 +++ est-ce dû à un dégoût pour certains aliments
+ATD4443 +++ souffrez-vous d'anorexie
+HDM4445 +++ êtes-vous constipé
+HDM4447 +++ au niveau des yeux, comment ça va
+HDM4449 +++ êtes-vous capable de monter un étage (sans vous arrêter)
+ATD4451 +++ avez-vous eu une opération de l'hymen
+HDM4453 +++ la douleur survient-elle juste après le repas
+HDM4455 +++ est-ce que le mal de tête provoque des larmes du côté où se trouve la douleur
+ATD4457 +++ combien de temps durent-elles lorsqu'elles surviennent
+ATD4459 +++ comment s'est passé l'opération de l'os du pied
+PSN4461 +++ vos grands-parents sont-ils toujours vivants
+HDM4463 +++ que se passe-t-il lorsque vous êtes inquiets ou quand vous avez une contrariété
+ATD4465 +++ depuis quand souffrez-vous des problèmes thrombocytaires
+HDM4467 +++ quel est l'effort maximal auquel vous êtes capable de consentir avant d'éprouver des difficultés respiratoires
+ATD4469 +++ avez-vous eu des varices au cours de votre grossesse
+HDM4471 +++ y a-t-il des circonstances où l'érection est normale
+ATD4473 +++ souffrez-vous des maux de vertèbres thoraciques
+HDM4475 +++ avez-vous des fuites urinaires
+MDV4477 +++ faites-vous du velo
+HDM4479 +++ vous avez une difficulté à vider votre vessie
+ATD4481 +++ depuis quand avez-vous des problèmes ovulaires
+HDM4483 +++ avez-vous remarqué une déformation de certaines articulations
+MDV4485 +++ pratiquez-vous le soins des enfants
+HDM4487 +++ un effort déclenche vos acouphène vibratoire
+ATD4489 +++ était-ce une maladie héréditaire
+ATD4491 +++ depuis quand souffrez-vous une macroglobulinémie
+HDM4493 +++ vous arrive-t-il d'avoir des yeux injectés de sang
+ATD4495 +++ l'opération de cartilage s'est bien passé
+HDM4497 +++ pouvez-vous étendre le bras devant vous
+ATD4499 +++ avez-vous ces problèmes toute l'année ou seulement à certaines périodes ou saisons
+MDV4501 +++ combien de cigarettes par jour
+HDM4503 +++ avez-vous des difficultés à entendre les sons à tonalité basse
+ATD4505 +++ sont-ils décédés à la suite d'une maladie
+ATD4507 +++ le régime suffit-il à équilibrer votre diabète
+HDM4509 +++ avez-vous du mal à mastiquer ou avaler
+HDM4511 +++ avez-vous la diarrhée
+MDV4513 +++ consommez-vous beaucoup d'haricots
+HDM4515 +++ vos douleurs ont-elles tendance à évoluer
+ATD4517 +++ l'une de vos partenaires a-t-elle eu des douleurs dans l'orteil
+HDM4519 +++ est-ce que vous devez pousser pour finir le pipi
+HDM4521 +++ avez-vous transpiré la nuit dernière
+HDM4523 +++ détournez-vous la voie d'administration normale des produits auxquels vous êtes addict
+HDM4525 +++ avez-vous toujours soif
+TRT4527 +++ contrôlez-vous votre glycémie capillaire
+HDM4529 +++ est-ce une douleur continue ou intermittente
+HDM4531 +++ comment ressentez-vous les hypoglycémies
+TRT4533 +++ utilisez-vous des brossettes interdentaires
+HDM4535 +++ où avez-vous le plus mal
+HDM4537 +++ testez-vous votre glycémie capillaire
+HDM4539 +++ est-ce que vous éjaculez
+UNK4541 +++ l'avez-vous bien fait pénétrer
+HDM4543 +++ avez-vous envie d'uriner mais vous ne pouvez libérer une petite quantité
+HDM4545 +++ avez-vous noté quelque chose qui accompagne les dorsalgies
+MDV4547 +++ avez-vous récemment arrêté de boire de l'alcool
+ATD4549 +++ avez-vous déjà reçu un coup
+UNK4551 +++ l'objet était-il émoussé
+ATD4553 +++ vous arrive-t-il de bleuir quand vous faites des efforts
+ATD4555 +++ quand souffrez-vous de la bouche
+HDM4557 +++ l'exposition aux chats a-t-elle une influence sur vos douleurs
+HDM4559 +++ vos yeux sont-ils rouges, larmoyants et démangent-ils
+HDM4561 +++ depuis quand avez-vous une respiration rétractive
+HDM4563 +++ votre jet urinaire s'arrête-t-il et repart-il au cours de la miction
+HDM4565 +++ vos bras deviennent-ils rouge foncé lorsqu'ils sont pendants
+HDM4567 +++ avez-vous un odorat peu développé
+HDM4569 +++ le sang est-il rouge vif ou foncé
+HDM4571 +++ votre oeil bascule-t-il en dedans quand vous êtes fatigué
+ATD4573 +++ parlez-moi de vos problèmes d'olfaction
+HDM4575 +++ avez-vous noté quels aliments déclenchent les douleurs
+HDM4577 +++ remarquez-vous une sensation d'absence
+HDM4579 +++ avez-vous des brûlures après le repas
+HDM4581 +++ votre douleur s'accompagne-t-elle de troubles de la vision
+ATD4583 +++ parlez-moi de votre maladie ovarienne
+UNK4585 +++ est-ce le même que d'habitude
+HDM4587 +++ comment sont les crachats
+ATD4589 +++ avez-vous été ménopausée jeune
+HDM4591 +++ cette douleur de la face est-elle toujours déclenchée au toucher de la même zone
+HDM4593 +++ avez-vous des signes de sevrage
+HDM4595 +++ avez-vous une sensation de graine de sable dans l'oeil
+MDV4597 +++ qu'est-ce que vous ne pouvez faire maintenant que vous aimez faire avant
+HDM4599 +++ le saignement est-il spontané ou provoqué
+HDM4601 +++ avez-vous des difficultés à parler
+HDM4603 +++ est-ce que des médicaments calment cette douleur
+HDM4605 +++ avez-vous eu des saignements de nez
+TRT4607 +++ utilisez-vous des cotons tiges
+UNK4609 +++ pensez-vous que vous devriez être aidé
+HDM4611 +++ avez-vous remarqué quelque chose d'autre qui accompagne la douleur
+TRT4613 +++ prenez-vous des fibres
+HDM4615 +++ les aigreurs d'estomac sont-elles exacerbées par des aliments froids
+HDM4617 +++ avez-vous des démangeaisons du mamelon
+HDM4619 +++ y a-t-il des symptômes tels que faiblesse ou perte du langage quand vous avez mal à la tête
+TRT4621 +++ qu'avez-vous utilisé pour vous soigner
+HDM4623 +++ depuis quand souffrez-vous de l'angor
+HDM4625 +++ votre audition varie-t-elle avec le climat
+HDM4627 +++ avez-vous du mal à entendre dans une ambiance bruyante
+HDM4629 +++ avez-vous des complications ophtalmologiques
+HDM4631 +++ ressentez-vous une brûlure lorsque vous urinez
+TRT4633 +++ est-ce que quelque chose calme la douleur
+ATD4635 +++ souffrez-vous des maux de cellule hct116 jamais
+ATD4637 +++ parlez-moi de votre dysarthrie
+HDM4639 +++ est-ce une douleur à type de brûlure
+HDM4641 +++ avez-vous mal seulement dans certaines positions
+HDM4643 +++ avez-vous des maux des dents
+ATD4645 +++ existe-t-il une possibilité d'exposition récente à une maladie sexuellement transmissible
+HDM4647 +++ des craquements
+UNK4649 +++ leur odeur est-elle désagréable
+HDM4651 +++ les jambes pendantes calment la douleur
+HDM4653 +++ le crachat se produit-il à certaines saisons
+HDM4655 +++ avez-vous des troubles de la libido
+HDM4657 +++ est-ce que cela vous picote
+HDM4659 +++ pouvez-vous décrire vos mucus
+ATD4661 +++ est-ce qu'il vous arrive de vous réveiller essoufflé
+HDM4663 +++ votre vue a changé
+HDM4665 +++ avez-vous facilement des coups de soleil
+ATD4667 +++ avez-vous bien supporté la chirurgie des nerfs périphériques
+HDM4669 +++ pouvez-vous vous frapper la cuisse d'abord avec le dos de la main puis avec la paume
+HDM4671 +++ avez-vous des lésions dans la bouche ou sur vos parties génitales
+HDM4673 +++ parlez-moi de vos problèmes de expiration
+ATD4675 +++ à quel âge a été votre dévéloppement mammaire
+ATD4677 +++ vos règles ont-elles toujours été irrégulières où est-ce un phénomène récent
+HDM4679 +++ avez-vous pas assez de salive
+MTF4681 +++ comment vous sentez-vous moralement
+TRT4683 +++ à quelle heure auriez-vous dû prendre la pilule
+ATD4685 +++ quelqu'un de votre famille est atteint de myopathie
+HDM4687 +++ depuis quand avez-vous des maux de côte
+ATD4689 +++ avez-vous déjà souffert de nervosité extrême
+HDM4691 +++ à quelle fréquence avez-vous dû pousser pour uriner
+MDV4693 +++ décrivez vos trois repas habituels (petit-déjeuner, déjeuner et dîner)
+ATD4695 +++ avez-vous eu des troubles des règles
+ATD4697 +++ vous arrive-t-il d'avoir des difficultés à vous lever d'un lit ou d'une chaise
+HDM4699 +++ pour que l'urine vous sorte devez-vous attendre
+UNK4701 +++ combien de tests faites-vous par jour
+TRT4703 +++ utilisez-vous le stérilet
+ATD4705 +++ souffrez-vous des maladies gingivaux
+HDM4707 +++ est-ce que être en chien de fusil calme la douleur
+HDM4709 +++ vos selles sont-elles noires
+HDM4711 +++ est-ce que le début et la fin des palpitations étaient brutaux ou progressifs
+MDV4713 +++ mangez-vous beaucoup
+ATD4715 +++ comment s'est passé la chirurgie de la cochlée
+ATD4717 +++ avez-vous eu récemment un choc affectif
+HDM4719 +++ la douleur s'accompagne-t-elle de rougeurs du visage
+ATD4721 +++ parlez-moi de vos maladies dorsales
+HDM4723 +++ avez-vous le nez bouché
+HDM4725 +++ cela s'aggrave-t-il quand le temps est humide
+HDM4727 +++ avez-vous mal au niveau des tempes
+HDM4729 +++ avez-vous l'impression d'une décharge électrique
+HDM4731 +++ avez-vous eu un gonflement de la cheville
+ATD4733 +++ avez-vous déjà eu une douleur très aiguë au niveau du gros orteil
+HDM4735 +++ cela s'est-il produit pendant vos règles
+HDM4737 +++ vos ongles se cassent-ils facilement
+HDM4739 +++ avez-vous des illusions visuelles, auditives ou gustatives
+ATD4741 +++ avez-vous déjà eu des blocages articulaires
+HDM4743 +++ la douleur irradie-t-elle vers le haut
+HDM4745 +++ est-ce une douleur intermittente
+HDM4747 +++ votre miction varie-t-elle avec le climat
+MDV4749 +++ avez-vous des difficultés pour faire du cyclisme
+MDV4751 +++ avez-vous du mal à faire du sport
+UNK4753 +++ pouvez-vous accroupir
+HDM4755 +++ présentez-vous des signes de somnolence
+HDM4757 +++ la douleur est-elle soulagée en mangeant
+HDM4759 +++ avez-vous noté quels aliments déclenchent les vomissements
+ATD4761 +++ souffrez-vous des problèmes de carcinome
+HDM4763 +++ la douleur est-elle d'un seul côté
+MDV4765 +++ votre addiction a-t-elle un retentissement familial et professionnel
+HDM4767 +++ aviez-vous l'impression d'une amputation de votre champ visuel
+ATD4769 +++ avez-vous eu une orchidectomie
+ATD4771 +++ avez-vous eu des vers
+HDM4773 +++ depuis quand avez-vous des maux d'oreille
+HDM4775 +++ sentez-vous une brûlure en urinant
+HDM4777 +++ avez-vous une idée de ce qui peut provoquer la prostatorrhée
+ATD4779 +++ souffrez-vous des maladies cardiaques
+ATD4781 +++ avez-vous un passé rénal
+HDM4783 +++ vous fatiguez-vous facilement
+ATD4785 +++ quel a été l'intervalle entre les grossesses
+HDM4787 +++ cela vous est-il arrivé brusquement ou graduellement
+HDM4789 +++ la douleur se diffuse-t-elle vers le bas
+ATD4791 +++ quand avez-vous eu une chirurgie de frein lingual
+HDM4793 +++ êtes-vous sujet au mal de tête
+ATD4795 +++ souffrez-vous des problèmes de l'intestin
+ATD4797 +++ portez-vous un appareil acoustique
+HDM4799 +++ est-ce une sensation de serrage
+HDM4801 +++ vous vous grattez avec les ongles
+HDM4803 +++ vous arrive-t-il de vous faire pipi quand vous éternuez
+ATD4805 +++ quand avez-vous eu une opération de myocarde
+HDM4807 +++ dormez-vous pas assez
+HDM4809 +++ avez-vous des difficultés pour avaler
+HDM4811 +++ avez-vous remarqué un changement de couleur de vos urines
+HDM4813 +++ avez-vous noté la présence de sable dans vos urines
+HDM4815 +++ est-ce que vous voyez des étincelles qui tournent autour les yeux
+MDV4817 +++ avez-vous l'impression d'être bien reposé au lever le matin
+HDM4819 +++ avez-vous une sensation de picotement ou de brûlure quand vous urinez
+HDM4821 +++ avez-vous une sensation de brûlure au cours des rapports
+ATD4823 +++ utilisez-vous des contraceptifs
+ATD4825 +++ utilisez-vous un moyen contraceptifs
+ATD4827 +++ avez-vous un moyen contraceptifs
+ATD4829 +++ souffrez-vous des problèmes défécatifs
+ATD4831 +++ votre paralysie du côté gauche est moins haute
+HDM4833 +++ est-ce une douleur lancinante
+ATD4835 +++ avez-vous déjà eu des maladies vénériennes
+HDM4837 +++ voyez-vous double
+PSN4839 +++ êtes-vous séparé
+HDM4841 +++ est-ce un douleur intermittente
+ATD4843 +++ quand avez-vous eu une chirurgie du sphincter
+ATD4845 +++ êtes-vous à jour dans vos vaccinations
+HDM4847 +++ la force du jet s'est-elle modifiée
+HDM4849 +++ vos aphtes surviennent-ils après avoir mangé des plats épicés
+HDM4851 +++ avez-vous l'impression d'avoir une grosseur dans la gorge
+HDM4853 +++ voyez-vous des éclairs lumineux
+UNK4855 +++ évitez-vous certains lieux ou situations
+ATD4857 +++ avez-vous bien supporté la chirurgie du foie
+HDM4859 +++ vous arrive-t-il d'avoir des difficultés à mettre des objets en hauteur
+HDM4861 +++ cela vous soulage-t-il si vous vous penchez en avant
+HDM4863 +++ est-ce que l'ascites était intolérable au début
+HDM4865 +++ en quoi la douleur vous gêne-t-elle dans vos activités sociales
+ATD4867 +++ quand avez-vous des hallucinations
+ATD4869 +++ avez-vous eu des pertes de sang récemment
+HDM4871 +++ avez-vous des points rouges sur les jambes
+ATD4873 +++ parlez-moi de votre épisode dépressif
+HDM4875 +++ avez-vous remarqué quels aliments déclenchent la douleur
+ATD4877 +++ utilisez-vous le diaphragme
+ATD4879 +++ avez-vous eu une prise de poids
+HDM4881 +++ avez-vous parfois du mal à aller aux toilettes à temps
+TRT4883 +++ prenez-vous des médicaments pour le coeur ou des diurétiques
+HDM4885 +++ vous sentez-vous irritable après une crise
+UNK4887 +++ c'est une couleur trouble
+HDM4889 +++ est-ce une douleur vrillante
+HDM4891 +++ avez-vous une impression de distension
+ATD4893 +++ votre partenaire se plaint-elle d'une maladie
+HDM4895 +++ votre anémie affecte-t-elle votre travail
+HDM4897 +++ avez-vous eu des accès de fièvre
+ATD4899 +++ quelle est la date de votre chirurgie de aire tegmentale ventrale
+PSN4901 +++ êtes-vous célibataire
+HDM4903 +++ votre fatigue vous gène dans votre vie de tout les jours
+HDM4905 +++ ressentez-vous une douleur thoracique en étau
+HDM4907 +++ quelle peut être la cause de vos endolorissements épigastriques
+ATD4909 +++ l'opération de glandes mammaires s'est bien passé
+HDM4911 +++ au niveau des ligaments, comment ça va
+UNK4913 +++ vous avez perdu quelqu'un
+HDM4915 +++ y a-t-il du sang dans les vomissements
+ATD4917 +++ avez-vous déjà eu la varicelle
+HDM4919 +++ est-ce qu'ils vous démangent ou est-ce qu'ils saignent
+ATD4921 +++ parlez-moi de votre problème de sommeil
+MDV4923 +++ avez-vous des animaux domestiques chez vous
+HDM4925 +++ votre appétit a-t-il diminué
+HDM4927 +++ avez-vous l'impression d'uriner plus ou moins que d'habitude
+HDM4929 +++ voyez-vous nettement les objets de loin
+UNK4931 +++ êtes-vous obligé de vous asseoir ou de vous lever du lit
+HDM4933 +++ avez-vous du mal à déglutir
+HDM4935 +++ des contrariétés aggravent la douleur
+HDM4937 +++ quel est le siège exact de la douleur
+HDM4939 +++ y a-t-il des glaires
+HDM4941 +++ vous grattez-vous beaucoup
+MDV4943 +++ avez-vous une sexualité active
+ATD4945 +++ y a-t-il des antécédents de mélanocytome dans votre famille
+HDM4947 +++ avez-vous l'impression d'avoir enflé au niveau du visage
+UNK4949 +++ avez-vous besoin de lancettes ou de bandelettes pour ce lecteur
+HDM4951 +++ avez-vous eu du sang à la surface
+ATD4953 +++ portez-vous un appareil dentaire
+HDM4955 +++ pouvez-vous bien respirer par le nez
+ATD4957 +++ parlez-moi de votre problème olfactif
+HDM4959 +++ les douleurs musculaires sont elles déclenchées par un contact avec le froid
+UNK4961 +++ avez-vous l'impression que la pièce tourne ou tangue
+MDV4963 +++ votre alimentation est-elle riche
+HDM4965 +++ un effort provoque votre enurésie nocturne
+ATD4967 +++ quand avez-vous eu une implantation endodontique
+HDM4969 +++ pensez-vous avoir mangé quelque chose d'avarié
+ATD4971 +++ la douleur est-elle fixe ou change-t-elle de place
+ATD4973 +++ sous quelle forme utilisez-vous des contraceptifs
+ATD4975 +++ quand avez-vous eu une scintigraphie
+HDM4977 +++ quelle peut être la cause de votre sensation de chaleur dans la bouche
+UNK4979 +++ pouvez-vous fléchir la main sur le poignet le plus loin possible
+HDM4981 +++ avez-vous eu des douleurs
+UNK4983 +++ la perte de l'ouïe est partielle ou totale
+ATD4985 +++ avez-vous eu une chirurgie de la main
+UNK4987 +++ avez-vous des idées noires
+TRT4989 +++ quelle est votre consommation de psychostimulants
+UNK4991 +++ y a-t-il eu un épanchement juste après
+HDM4993 +++ perdez-vous connaissance
+UNK4995 +++ les deux genoux sont-ils affectés
+MDV4997 +++ le matin, combien de temps après votre réveil consommez-vous le produit addictif
+HDM4999 +++ la douleur est-elle calmée ou aggravée par l'exercice
+MDV5001 +++ avez-vous déjà eu affaire à la justice à cause de vos addictions
+ATD5003 +++ parlez-moi de vos myopathies
+ATD5005 +++ votre affection pancréatique a-t-elle un retentissement professionnel
+MDV5007 +++ à quelle fréquence buvez-vous 6 verres ou davantage lors d'une occasion particulière
+MDV5009 +++ combien de verres contenant de l'alcool consommez-vous un jour typique où vous buvez
+HDM5011 +++ des émotions déclenchent vos excitations sexuelles
+ATD5013 +++ avez-vous des problèmes dermatologiques
+HDM5015 +++ y a-t-il des facteurs déclenchant la faiblesse musculaire
+UNK5017 +++ n'a-t-elle touché qu'un côté du corps
+ATD5019 +++ avez-vous eu récemment une sinusite
+TRT5021 +++ avez-vous un traitement pour faire baisser votre tension
+UNK5023 +++ est-ce que votre vie vous donne globalement satisfaction
+HDM5025 +++ cette région vous semble-t-elle gonflée
+HDM5027 +++ ressentez-vous des symptômes de sevrage
+HDM5029 +++ vos vomissements sont-ils précédés de maux de tête
+HDM5031 +++ vous arrive-t-il d'avoir des vertiges
+HDM5033 +++ préférez-vous la chaleur ou le froid
+HDM5035 +++ la lumière vous gêne-t-elle
+ATD5037 +++ avez-vous déjà eu des problèmes poitrinaires
+ATD5039 +++ avez-vous eu des rapports avec quelqu'un susceptible d'avoir la syphilis ou une blennorragie
+HDM5041 +++ vous arrive-t-il d'avoir des difficultés à croiser les bras
+HDM5043 +++ avez-vous perdu l'appétit
+HDM5045 +++ la douleur irradie-t-elle sur le trajet urétéral
+MTF5047 +++ comment est votre moral ?
+HDM5049 +++ avez-vous des boutons de fièvre
+HDM5051 +++ avez-vous des bouffées de chaleur
+HDM5053 +++ avez-vous mal quand vous allez à la selle
+HDM5055 +++ cela vous fatigue-t-il d'allaiter
+HDM5057 +++ est-ce que vous avez des dents fragiles ou qui bougent
+HDM5059 +++ pouvez-vous localiser la douleur
+HDM5061 +++ avez-vous des ecoulements lorsque vous ne faites pas d'effort
+UNK5063 +++ est-ce mieux ou pire au lever du matin
+UNK5065 +++ le bébé a eu-t-il des convulsions
+HDM5067 +++ est-ce que la forme de votre nez a changé
+UNK5069 +++ est que cette fatigue vous gêne quotidiennement
+UNK5071 +++ quelle sorte de bruit vos articulations font
+ATD5073 +++ avez-vous déjà reçu un coup à l'oreille
+UNK5075 +++ quelle est leur consistance
+HDM5077 +++ la douleur se diffuse-t-elle d'arrière en avant
+ATD5079 +++ avez-vous déjà eu des problèmes spinales
+HDM5081 +++ aviez-vous les jambes et les bras qui tremblaient
+ATD5083 +++ quand avez-vous une algie oculaire
+ATD5085 +++ avez-vous déjà eu le souffle ?
+UNK5087 +++ regardez-vous dans le vide pendant une crise
+MTF5089 +++ au niveau de la langue , comment ça va
+ATD5091 +++ avez-vous déjà remarqué une absence ou une défaillance de langage
+HDM5093 +++ depuis quand avez-vous des maux de cavité pleurale
+UNK5095 +++ vous arrive-t-il de voir des éclairs lumineux
+UNK5097 +++ votre peur de la mort a changé
+MDV5099 +++ utilisez-vous habituellement de la teinture pour cheveux
+HDM5101 +++ quand ce trouble de la marche est-il survenu
+UNK5103 +++ quel est votre niveau de compréhension
+HDM5105 +++ avez-vous l'impression que votre coeur s'emballe
+HDM5107 +++ avez-vous des orgasmes
+HDM5109 +++ avez-vous des brûlures en urinant
+HDM5111 +++ y a-t-il des facteurs déclenchant les picotement de la langue
+HDM5113 +++ êtes-vous réveillé la nuit par des douleurs thoraciques
+UNK5115 +++ quelque chose fait l'éruption mieux
+MDV5117 +++ êtes-vous en arrêt de travail
+HDM5119 +++ est-ce pire quand vous vous levez le matin
+HDM5121 +++ ces pertes se produisent-elles à un moment particulier de votre cycle
+PSN5123 +++ quelle a été la durée du travail
+HDM5125 +++ la douleur empire quand vous faites un effort physique après un gros repas
+UNK5127 +++ vos cloques suppurent-elles
+UNK5129 +++ pouvez-vous placer le talon sur la jambe opposée
+HDM5131 +++ avez-vous un ventre de bois
+ATD5133 +++ parlez-moi de vos maladies linguales
+HDM5135 +++ est-ce que être couché calme la douleur
+HDM5137 +++ des situations angoissantes déclenchent vos expectorations
+UNK5139 +++ avez-vous dormi avec vos lentilles de contact
+HDM5141 +++ avez-vous d'énormes difficultés à former les mots
+ATD5143 +++ avez-vous bien supporté l'opération de ligament
+HDM5145 +++ avez-vous des crises de foie
+HDM5147 +++ est-ce que vous arrivez à rester assis longtemps sans vous endormir
+ATD5149 +++ quelqu'un de votre famille est atteint d'infection à salmonella
+HDM5151 +++ un effort provoque vos acouphène vibratoire
+HDM5153 +++ urinez-vous à chaque miction une quantité abondante
+HDM5155 +++ pouvez-vous écarter les bras du corps
+ATD5157 +++ souffrez-vous des maladies artérielles
+HDM5159 +++ la toux vous essouffle-t-elle
+ATD5161 +++ avez-vous bien supporté la chirurgie des sinus frontaux
+HDM5163 +++ des aliments épicés aggravent la douleur
+HDM5165 +++ vos pertes vaginales sont-elles aqueuses
+HDM5167 +++ est-ce que la douleur était intolérable au début
+HDM5169 +++ les selles sont-elles abondantes
+HDM5171 +++ la perte de mémoire est-elle constante
+PSN5173 +++ quel est votre nom de famille
+UNK5175 +++ votre voix est-elle plus basse
+PSN5177 +++ combien de personnes habitent avec vous
+UNK5179 +++ avez-vous du sucre dans votre poche
+ATD5181 +++ êtes-vous asthmatique
+MDV5183 +++ quelle est votre consommation de patates
+UNK5185 +++ reconnaissez-vous les gens
+HDM5187 +++ est-ce que la douleur irradie
+ATD5189 +++ quelqu'un de votre famille a-t-il déjà eu un cancer de la peau
+UNK5191 +++ avez-vous une érection tout de suite
+HDM5193 +++ avez-vous bavé pendant la crise
+ATD5195 +++ depuis quand souffrez-vous un cancer urogénital
+HDM5197 +++ avez-vous respiré vapeur
+ATD5199 +++ avez-vous utilisé un moyen de contraception fiable
+ATD5201 +++ avez-vous utilisé un moyen de contraception
+ATD5203 +++ souffrez-vous des oedèmes
+MTF5205 +++ quel est votre état général
+HDM5207 +++ y a-t-il des positions qui soulagent la douleur
+MDV5209 +++ de quoi se compose votre régime alimentaire
+HDM5211 +++ vos pertes vaginales sont-elles jaunâtres
+HDM5213 +++ les articulations douloureuses sont-elles chaudes
+HDM5215 +++ avez-vous remarqué que vos chevilles étaient enflées
+HDM5217 +++ est-ce une douleur chronique
+HDM5219 +++ est-ce que ça remonte
+TRT5221 +++ devez-vous prendre des calmants
+HDM5223 +++ avez-vous fait des mouvements anormaux
+ATD5225 +++ avez-vous eu des visions ou entendu des voix
+HDM5227 +++ crachez-vous des simples traînées du sang
+ATD5229 +++ quelqu'un de votre famille est atteint de tumeurs de la moelle épinière
+ATD5231 +++ y a-t-il des antécédents de crises dans votre famille
+HDM5233 +++ avez-vous des tics
+HDM5235 +++ devez-vous pousser pour aller à la selle
+ATD5237 +++ parlez-moi de vos problèmes de reproduction
+MDV5239 +++ quels types d'aliments ne passent pas
+HDM5241 +++ est-ce que quelque chose en particulier vous inquiète
+HDM5243 +++ vos urines sont-elles plus abondantes que d'ordinaire
+MDV5245 +++ avez-vous des difficultés pour faire vos exercices sportifs
+HDM5247 +++ avez-vous été piqué par un insecte
+HDM5249 +++ depuis quand avez-vous des problèmes de fissures
+ATD5251 +++ avez-vous bien supporté l'opération de ligament croisé
+HDM5253 +++ votre digestion est-elle redevenue normale par la suite
+PSN5255 +++ combien d'heures par semaine travaillez-vous
+MDV5257 +++ un abus de tabac provoque vos hyperacousies
+HDM5259 +++ êtes-vous essoufflé quand vous faites le ménage
+ATD5261 +++ avez-vous eu des fausses couches
+HDM5263 +++ la douleur se calme lorsque vous vous penchez en avant
+HDM5265 +++ est-ce que la tumeur perturbe les activités quotidiennes
+HDM5267 +++ la crise s'est-elle produite après une période d'hyperventilation
+PSN5269 +++ le partenaire est-il votre partenaire habituel
+UNK5271 +++ y avait-il des faiblesses
+PSN5273 +++ quelle est votre date de naissance
+HDM5275 +++ est-ce que les oedèmes diminuent quand vous vous allongez
+ATD5277 +++ avez-vous eu des hémorragies
+HDM5279 +++ avez-vous des nausées quand vous êtes allongé
+UNK5281 +++ pouvez-vous toucher l'arrière des cuisses avec les talons
+HDM5283 +++ avez-vous des difficultés en début de déglutition
+TRT5285 +++ utilisez-vous la pilule
+ATD5287 +++ avez-vous déjà eu des nausées post-procédurales ?
+UNK5289 +++ pouvez-vous lever les jambes
+ATD5291 +++ était-ce une maladie infectieuse
+HDM5293 +++ est-ce que tousser ou éternuer aggrave la douleur
+UNK5295 +++ y a-t-il certaines tâches que vous répétez constamment
+HDM5297 +++ avez-vous des maux de l'articulation
+HDM5299 +++ vous sentiez-vous étourdi
+HDM5301 +++ avez-vous un écoulement par le mamelon
+ATD5303 +++ comment s'est passé la chirurgie de la moelle
+HDM5305 +++ votre prise de poids a augmentée
+PSN5307 +++ êtes-vous satisfait de votre travail
+MTF5309 +++ comment va votre langue
+ATD5311 +++ souffrez-vous des problèmes de l'épiglotte
+PSN5313 +++ que faites-vous
+HDM5315 +++ avez-vous de la fièvre
+HDM5317 +++ y a-t-il un engourdissement ou des picotements dans les doigts
+MDV5319 +++ avez-vous des rapports sexuels avec des prostitués
+HDM5321 +++ êtes-vous essoufflé
+ATD5323 +++ avez-vous eu une luxation
+ATD5325 +++ est-ce que la manque de sommeil se répercute sur votre santé
+UNK5327 +++ préférez-vous rester à la maison
+PSN5329 +++ avez-vous de nombreux amis, quelques amis intimes, ou aucun
+ATD5331 +++ votre peau craint-elle le soleil
+HDM5333 +++ est-ce que votre essoufflement vous empêche de faire certaines choses
+ATD5335 +++ vous est-il arrivé de vous sentir coupable de boire
+HDM5337 +++ les douleurs pleurales vous réveillent-t-ils la nuit
+MDV5339 +++ êtes-vous victime de tabagisme passif au travail ou chez vous
+ATD5341 +++ avez-vous déjà été vacciné contre l'hépatite b
+HDM5343 +++ est-ce qu'il vous arrive de tousser
+MDV5345 +++ utilisez-vous un gel spermicide
+HDM5347 +++ ressentez-vous des fourmillements
+ATD5349 +++ avez-vous subi des violences sexuelles
+HDM5351 +++ est-ce une toux grave
+ATD5353 +++ le froid déclenche l'asthme
+HDM5355 +++ avez-vous remarqué du sang sur le papier quand vous vous essuyez
+HDM5357 +++ avez-vous une bonne vue
+ATD5359 +++ a quel âge sont-ils décédés
+HDM5361 +++ ont-ils changé d'aspect ou grossi
+MDV5363 +++ utilisez-vous souvent des préservatifs lors de rapports vaginaux
+HDM5365 +++ y a-t-il quelque chose qui aggrave ces symptômes
+ATD5367 +++ avez-vous déjà eu des symptômes dépressifs ?
+MDV5369 +++ mangez-vous beaucoup de fromages
+HDM5371 +++ avez-vous souvent le nez plein
+MDV5373 +++ utilisez-vous des écrans solaires
+MDV5375 +++ êtes-vous incommodé par la consommation de fruits
+HDM5377 +++ avez-vous des vergetures
+HDM5379 +++ avez-vous des difficultés à respirer lorsque vous ne faites pas d'effort
+HDM5381 +++ avez-vous des douleurs au niveau des organes génitaux
+HDM5383 +++ est-ce dissipé quand vous vous levez le matin
+HDM5385 +++ mettez-vous un certain temps à commencer à mictionner
+HDM5387 +++ avez-vous saigné du rectum
+HDM5389 +++ vous sentez-vous l'esprit confus
+HDM5391 +++ avez-vous une idée de ce qui peut déclencher les engourdissements des paupières
+HDM5393 +++ que s'est-il passé après votre douleur
+HDM5395 +++ est-ce une douleur fixe
+HDM5397 +++ avez-vous des sensations de brûlure lorsque vous vous levez le matin
+ATD5399 +++ avez-vous eu une désensibilisation
+HDM5401 +++ quand souffrez-vous ces démangeaisons
+HDM5403 +++ est-ce que quelque chose calme cette douleur
+ATD5405 +++ parlez-moi de vos maladies stomacales
+MDV5407 +++ pratiquez-vous du tennis
+MDV5409 +++ pratiquez-vous de l'exercice physique
+PSN5411 +++ en quelle année êtes-vous né
+ATD5413 +++ parlez-moi de votre tumeur bénigne
+HDM5415 +++ depuis combien de temps avez-vous des problèmes avec ces verrues
+HDM5417 +++ vous arrive-t-il d'avoir des difficultés à taper à la machine
+ATD5419 +++ avez-vous eu une épisiotomie
+ATD5421 +++ avez-vous accouché depuis moins de 4 semaines
+ATD5423 +++ avez-vous eu des saignements depuis que vous êtes ménopausée
+HDM5425 +++ qu'est-ce qui provoque cette douleur
+ATD5427 +++ on vous a déjà dit que vous aviez une maladie sexuellement transmissible
+ATD5429 +++ un événement est-il intervenu dans votre vie récemment
+MDV5431 +++ combien de carvi consommez-vous
+ATD5433 +++ souffrez-vous de la suffocation
+ATD5435 +++ de quand date votre dernière radio pulmonaire
+HDM5437 +++ le sang apparaît-il au début
+HDM5439 +++ les douleurs dans la poitrine vous réveillent-t-ils la nuit
+ATD5441 +++ avez-vous eu du sucre dans les urines
+ATD5443 +++ avez-vous eu des interruptions de grossesses
+UNK5445 +++ est-ce que la tique était accrochée à une partie de votre corps lorsque vous l'avez découverte
+HDM5447 +++ êtes-vous toujours obligé de vous racler la gorge
+HDM5449 +++ avez-vous des douleurs après la miction
+ATD5451 +++ avez-vous déjà eu des écoulements purulents en urinant
+ATD5453 +++ avez-vous eu une chirurgie de cellules médullaires
+HDM5455 +++ votre dentier vous blesse-t-il
+ATD5457 +++ votre intoxication a-t-elle un retentissement familial et professionnel
+HDM5459 +++ votre oeil bascule-t-il vers votre nez
+HDM5461 +++ est-ce que votre plaie vous empêche de faire certaines choses
+HDM5463 +++ le catalepsie est-elle importante ou discrète
+ATD5465 +++ parlez-moi de vos problèmes de défécation
+ATD5467 +++ quelle est la date de votre implant dentaire
+HDM5469 +++ avez-vous des saignements entre vos règles
+HDM5471 +++ avez-vous un gonflement au niveau d'une articulation
+ATD5473 +++ avez-vous subi une radiothérapie
+HDM5475 +++ avez-vous un engourdissement ou une perte de sensibilité à la jambe
+HDM5477 +++ vous avez une sensation de broiement dans la gorge
+MDV5479 +++ buvez-vous
+HDM5481 +++ est-ce qu'il y avait des vésicules
+MDV5483 +++ est-ce que vous avez un dentier
+HDM5485 +++ est-ce une douleur aiguë
+HDM5487 +++ avez-vous remarqué des traces de sang dans vos crachats
+HDM5489 +++ est-ce une toux sèche
+HDM5491 +++ quel est l' effort maximal auquel vous pouvez consentir avant d'éprouver des difficultés respiratoires
+HDM5493 +++ votre articulation est instable ou stable
+HDM5495 +++ avez-vous des difficultés à marcher
+HDM5497 +++ brûlures
+HDM5499 +++ cela a-t-il été soudain
+UNK5501 +++ avez-vous l'impression qu'une dent dépasse
+HDM5503 +++ est-ce que être accroupi calme la douleur
+HDM5505 +++ avez-vous noté ce qui déclenche les rougissements
+HDM5507 +++ êtes-vous essoufflé allongé
+HDM5509 +++ avez-vous la peau tendue
+HDM5511 +++ cela vous fatigue-t-il de parler
+MDV5513 +++ avez-vous eu des relations sexuelles
+HDM5515 +++ avez-vous des difficultés à vous tenir debout ou à marcher sans aide
+ATD5517 +++ l'une de vos partenaires a-t-elle eu une maladie sexuellement transmissible
+HDM5519 +++ avez-vous un écoulement urétral
+HDM5521 +++ votre douleur s'aggrave lorsque vous marchez
+HDM5523 +++ pouvez-vous me montrer où la sensation de fourmillement se présente
+ATD5525 +++ avez-vous eu une echocardiographie doppler
+HDM5527 +++ ressentez-vous des douleurs hypogastriques semblables sous l' effet de l'enthousiasme ?
+HDM5529 +++ est-ce que vous vomissez délibérément
+ATD5531 +++ portez-vous des bandages
+HDM5533 +++ voyez-vous flou
+HDM5535 +++ quelqu'un vous a dit que vous aviez une baisse de l'audition
+HDM5537 +++ avez-vous mal lors de ces rapports
+HDM5539 +++ êtes-vous gêné par la lumière ou le bruit
+HDM5541 +++ vos pertes vaginales sont-elles rougeâtres
+PSN5543 +++ quel âge avez-vous
+ATD5545 +++ où avez-vous mangé ces dernières jours
+HDM5547 +++ saignez-vous spontanément des gencives
+HDM5549 +++ depuis quand avez-vous affections anatomopathologiques
+ATD5551 +++ est-ce que vous vous êtes déjà perdu au cours d'un trajet habituel
+HDM5553 +++ avez-vous des démangeaisons au niveau des veines des membres inférieurs
+HDM5555 +++ avez-vous des régurgitations
+MDV5557 +++ depuis quand consommez-vous des éléments nutritifs
+ATD5559 +++ avez-vous des problèmes auditifs
+HDM5561 +++ y a-t-il gonflement du mollet
+HDM5563 +++ avez-vous souvent soif
+ATD5565 +++ avez-vous eu une opération du muscle supinateur
+MDV5567 +++ pratiquez-vous la chasse ou le tir
+HDM5569 +++ combien de marches pouvez-vous monter sans être fatigué
+HDM5571 +++ êtes-vous gêné pour avaler
+HDM5573 +++ est-ce un crampe
+HDM5575 +++ quel est votre handicap
+HDM5577 +++ est-ce que cela vous gêne pour manger, parler ou dormir
+HDM5579 +++ arrivez-vous à vider complètement votre vessie
+HDM5581 +++ avez-vous mal à la tête quand vous êtes tendu
+ATD5583 +++ souffrez-vous un problème de digestion
+HDM5585 +++ est-ce que vous avez des poussées
+HDM5587 +++ quel est l'aspect de vos selles
+HDM5589 +++ est-ce que vos troubles de la vision vous empêchent de faire certaines choses
+ATD5591 +++ souffrez-vous une maladie intestinal
+HDM5593 +++ avez-vous une idée de ce qui peut déclencher la plénitude thoracique
+HDM5595 +++ avez-vous un engourdissement ou une perte de sensibilité de la jambe
+ATD5597 +++ avez-vous une allergie aux pollens, aux graminées, aux acariens ou à la poussière
+HDM5599 +++ les maux de tête empirent-ils quand vous vous asseyez
+HDM5601 +++ de quelle consistance sont vos pertes vaginales
+HDM5603 +++ perdez-vous moins de sang ou de la même façon qu'auparavant
+HDM5605 +++ quel est l' effort maximal auquel vous êtes capable de consentir avant d'éprouver des difficultés respiratoires
+HDM5607 +++ avez-vous remarqué un bombement au niveau du nombril
+ATD5609 +++ avez-vous déjà consulté en gastroentérologie
+HDM5611 +++ comment sont les cérumens
+HDM5613 +++ l'absorption de nourriture liquide atténue cette douleur
+HDM5615 +++ êtes-vous essoufflé au repos
+HDM5617 +++ avez-vous un drôle de goût dans la bouche
+HDM5619 +++ avez-vous des difficultés à prononcer les voyelles
+UNK5621 +++ pensez-vous à vous suicider
+MDV5623 +++ vous faites-vous les injections vous-même
+HDM5625 +++ vous pouvez manger
+MTF5627 +++ voulez-vous m'en dire un peu plus à ce sujet
+HDM5629 +++ cet état est-il survenu brusquement ou peu à peu
+HDM5631 +++ depuis quand avez-vous une myocardite
+ATD5633 +++ quand vous étiez enfant, vos deux testicules étaient-ils bien descendus dans les bourses
+UNK5635 +++ vous aviez perdu un ami
+HDM5637 +++ que faisiez-vous au moment où ça s'est produit
+HDM5639 +++ quelle peut être la cause de vos coliques
+HDM5641 +++ est-ce que les douleurs surviennent au repos
+HDM5643 +++ votre appétit a-t-il augmenté
+ATD5645 +++ y a-t-il des antécédents de polypose dans votre famille
+HDM5647 +++ des selles dures
+MDV5649 +++ est-ce que vous avez besoin d'augmenter la consommation du produit pour avoir le même effet
+HDM5651 +++ avez-vous eu des difficultés à vous retenir d'aller à la selle
+HDM5653 +++ souffrez-vous des problèmes d'urine
+HDM5655 +++ combien de fois vous êtes-vous levé chaque nuit pour uriner
+HDM5657 +++ un effort déclenche vos palpitations
+HDM5659 +++ avez-vous remarqué des modifications de votre pilosité faciale
+HDM5661 +++ depuis quand souffrez-vous des problèmes dentales
+HDM5663 +++ est-ce que vous devez forcer pour mictionner
+HDM5665 +++ vos douleurs douleurs surviennent-elles à la pression
+ATD5667 +++ votre partenaire se plaint-il d'une papule
+HDM5669 +++ avez-vous avalé quelque chose qui ait pu se bloquer dans votre gorge
+MDV5671 +++ utilisez-vous des gouttes nasales
+ATD5673 +++ quelqu'un de votre famille est atteint de croup
+HDM5675 +++ avez-vous des difficultés à entendre les sons aigus
+HDM5677 +++ avez-vous parfois des crampes dans les bras
+HDM5679 +++ le passage des aliments vous fait-il tousser ou vous étouffer
+HDM5681 +++ pouviez-vous entendre ce qui se passait autour de vous
+HDM5683 +++ les inflammations vous réveillent-t-elle la nuit
+ATD5685 +++ avez-vous un antécédent rénal
+HDM5687 +++ avez-vous remarqué une douleur ou une grosseur au niveau des seins
+HDM5689 +++ avez-vous une sensation d'urgence
+HDM5691 +++ avez-vous le nez qui coule ou le nez bouché du même côté
+MDV5693 +++ utilisez-vous habituellement du talc
+ATD5695 +++ souffrez-vous des problèmes d'artères
+HDM5697 +++ la dystonies survient-elles quand vous êtes bouleversé
+HDM5699 +++ la mobilisation de l'articulation s'accompagne d'un grincement
+ATD5701 +++ souffrez-vous une maladie gingivale
+HDM5703 +++ pouvez-vous prévoir les douleurs du flanc
+TRT5705 +++ est-ce un oubli de prise de pilule
+MDV5707 +++ est-ce que vous faites des siestes
+HDM5709 +++ vos jambes deviennent-elles rouge foncé lorsqu'elles sont pendantes
+ATD5711 +++ avez-vous subi des violences physiques
+HDM5713 +++ votre toux était-elle productive
+HDM5715 +++ est-ce qu'une compresse froide appliquée sur le front soulage la douleur
+HDM5717 +++ avez-vous parfois l'impression que votre genou se bloque
+ATD5719 +++ avez-vous été confronté à des situations dures ?
+ATD5721 +++ avez-vous des signes avant-coureurs avant la crise
+HDM5723 +++ la diplopie est-elle verticale, horizontale ou oblique
+ATD5725 +++ parlez-moi de votre problème de urine
+MDV5727 +++ est-ce que vous avez déjà pris des drogues par injection
+ATD5729 +++ quelqu'un de votre famille a-t-il déjà eu une grosseur du sein

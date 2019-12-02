@@ -1,0 +1,34 @@
+d16000000 Bonjour 
+p16000000 Bonjour docteur
+d16010041 quel âge avez-vous 
+p16010041 42 ans
+d16000002 Bonjour 
+p16000002 Bonjour docteur
+d16000003 comment ça va pourquoi vous êtes aux urgences 
+p16000003 J'ai mal au ventre
+d16060004 combien de temps 
+p16060004 Je n'ai pas compris
+d16050005 combien de temps est-ce que vous avez mal au ventre 
+p16050005 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d16060006 brutalement 
+p16060006 Je n'ai pas compris
+d16050027 est-ce que la douleur est apparue brutalement 
+p16050027 Oui apparue très fort, là j'ai toujours mal, c'est moins fort
+d16050058 et où ce que c'est exactement 
+p16050058 J'ai mal ici, je crois que c'est l'estomac là?
+d16050059 où est-ce que la douleur est localisée 
+p16050059 J'ai mal ici, je crois que c'est l'estomac là?
+d160500210 ok c'est plutôt à droite ou à gauche 
+p160500210 Seulement sur le côté droit
+d160500111 est-ce que vous avez de la fièvre 
+p160500111 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d160500212 d'accord est-ce que c'est plutôt à droite ou à gauche 
+p160500212 Seulement sur le côté droit
+d160500513 d'accord où avez-vous mal exactement 
+p160500513 J'ai mal au niveau du ventre
+d160600014 ok 
+p160600014 Je n'ai pas compris
+d160600015 fièvre 
+p160600015 Je n'ai pas compris
+d160500116 est-ce que vous avez de la fièvre 
+p160500116 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.

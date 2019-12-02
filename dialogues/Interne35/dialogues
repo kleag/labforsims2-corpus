@@ -1,0 +1,42 @@
+d35000000 Bonjour madame 
+p35000000 Bonjour docteur
+d35000001 qu'est-ce qui vous amène aujourd'hui 
+p35000001 J'ai une forte douleur au ventre
+d35050002 depuis combien de temps avez-vous mal au ventre 
+p35050002 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d35050033 c'est quel type de douleur 
+p35050033 C'est un peu comme un coup de poignard, là.
+d35050024 est-ce que vous avez des douleurs ça irradie 
+p35050024 Et bien la douleur est là et elle va un peu dans le dos et aussi vers l'épaule.
+d35050005 est-ce que c'est douloureux si on touche 
+p35050005 Oui, au début c'était très douloureux et maintenant ça l'est moins, mais la douleur est toujours présente
+d35050026 est-ce que vous avez mal autre part 
+p35050026 Non.
+d35050017 est-ce que vous avez de la fièvre 
+p35050017 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d35020048 vous vivez tout seul 
+p35020048 J’habite en appartement à Gif sur Yvette avec mon mari et mes enfants.
+d35010029 ils vont bien 
+p35010029 oui docteur
+d350100510 vous travaillez 
+p350100510 Je suis enseignante en école maternelle.
+d350400011 est-ce que vous avez des antécédents médicaux 
+p350400011 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d350400012 et rien d'autre comme opération 
+p350400012 rien de particulier docteur
+d350400213 avez-vous été opéré hormis les dents de sagesse 
+p350400213 J'ai eu une césarienne pour un de mes deux enfants.
+d350300014 prenez-vous des médicaments 
+p350300014 Non, je prends pas de médicament. des fois, quand j'ai mal, je prends du paracetamol. Mais sinon, j'ai pas de traitement.
+d350400615 est-ce que vos parents ou votre famille a eu des maladies 
+p350400615 Seul mon père a eu un cancer du côlon à l'âge de 70 ans, et il a fait un infarctus l'année dernière
+d350400616 quel âge avait votre grand-mère au moment de son infarctus 
+p350400616 87 ans
+d350100717 avez-vous des frères et soeur 
+p350100717 non docteur
+d350100718 est-ce que vous avez des frères et soeur 
+p350100718 non docteur
+d350400019 avez-vous déjà eu ce type de douleur auparavant 
+p350400019 Oui, il y a quelques temps, mais c'était moins fort
+d350400020 ça vous est déjà arrivé une autre une fois 
+p350400020 Il y a 2 à 3 mois, j'étais chez ma sœur, j'ai eu un peu la même chose et c'est passé tout seul

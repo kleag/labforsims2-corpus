@@ -1,0 +1,32 @@
+d15000000 Bonjour 
+p15000000 Bonjour docteur
+d15000001 qu'est-ce qui vous amène aux urgences 
+p15000001 J'ai mal au ventre
+d15050002 la douleur a commencé quand 
+p15050002 ça a commencé hier soir, au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d15050033 est-ce que vous pouvez me décrire votre douleur 
+p15050033 Au début c'était très fort et maintenant ça l'est moins, mais la douleur est toujours présente
+d15050024 est-ce qu'elle irradie quelque part 
+p15050024 Au niveau de l'estomac je crois
+d15050015 est-ce que vous avez de la fièvre des frissons 
+p15050015 Je sais pas. Mais je me suis sentie un peu fiévreuse, oui. J'ai pas pris la température, mais je me sentais un peu fiévreuse.
+d15050046 est-ce que vous avez de la nausée est-ce que vous avez vomi 
+p15050046 Non, j'ai pas vomi. Mais c'est vrai que là quand la douleur était très forte, j'avais des nausées. Là, ça va un peu mieux. Mais au début j'avais des nausées.
+d15050047 est-ce que vous avez la diarrhée est-ce que vous êtes constipé 
+p15050047 Non, le transit, c'est normal
+d15050048 est-ce que vous avez de la diarrhée 
+p15050048 Non
+d15040029 est-ce que vous avez déjà été opéré est-ce que vous avez déjà été opéré 
+p15040029 J'ai été opérée des dents de sagesse.
+d150400010 est-ce que vous avez des maladie en particulier 
+p150400010 Non, rien de particulier. J'ai été opérée des dents de sagesse.
+d150100111 êtes-vous marié 
+p150100111 Oui j'ai un mari
+d150100212 avez-vous des enfants 
+p150100212 J'ai 2 enfants
+d150600013 au fumé 
+p150600013 Je n'ai pas compris
+d150200014 est-ce que vous fumez 
+p150200014 Je ne fume pas
+d150500415 sur 10 à combien évaluez-vous la douleur 
+p150500415 Au début c'était très fort. J'ai jamais eu mal comme ça, sauf quand j'ai eu mon accouchement. Donc ça devait être 8 à 9 sur 10. Puis là ça va un petit peu mieux. Donc là c'est plutôt 3 à 4 sur 10.

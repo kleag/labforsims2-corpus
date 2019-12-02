@@ -1,0 +1,16 @@
+d38000000 bonjour   
+p38000000 Bonjour docteur
+d38050001 bonjour depuis quand avez-vous votre douleur   
+p38050001 ça a commencé hier soir, mais la douleur est toujours présente et j'ai de plus en plus mal.
+d38050042 au niveau de l'intensité de la douleur vous auriez à combien   
+p38050042 Là je dirai huit sur dix à nouveau
+d38050053 là où se situe la douleur   
+p38050053 J'ai mal toujours au même endroit, je crois que c'est l'estomac
+d38030004 est-ce que vous avez pris des médicaments   
+p38030004 Oui justement. Parce que ça me faisait tellement mal que j'arrivais pas à dormir donc j'ai pris 2 Doliprane. Et bon là, la douleur est toujours présente, mais ça va un peu mieux quand même.
+d38050045 est-ce que vous avez eu des vomissements   
+p38050045 Oui tout à l'heure
+d38050046 et la couleur jaune de votre peau elle est arrivée quand   
+p38050046 Je n'ai pas fait attention à la couleur
+d38050047 de quelle couleur sont vos urines   
+p38050047 Oui justement c'est bizarre, elles sont très foncées
